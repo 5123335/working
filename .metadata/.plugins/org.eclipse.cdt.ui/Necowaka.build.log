@@ -1,7 +1,7 @@
-17:14:45 **** Incremental Build of configuration Debug for project Necowaka ****
+16:11:14 **** Incremental Build of configuration Debug for project Necowaka ****
 Info: Internal Builder is used for build
-gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p18.o" "..\\src\\p18.c" 
-g++ -o Necowaka.exe "src\\p18.o" -lgdi32 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -finput-charset=cp932 -fexec-charset=cp932 -o "src\\p58textanimation01.o" "..\\src\\p58textanimation01.cpp" 
+g++ -o Necowaka.exe "src\\p58textanimation01.o" "src\\p31text01.o" "src\\p18.o" -lgdi32 
 
-17:14:46 Build Finished (took 546ms)
+16:11:15 Build Finished (took 827ms)
 
