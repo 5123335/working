@@ -2007,3 +2007,1713 @@ g++ -o Necowaka.exe "src\\p58textanimation01.o" "src\\p31text01.o" "src\\p18.o" 
 Info: Internal Builder is used for build
 g++ -O0 -g3 -Wall -c -fmessage-length=0 -finput-charset=cp932 -fexec-charset=cp932 -o "src\\p58textanimation01.o" "..\\src\\p58textanimation01.cpp" 
 g++ -o Necowaka.exe "src\\p58textanimation01.o" "src\\p31text01.o" "src\\p18.o" -lgdi32 
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+16:39:14 **** Incremental Build of configuration Debug for project Necowaka ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -finput-charset=cp932 -fexec-charset=cp932 -o "src\\p58textanimation01.o" "..\\src\\p58textanimation01.cpp" 
+g++ -o Necowaka.exe "src\\p58textanimation01.o" "src\\p31text01.o" "src\\p18.o" -lgdi32 
+16:39:16 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 --input-charset=cp932 --exec-charset=cp932 -o "src\\sekainohajimari.o" "..\\src\\sekainohajimari.cpp" 
+In file included from ..\src\sekainohajimari.cpp:8:0:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:137:19: エラー: cp932 から UTF-8 への変換に失敗しました
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:138:0,
+                 from ..\src\sekainohajimari.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:38:19: エラー: cp932 から UTF-8 への変換に失敗しました
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:138:0,
+                 from ..\src\sekainohajimari.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:225:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:226:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:227:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:228:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:229:1: エラー: 'GLAPI' does not name a type
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:138:0,
+                 from ..\src\sekainohajimari.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:230:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:231:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:232:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:233:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:234:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:235:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:236:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:237:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:238:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:239:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:240:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:241:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:242:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:243:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:244:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:245:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:246:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:247:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:248:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:249:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:250:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:251:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:252:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:253:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:254:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:255:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:256:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:257:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:258:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:259:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:260:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:261:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:262:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:263:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:264:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:265:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:266:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:267:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:268:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:269:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:270:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:271:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:272:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:273:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:274:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:275:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:276:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:277:1: エラー: 'GLAPI' does not name a type
+In file included from ..\src\sekainohajimari.cpp:8:0:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:535:36: エラー: 変数またはフィールド 'glutUseLayer' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:535:36: エラー: 'GLenum' was not declared in this scope
+In file included from ..\src\sekainohajimari.cpp:8:0:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:600:41: エラー: 'GLfloat' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:600:54: エラー: 'GLfloat' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:600:69: エラー: 'GLfloat' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:601:9: エラー: 'GLfloat' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:605:30: エラー: 'GLenum' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:606:36: エラー: 'GLenum' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:613:35: エラー: 'GLenum' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:627:38: エラー: 変数またはフィールド 'glutWireSphere' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:627:38: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:627:55: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:627:69: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:628:39: エラー: 変数またはフィールド 'glutSolidSphere' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:628:39: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:628:56: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:628:70: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:629:36: エラー: 変数またはフィールド 'glutWireCone' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:629:36: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:629:51: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:629:68: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:629:82: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:630:37: エラー: 変数またはフィールド 'glutSolidCone' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:630:37: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:630:52: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:630:69: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:630:83: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:631:36: エラー: 変数またはフィールド 'glutWireCube' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:631:36: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:632:37: エラー: 変数またはフィールド 'glutSolidCube' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:632:37: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:633:37: エラー: 変数またはフィールド 'glutWireTorus' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:633:37: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:633:59: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:633:81: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:633:94: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:634:38: エラー: 変数またはフィールド 'glutSolidTorus' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:634:38: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:634:60: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:634:82: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:634:95: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:637:38: エラー: 変数またはフィールド 'glutWireTeapot' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:637:38: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:638:39: エラー: 変数またはフィールド 'glutSolidTeapot' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:638:39: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:648:41: エラー: 'GLenum' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:688:38: エラー: 'GLenum' was not declared in this scope
+..\src\sekainohajimari.cpp:19:1: エラー: expected ',' or ';' before 'void'
+..\src\sekainohajimari.cpp: 関数 'int main(int, char**)' 内:
+..\src\sekainohajimari.cpp:31:14: エラー: 'Initialize' was not declared in this scope
+..\src\sekainohajimari.cpp: 関数 'void Initialize()' 内:
+..\src\sekainohajimari.cpp:39:34: エラー: 'glClearColor' was not declared in this scope
+..\src\sekainohajimari.cpp:40:12: エラー: 'GL_DEPTH_TEST' was not declared in this scope
+..\src\sekainohajimari.cpp:40:25: エラー: 'glEnable' was not declared in this scope
+..\src\sekainohajimari.cpp: 関数 'void Display()' 内:
+..\src\sekainohajimari.cpp:46:11: エラー: 'GL_COLOR_BUFFER_BIT' was not declared in this scope
+..\src\sekainohajimari.cpp:46:33: エラー: 'GL_DEPTH_BUFFER_BIT' was not declared in this scope
+..\src\sekainohajimari.cpp:46:52: エラー: 'glClear' was not declared in this scope
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+16:39:37 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 --input-charset=cp932 --exec-charset=cp932 -o "src\\sekainohajimari.o" "..\\src\\sekainohajimari.cpp" 
+In file included from ..\src\sekainohajimari.cpp:8:0:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:137:19: エラー: cp932 から UTF-8 への変換に失敗しました
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:138:0,
+                 from ..\src\sekainohajimari.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:38:19: エラー: cp932 から UTF-8 への変換に失敗しました
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:138:0,
+                 from ..\src\sekainohajimari.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:225:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:226:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:227:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:228:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:229:1: エラー: 'GLAPI' does not name a type
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:138:0,
+                 from ..\src\sekainohajimari.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:230:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:231:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:232:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:233:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:234:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:235:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:236:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:237:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:238:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:239:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:240:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:241:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:242:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:243:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:244:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:245:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:246:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:247:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:248:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:249:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:250:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:251:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:252:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:253:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:254:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:255:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:256:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:257:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:258:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:259:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:260:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:261:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:262:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:263:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:264:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:265:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:266:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:267:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:268:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:269:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:270:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:271:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:272:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:273:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:274:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:275:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:276:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:277:1: エラー: 'GLAPI' does not name a type
+In file included from ..\src\sekainohajimari.cpp:8:0:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:535:36: エラー: 変数またはフィールド 'glutUseLayer' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:535:36: エラー: 'GLenum' was not declared in this scope
+In file included from ..\src\sekainohajimari.cpp:8:0:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:600:41: エラー: 'GLfloat' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:600:54: エラー: 'GLfloat' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:600:69: エラー: 'GLfloat' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:601:9: エラー: 'GLfloat' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:605:30: エラー: 'GLenum' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:606:36: エラー: 'GLenum' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:613:35: エラー: 'GLenum' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:627:38: エラー: 変数またはフィールド 'glutWireSphere' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:627:38: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:627:55: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:627:69: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:628:39: エラー: 変数またはフィールド 'glutSolidSphere' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:628:39: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:628:56: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:628:70: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:629:36: エラー: 変数またはフィールド 'glutWireCone' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:629:36: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:629:51: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:629:68: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:629:82: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:630:37: エラー: 変数またはフィールド 'glutSolidCone' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:630:37: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:630:52: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:630:69: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:630:83: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:631:36: エラー: 変数またはフィールド 'glutWireCube' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:631:36: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:632:37: エラー: 変数またはフィールド 'glutSolidCube' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:632:37: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:633:37: エラー: 変数またはフィールド 'glutWireTorus' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:633:37: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:633:59: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:633:81: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:633:94: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:634:38: エラー: 変数またはフィールド 'glutSolidTorus' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:634:38: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:634:60: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:634:82: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:634:95: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:637:38: エラー: 変数またはフィールド 'glutWireTeapot' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:637:38: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:638:39: エラー: 変数またはフィールド 'glutSolidTeapot' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:638:39: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:648:41: エラー: 'GLenum' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:688:38: エラー: 'GLenum' was not declared in this scope
+..\src\sekainohajimari.cpp: 関数 'void Initialize()' 内:
+..\src\sekainohajimari.cpp:39:34: エラー: 'glClearColor' was not declared in this scope
+..\src\sekainohajimari.cpp:40:12: エラー: 'GL_DEPTH_TEST' was not declared in this scope
+..\src\sekainohajimari.cpp:40:25: エラー: 'glEnable' was not declared in this scope
+..\src\sekainohajimari.cpp: 関数 'void Display()' 内:
+..\src\sekainohajimari.cpp:46:11: エラー: 'GL_COLOR_BUFFER_BIT' was not declared in this scope
+..\src\sekainohajimari.cpp:46:33: エラー: 'GL_DEPTH_BUFFER_BIT' was not declared in this scope
+..\src\sekainohajimari.cpp:46:52: エラー: 'glClear' was not declared in this scope
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+16:41:18 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 --input-charset=cp932 --exec-charset=cp932 -o "src\\sekainohajimari.o" "..\\src\\sekainohajimari.cpp" 
+In file included from ..\src\sekainohajimari.cpp:8:0:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:137:19: エラー: cp932 から UTF-8 への変換に失敗しました
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:138:0,
+                 from ..\src\sekainohajimari.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:38:19: エラー: cp932 から UTF-8 への変換に失敗しました
+..\src\sekainohajimari.cpp:9:19: エラー: cp932 から UTF-8 への変換に失敗しました
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:138:0,
+                 from ..\src\sekainohajimari.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:225:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:226:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:227:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:228:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:229:1: エラー: 'GLAPI' does not name a type
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:138:0,
+                 from ..\src\sekainohajimari.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:230:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:231:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:232:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:233:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:234:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:235:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:236:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:237:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:238:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:239:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:240:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:241:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:242:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:243:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:244:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:245:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:246:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:247:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:248:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:249:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:250:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:251:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:252:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:253:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:254:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:255:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:256:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:257:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:258:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:259:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:260:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:261:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:262:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:263:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:264:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:265:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:266:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:267:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:268:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:269:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:270:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:271:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:272:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:273:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:274:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:275:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:276:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:277:1: エラー: 'GLAPI' does not name a type
+In file included from ..\src\sekainohajimari.cpp:8:0:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:535:36: エラー: 変数またはフィールド 'glutUseLayer' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:535:36: エラー: 'GLenum' was not declared in this scope
+In file included from ..\src\sekainohajimari.cpp:8:0:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:600:41: エラー: 'GLfloat' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:600:54: エラー: 'GLfloat' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:600:69: エラー: 'GLfloat' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:601:9: エラー: 'GLfloat' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:605:30: エラー: 'GLenum' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:606:36: エラー: 'GLenum' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:613:35: エラー: 'GLenum' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:627:38: エラー: 変数またはフィールド 'glutWireSphere' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:627:38: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:627:55: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:627:69: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:628:39: エラー: 変数またはフィールド 'glutSolidSphere' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:628:39: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:628:56: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:628:70: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:629:36: エラー: 変数またはフィールド 'glutWireCone' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:629:36: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:629:51: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:629:68: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:629:82: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:630:37: エラー: 変数またはフィールド 'glutSolidCone' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:630:37: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:630:52: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:630:69: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:630:83: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:631:36: エラー: 変数またはフィールド 'glutWireCube' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:631:36: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:632:37: エラー: 変数またはフィールド 'glutSolidCube' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:632:37: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:633:37: エラー: 変数またはフィールド 'glutWireTorus' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:633:37: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:633:59: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:633:81: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:633:94: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:634:38: エラー: 変数またはフィールド 'glutSolidTorus' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:634:38: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:634:60: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:634:82: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:634:95: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:637:38: エラー: 変数またはフィールド 'glutWireTeapot' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:637:38: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:638:39: エラー: 変数またはフィールド 'glutSolidTeapot' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:638:39: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:648:41: エラー: 'GLenum' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:688:38: エラー: 'GLenum' was not declared in this scope
+..\src\sekainohajimari.cpp: 関数 'void Initialize()' 内:
+..\src\sekainohajimari.cpp:40:34: エラー: 'glClearColor' was not declared in this scope
+..\src\sekainohajimari.cpp:41:12: エラー: 'GL_DEPTH_TEST' was not declared in this scope
+..\src\sekainohajimari.cpp:41:25: エラー: 'glEnable' was not declared in this scope
+..\src\sekainohajimari.cpp: 関数 'void Display()' 内:
+..\src\sekainohajimari.cpp:47:11: エラー: 'GL_COLOR_BUFFER_BIT' was not declared in this scope
+..\src\sekainohajimari.cpp:47:33: エラー: 'GL_DEPTH_BUFFER_BIT' was not declared in this scope
+..\src\sekainohajimari.cpp:47:52: エラー: 'glClear' was not declared in this scope
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+16:42:16 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 --input-charset=cp932 --exec-charset=cp932 -o "src\\sekainohajimari.o" "..\\src\\sekainohajimari.cpp" 
+..\src\sekainohajimari.cpp:8:19: エラー: cp932 から UTF-8 への変換に失敗しました
+In file included from ..\src\sekainohajimari.cpp:9:0:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:137:19: エラー: cp932 から UTF-8 への変換に失敗しました
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:138:0,
+                 from ..\src\sekainohajimari.cpp:9:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:38:19: エラー: cp932 から UTF-8 への変換に失敗しました
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:138:0,
+                 from ..\src\sekainohajimari.cpp:9:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:225:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:226:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:227:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:228:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:229:1: エラー: 'GLAPI' does not name a type
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:138:0,
+                 from ..\src\sekainohajimari.cpp:9:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:230:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:231:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:232:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:233:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:234:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:235:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:236:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:237:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:238:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:239:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:240:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:241:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:242:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:243:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:244:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:245:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:246:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:247:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:248:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:249:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:250:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:251:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:252:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:253:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:254:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:255:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:256:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:257:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:258:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:259:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:260:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:261:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:262:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:263:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:264:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:265:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:266:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:267:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:268:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:269:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:270:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:271:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:272:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:273:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:274:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:275:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:276:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:277:1: エラー: 'GLAPI' does not name a type
+In file included from ..\src\sekainohajimari.cpp:9:0:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:535:36: エラー: 変数またはフィールド 'glutUseLayer' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:535:36: エラー: 'GLenum' was not declared in this scope
+In file included from ..\src\sekainohajimari.cpp:9:0:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:600:41: エラー: 'GLfloat' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:600:54: エラー: 'GLfloat' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:600:69: エラー: 'GLfloat' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:601:9: エラー: 'GLfloat' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:605:30: エラー: 'GLenum' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:606:36: エラー: 'GLenum' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:613:35: エラー: 'GLenum' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:627:38: エラー: 変数またはフィールド 'glutWireSphere' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:627:38: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:627:55: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:627:69: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:628:39: エラー: 変数またはフィールド 'glutSolidSphere' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:628:39: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:628:56: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:628:70: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:629:36: エラー: 変数またはフィールド 'glutWireCone' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:629:36: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:629:51: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:629:68: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:629:82: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:630:37: エラー: 変数またはフィールド 'glutSolidCone' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:630:37: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:630:52: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:630:69: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:630:83: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:631:36: エラー: 変数またはフィールド 'glutWireCube' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:631:36: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:632:37: エラー: 変数またはフィールド 'glutSolidCube' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:632:37: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:633:37: エラー: 変数またはフィールド 'glutWireTorus' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:633:37: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:633:59: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:633:81: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:633:94: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:634:38: エラー: 変数またはフィールド 'glutSolidTorus' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:634:38: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:634:60: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:634:82: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:634:95: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:637:38: エラー: 変数またはフィールド 'glutWireTeapot' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:637:38: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:638:39: エラー: 変数またはフィールド 'glutSolidTeapot' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:638:39: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:648:41: エラー: 'GLenum' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:688:38: エラー: 'GLenum' was not declared in this scope
+..\src\sekainohajimari.cpp: 関数 'void Initialize()' 内:
+..\src\sekainohajimari.cpp:40:34: エラー: 'glClearColor' was not declared in this scope
+..\src\sekainohajimari.cpp:41:12: エラー: 'GL_DEPTH_TEST' was not declared in this scope
+..\src\sekainohajimari.cpp:41:25: エラー: 'glEnable' was not declared in this scope
+..\src\sekainohajimari.cpp: 関数 'void Display()' 内:
+..\src\sekainohajimari.cpp:47:11: エラー: 'GL_COLOR_BUFFER_BIT' was not declared in this scope
+..\src\sekainohajimari.cpp:47:33: エラー: 'GL_DEPTH_BUFFER_BIT' was not declared in this scope
+..\src\sekainohajimari.cpp:47:52: エラー: 'glClear' was not declared in this scope
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+16:53:09 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 --input-charset=cp932 --exec-charset=cp932 -o "src\\sekainohajimari.o" "..\\src\\sekainohajimari.cpp" 
+..\src\sekainohajimari.cpp:8:19: エラー: cp932 から UTF-8 への変換に失敗しました
+In file included from ..\src\sekainohajimari.cpp:9:0:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:137:19: エラー: cp932 から UTF-8 への変換に失敗しました
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:138:0,
+                 from ..\src\sekainohajimari.cpp:9:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:38:19: エラー: cp932 から UTF-8 への変換に失敗しました
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:138:0,
+                 from ..\src\sekainohajimari.cpp:9:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:225:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:226:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:227:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:228:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:229:1: エラー: 'GLAPI' does not name a type
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:138:0,
+                 from ..\src\sekainohajimari.cpp:9:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:230:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:231:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:232:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:233:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:234:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:235:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:236:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:237:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:238:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:239:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:240:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:241:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:242:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:243:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:244:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:245:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:246:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:247:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:248:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:249:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:250:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:251:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:252:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:253:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:254:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:255:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:256:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:257:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:258:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:259:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:260:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:261:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:262:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:263:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:264:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:265:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:266:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:267:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:268:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:269:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:270:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:271:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:272:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:273:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:274:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:275:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:276:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:277:1: エラー: 'GLAPI' does not name a type
+In file included from ..\src\sekainohajimari.cpp:9:0:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:535:36: エラー: 変数またはフィールド 'glutUseLayer' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:535:36: エラー: 'GLenum' was not declared in this scope
+In file included from ..\src\sekainohajimari.cpp:9:0:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:600:41: エラー: 'GLfloat' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:600:54: エラー: 'GLfloat' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:600:69: エラー: 'GLfloat' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:601:9: エラー: 'GLfloat' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:605:30: エラー: 'GLenum' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:606:36: エラー: 'GLenum' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:613:35: エラー: 'GLenum' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:627:38: エラー: 変数またはフィールド 'glutWireSphere' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:627:38: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:627:55: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:627:69: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:628:39: エラー: 変数またはフィールド 'glutSolidSphere' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:628:39: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:628:56: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:628:70: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:629:36: エラー: 変数またはフィールド 'glutWireCone' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:629:36: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:629:51: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:629:68: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:629:82: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:630:37: エラー: 変数またはフィールド 'glutSolidCone' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:630:37: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:630:52: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:630:69: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:630:83: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:631:36: エラー: 変数またはフィールド 'glutWireCube' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:631:36: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:632:37: エラー: 変数またはフィールド 'glutSolidCube' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:632:37: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:633:37: エラー: 変数またはフィールド 'glutWireTorus' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:633:37: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:633:59: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:633:81: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:633:94: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:634:38: エラー: 変数またはフィールド 'glutSolidTorus' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:634:38: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:634:60: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:634:82: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:634:95: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:637:38: エラー: 変数またはフィールド 'glutWireTeapot' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:637:38: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:638:39: エラー: 変数またはフィールド 'glutSolidTeapot' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:638:39: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:648:41: エラー: 'GLenum' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:688:38: エラー: 'GLenum' was not declared in this scope
+..\src\sekainohajimari.cpp: 関数 'void Initialize()' 内:
+..\src\sekainohajimari.cpp:40:34: エラー: 'glClearColor' was not declared in this scope
+..\src\sekainohajimari.cpp:41:12: エラー: 'GL_DEPTH_TEST' was not declared in this scope
+..\src\sekainohajimari.cpp:41:25: エラー: 'glEnable' was not declared in this scope
+..\src\sekainohajimari.cpp: 関数 'void Display()' 内:
+..\src\sekainohajimari.cpp:47:11: エラー: 'GL_COLOR_BUFFER_BIT' was not declared in this scope
+..\src\sekainohajimari.cpp:47:33: エラー: 'GL_DEPTH_BUFFER_BIT' was not declared in this scope
+..\src\sekainohajimari.cpp:47:52: エラー: 'glClear' was not declared in this scope
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+16:53:53 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 --finput-charset=cp932 --fexec-charset=cp932 -o "src\\sekainohajimari.o" "..\\src\\sekainohajimari.cpp" 
+g++: エラー: 認識できないコマンドラインオプション '--finput-charset=cp932' です
+g++: エラー: 認識できないコマンドラインオプション '--fexec-charset=cp932' です
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+16:54:02 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 --finput-charset=cp932 --fexec-charset=cp932 -o "src\\sekainohajimari.o" "..\\src\\sekainohajimari.cpp" 
+g++: エラー: 認識できないコマンドラインオプション '--finput-charset=cp932' です
+g++: エラー: 認識できないコマンドラインオプション '--fexec-charset=cp932' です
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+16:55:18 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 --finput-charset=cp932 --fexec-charset=cp932 -o "src\\sekainohajimari.o" "..\\src\\sekainohajimari.cpp" 
+g++: エラー: 認識できないコマンドラインオプション '--finput-charset=cp932' です
+g++: エラー: 認識できないコマンドラインオプション '--fexec-charset=cp932' です
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+16:55:42 **** Incremental Build of configuration Debug for project Necowaka ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p58textanimation01.o" "..\\src\\p58textanimation01.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p31text01.o" "..\\src\\p31text01.cpp" 
+g++ -o Necowaka.exe "src\\p58textanimation01.o" "src\\p31text01.o" "src\\p18.o" -lgdi32 
+16:55:45 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 --finput-charset=cp932 --fexec-charset=cp932 -o "src\\sekainohajimari.o" "..\\src\\sekainohajimari.cpp" 
+g++: エラー: 認識できないコマンドラインオプション '--finput-charset=cp932' です
+g++: エラー: 認識できないコマンドラインオプション '--fexec-charset=cp932' です
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+16:56:12 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -finput-charset=cp932 -fexec-charset=cp932 -o "src\\sekainohajimari.o" "..\\src\\sekainohajimari.cpp" 
+..\src\sekainohajimari.cpp:8:19: エラー: cp932 から UTF-8 への変換に失敗しました
+In file included from ..\src\sekainohajimari.cpp:9:0:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:137:19: エラー: cp932 から UTF-8 への変換に失敗しました
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:138:0,
+                 from ..\src\sekainohajimari.cpp:9:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:38:19: エラー: cp932 から UTF-8 への変換に失敗しました
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:138:0,
+                 from ..\src\sekainohajimari.cpp:9:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:225:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:226:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:227:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:228:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:229:1: エラー: 'GLAPI' does not name a type
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:138:0,
+                 from ..\src\sekainohajimari.cpp:9:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:230:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:231:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:232:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:233:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:234:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:235:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:236:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:237:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:238:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:239:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:240:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:241:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:242:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:243:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:244:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:245:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:246:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:247:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:248:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:249:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:250:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:251:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:252:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:253:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:254:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:255:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:256:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:257:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:258:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:259:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:260:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:261:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:262:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:263:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:264:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:265:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:266:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:267:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:268:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:269:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:270:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:271:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:272:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:273:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:274:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:275:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:276:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:277:1: エラー: 'GLAPI' does not name a type
+In file included from ..\src\sekainohajimari.cpp:9:0:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:535:36: エラー: 変数またはフィールド 'glutUseLayer' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:535:36: エラー: 'GLenum' was not declared in this scope
+In file included from ..\src\sekainohajimari.cpp:9:0:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:600:41: エラー: 'GLfloat' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:600:54: エラー: 'GLfloat' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:600:69: エラー: 'GLfloat' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:601:9: エラー: 'GLfloat' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:605:30: エラー: 'GLenum' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:606:36: エラー: 'GLenum' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:613:35: エラー: 'GLenum' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:627:38: エラー: 変数またはフィールド 'glutWireSphere' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:627:38: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:627:55: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:627:69: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:628:39: エラー: 変数またはフィールド 'glutSolidSphere' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:628:39: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:628:56: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:628:70: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:629:36: エラー: 変数またはフィールド 'glutWireCone' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:629:36: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:629:51: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:629:68: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:629:82: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:630:37: エラー: 変数またはフィールド 'glutSolidCone' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:630:37: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:630:52: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:630:69: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:630:83: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:631:36: エラー: 変数またはフィールド 'glutWireCube' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:631:36: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:632:37: エラー: 変数またはフィールド 'glutSolidCube' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:632:37: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:633:37: エラー: 変数またはフィールド 'glutWireTorus' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:633:37: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:633:59: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:633:81: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:633:94: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:634:38: エラー: 変数またはフィールド 'glutSolidTorus' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:634:38: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:634:60: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:634:82: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:634:95: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:637:38: エラー: 変数またはフィールド 'glutWireTeapot' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:637:38: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:638:39: エラー: 変数またはフィールド 'glutSolidTeapot' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:638:39: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:648:41: エラー: 'GLenum' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:688:38: エラー: 'GLenum' was not declared in this scope
+..\src\sekainohajimari.cpp: 関数 'void Initialize()' 内:
+..\src\sekainohajimari.cpp:40:34: エラー: 'glClearColor' was not declared in this scope
+..\src\sekainohajimari.cpp:41:12: エラー: 'GL_DEPTH_TEST' was not declared in this scope
+..\src\sekainohajimari.cpp:41:25: エラー: 'glEnable' was not declared in this scope
+..\src\sekainohajimari.cpp: 関数 'void Display()' 内:
+..\src\sekainohajimari.cpp:47:11: エラー: 'GL_COLOR_BUFFER_BIT' was not declared in this scope
+..\src\sekainohajimari.cpp:47:33: エラー: 'GL_DEPTH_BUFFER_BIT' was not declared in this scope
+..\src\sekainohajimari.cpp:47:52: エラー: 'glClear' was not declared in this scope
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+16:56:41 **** Incremental Build of configuration Debug for project Necowaka ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -finput-charset=cp932 -fexec-charset=cp932 -o "src\\p31text01.o" "..\\src\\p31text01.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -finput-charset=cp932 -fexec-charset=cp932 -o "src\\p58textanimation01.o" "..\\src\\p58textanimation01.cpp" 
+g++ -o Necowaka.exe "src\\p58textanimation01.o" "src\\p31text01.o" "src\\p18.o" -lgdi32 
+16:56:42 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -finput-charset=cp932 -fexec-charset=cp932 -o "src\\sekainohajimari.o" "..\\src\\sekainohajimari.cpp" 
+g++ -o Open.exe "src\\sekainohajimari.o" 
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../libmingw32.a(main.o):main.c:(.text.startup+0xa7): undefined reference to `WinMain@16'
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+16:57:08 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -finput-charset=cp932 -fexec-charset=cp932 -o "src\\sekainohajimari.o" "..\\src\\sekainohajimari.cpp" 
+..\src\sekainohajimari.cpp:8:19: エラー: cp932 から UTF-8 への変換に失敗しました
+In file included from ..\src\sekainohajimari.cpp:9:0:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:137:19: エラー: cp932 から UTF-8 への変換に失敗しました
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:138:0,
+                 from ..\src\sekainohajimari.cpp:9:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:38:19: エラー: cp932 から UTF-8 への変換に失敗しました
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:138:0,
+                 from ..\src\sekainohajimari.cpp:9:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:225:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:226:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:227:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:228:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:229:1: エラー: 'GLAPI' does not name a type
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:138:0,
+                 from ..\src\sekainohajimari.cpp:9:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:230:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:231:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:232:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:233:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:234:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:235:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:236:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:237:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:238:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:239:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:240:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:241:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:242:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:243:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:244:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:245:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:246:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:247:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:248:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:249:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:250:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:251:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:252:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:253:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:254:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:255:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:256:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:257:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:258:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:259:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:260:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:261:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:262:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:263:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:264:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:265:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:266:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:267:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:268:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:269:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:270:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:271:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:272:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:273:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:274:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:275:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:276:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:277:1: エラー: 'GLAPI' does not name a type
+In file included from ..\src\sekainohajimari.cpp:9:0:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:535:36: エラー: 変数またはフィールド 'glutUseLayer' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:535:36: エラー: 'GLenum' was not declared in this scope
+In file included from ..\src\sekainohajimari.cpp:9:0:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:600:41: エラー: 'GLfloat' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:600:54: エラー: 'GLfloat' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:600:69: エラー: 'GLfloat' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:601:9: エラー: 'GLfloat' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:605:30: エラー: 'GLenum' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:606:36: エラー: 'GLenum' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:613:35: エラー: 'GLenum' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:627:38: エラー: 変数またはフィールド 'glutWireSphere' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:627:38: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:627:55: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:627:69: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:628:39: エラー: 変数またはフィールド 'glutSolidSphere' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:628:39: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:628:56: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:628:70: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:629:36: エラー: 変数またはフィールド 'glutWireCone' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:629:36: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:629:51: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:629:68: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:629:82: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:630:37: エラー: 変数またはフィールド 'glutSolidCone' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:630:37: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:630:52: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:630:69: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:630:83: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:631:36: エラー: 変数またはフィールド 'glutWireCube' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:631:36: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:632:37: エラー: 変数またはフィールド 'glutSolidCube' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:632:37: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:633:37: エラー: 変数またはフィールド 'glutWireTorus' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:633:37: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:633:59: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:633:81: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:633:94: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:634:38: エラー: 変数またはフィールド 'glutSolidTorus' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:634:38: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:634:60: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:634:82: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:634:95: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:637:38: エラー: 変数またはフィールド 'glutWireTeapot' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:637:38: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:638:39: エラー: 変数またはフィールド 'glutSolidTeapot' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:638:39: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:648:41: エラー: 'GLenum' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:688:38: エラー: 'GLenum' was not declared in this scope
+..\src\sekainohajimari.cpp: 関数 'void Initialize()' 内:
+..\src\sekainohajimari.cpp:40:34: エラー: 'glClearColor' was not declared in this scope
+..\src\sekainohajimari.cpp:41:12: エラー: 'GL_DEPTH_TEST' was not declared in this scope
+..\src\sekainohajimari.cpp:41:25: エラー: 'glEnable' was not declared in this scope
+..\src\sekainohajimari.cpp: 関数 'void Display()' 内:
+..\src\sekainohajimari.cpp:47:11: エラー: 'GL_COLOR_BUFFER_BIT' was not declared in this scope
+..\src\sekainohajimari.cpp:47:33: エラー: 'GL_DEPTH_BUFFER_BIT' was not declared in this scope
+..\src\sekainohajimari.cpp:47:52: エラー: 'glClear' was not declared in this scope
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+16:57:24 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -finput-charset=cp932 -fexec-charset=cp932 -o "src\\sekainohajimari.o" "..\\src\\sekainohajimari.cpp" 
+In file included from ..\src\sekainohajimari.cpp:9:0:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:137:19: エラー: cp932 から UTF-8 への変換に失敗しました
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:138:0,
+                 from ..\src\sekainohajimari.cpp:9:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:38:19: エラー: cp932 から UTF-8 への変換に失敗しました
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:138:0,
+                 from ..\src\sekainohajimari.cpp:9:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:225:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:226:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:227:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:228:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:229:1: エラー: 'GLAPI' does not name a type
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:138:0,
+                 from ..\src\sekainohajimari.cpp:9:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:230:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:231:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:232:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:233:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:234:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:235:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:236:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:237:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:238:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:239:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:240:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:241:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:242:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:243:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:244:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:245:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:246:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:247:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:248:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:249:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:250:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:251:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:252:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:253:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:254:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:255:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:256:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:257:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:258:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:259:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:260:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:261:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:262:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:263:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:264:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:265:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:266:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:267:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:268:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:269:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:270:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:271:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:272:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:273:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:274:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:275:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:276:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:277:1: エラー: 'GLAPI' does not name a type
+In file included from ..\src\sekainohajimari.cpp:9:0:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:535:36: エラー: 変数またはフィールド 'glutUseLayer' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:535:36: エラー: 'GLenum' was not declared in this scope
+In file included from ..\src\sekainohajimari.cpp:9:0:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:600:41: エラー: 'GLfloat' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:600:54: エラー: 'GLfloat' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:600:69: エラー: 'GLfloat' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:601:9: エラー: 'GLfloat' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:605:30: エラー: 'GLenum' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:606:36: エラー: 'GLenum' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:613:35: エラー: 'GLenum' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:627:38: エラー: 変数またはフィールド 'glutWireSphere' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:627:38: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:627:55: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:627:69: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:628:39: エラー: 変数またはフィールド 'glutSolidSphere' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:628:39: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:628:56: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:628:70: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:629:36: エラー: 変数またはフィールド 'glutWireCone' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:629:36: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:629:51: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:629:68: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:629:82: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:630:37: エラー: 変数またはフィールド 'glutSolidCone' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:630:37: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:630:52: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:630:69: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:630:83: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:631:36: エラー: 変数またはフィールド 'glutWireCube' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:631:36: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:632:37: エラー: 変数またはフィールド 'glutSolidCube' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:632:37: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:633:37: エラー: 変数またはフィールド 'glutWireTorus' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:633:37: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:633:59: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:633:81: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:633:94: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:634:38: エラー: 変数またはフィールド 'glutSolidTorus' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:634:38: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:634:60: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:634:82: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:634:95: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:637:38: エラー: 変数またはフィールド 'glutWireTeapot' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:637:38: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:638:39: エラー: 変数またはフィールド 'glutSolidTeapot' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:638:39: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:648:41: エラー: 'GLenum' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:688:38: エラー: 'GLenum' was not declared in this scope
+..\src\sekainohajimari.cpp: 関数 'void Initialize()' 内:
+..\src\sekainohajimari.cpp:40:34: エラー: 'glClearColor' was not declared in this scope
+..\src\sekainohajimari.cpp:41:12: エラー: 'GL_DEPTH_TEST' was not declared in this scope
+..\src\sekainohajimari.cpp:41:25: エラー: 'glEnable' was not declared in this scope
+..\src\sekainohajimari.cpp: 関数 'void Display()' 内:
+..\src\sekainohajimari.cpp:47:11: エラー: 'GL_COLOR_BUFFER_BIT' was not declared in this scope
+..\src\sekainohajimari.cpp:47:33: エラー: 'GL_DEPTH_BUFFER_BIT' was not declared in this scope
+..\src\sekainohajimari.cpp:47:52: エラー: 'glClear' was not declared in this scope
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+16:57:36 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -finput-charset=cp932 -fexec-charset=cp932 -o "src\\sekainohajimari.o" "..\\src\\sekainohajimari.cpp" 
+In file included from ..\src\sekainohajimari.cpp:9:0:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:137:19: エラー: cp932 から UTF-8 への変換に失敗しました
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:138:0,
+                 from ..\src\sekainohajimari.cpp:9:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:38:19: エラー: cp932 から UTF-8 への変換に失敗しました
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:138:0,
+                 from ..\src\sekainohajimari.cpp:9:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:225:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:226:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:227:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:228:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:229:1: エラー: 'GLAPI' does not name a type
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:138:0,
+                 from ..\src\sekainohajimari.cpp:9:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:230:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:231:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:232:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:233:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:234:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:235:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:236:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:237:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:238:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:239:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:240:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:241:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:242:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:243:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:244:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:245:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:246:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:247:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:248:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:249:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:250:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:251:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:252:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:253:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:254:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:255:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:256:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:257:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:258:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:259:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:260:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:261:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:262:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:263:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:264:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:265:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:266:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:267:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:268:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:269:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:270:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:271:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:272:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:273:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:274:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:275:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:276:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:277:1: エラー: 'GLAPI' does not name a type
+In file included from ..\src\sekainohajimari.cpp:9:0:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:535:36: エラー: 変数またはフィールド 'glutUseLayer' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:535:36: エラー: 'GLenum' was not declared in this scope
+In file included from ..\src\sekainohajimari.cpp:9:0:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:600:41: エラー: 'GLfloat' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:600:54: エラー: 'GLfloat' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:600:69: エラー: 'GLfloat' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:601:9: エラー: 'GLfloat' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:605:30: エラー: 'GLenum' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:606:36: エラー: 'GLenum' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:613:35: エラー: 'GLenum' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:627:38: エラー: 変数またはフィールド 'glutWireSphere' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:627:38: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:627:55: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:627:69: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:628:39: エラー: 変数またはフィールド 'glutSolidSphere' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:628:39: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:628:56: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:628:70: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:629:36: エラー: 変数またはフィールド 'glutWireCone' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:629:36: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:629:51: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:629:68: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:629:82: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:630:37: エラー: 変数またはフィールド 'glutSolidCone' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:630:37: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:630:52: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:630:69: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:630:83: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:631:36: エラー: 変数またはフィールド 'glutWireCube' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:631:36: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:632:37: エラー: 変数またはフィールド 'glutSolidCube' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:632:37: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:633:37: エラー: 変数またはフィールド 'glutWireTorus' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:633:37: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:633:59: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:633:81: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:633:94: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:634:38: エラー: 変数またはフィールド 'glutSolidTorus' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:634:38: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:634:60: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:634:82: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:634:95: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:637:38: エラー: 変数またはフィールド 'glutWireTeapot' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:637:38: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:638:39: エラー: 変数またはフィールド 'glutSolidTeapot' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:638:39: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:648:41: エラー: 'GLenum' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:688:38: エラー: 'GLenum' was not declared in this scope
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+16:58:20 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sekainohajimari.o" "..\\src\\sekainohajimari.cpp" 
+g++ -o Open.exe "src\\sekainohajimari.o" 
+src\sekainohajimari.o: In function `glutInit_ATEXIT_HACK':
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:486: undefined reference to `__glutInitWithExit'
+src\sekainohajimari.o: In function `glutCreateWindow_ATEXIT_HACK':
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:503: undefined reference to `__glutCreateWindowWithExit'
+src\sekainohajimari.o: In function `glutCreateMenu_ATEXIT_HACK':
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:549: undefined reference to `__glutCreateMenuWithExit'
+src\sekainohajimari.o: In function `main':
+C:\Users\yumikoy\workspace\Open\Debug/../src/sekainohajimari.cpp:27: undefined reference to `glutInitWindowPosition'
+C:\Users\yumikoy\workspace\Open\Debug/../src/sekainohajimari.cpp:28: undefined reference to `glutInitWindowSize'
+C:\Users\yumikoy\workspace\Open\Debug/../src/sekainohajimari.cpp:29: undefined reference to `glutInitDisplayMode'
+C:\Users\yumikoy\workspace\Open\Debug/../src/sekainohajimari.cpp:31: undefined reference to `glutDisplayFunc'
+C:\Users\yumikoy\workspace\Open\Debug/../src/sekainohajimari.cpp:33: undefined reference to `glutMainLoop'
+src\sekainohajimari.o: In function `Z7Displayv':
+C:\Users\yumikoy\workspace\Open\Debug/../src/sekainohajimari.cpp:49: undefined reference to `glutSwapBuffers'
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+17:00:22 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sekainohajimari.o" "..\\src\\sekainohajimari.cpp" 
+g++ -o Open.exe "src\\sekainohajimari.o" 
+src\sekainohajimari.o: In function `glutInit_ATEXIT_HACK':
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:486: undefined reference to `__glutInitWithExit'
+src\sekainohajimari.o: In function `glutCreateWindow_ATEXIT_HACK':
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:503: undefined reference to `__glutCreateWindowWithExit'
+src\sekainohajimari.o: In function `glutCreateMenu_ATEXIT_HACK':
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:549: undefined reference to `__glutCreateMenuWithExit'
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+17:00:30 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sekainohajimari.o" "..\\src\\sekainohajimari.cpp" 
+g++ -o Open.exe "src\\sekainohajimari.o" 
+Info: Nothing to build for Open
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+17:00:43 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sekainohajimari.o" "..\\src\\sekainohajimari.cpp" 
+g++ -o Open.exe "src\\sekainohajimari.o" 
+src\sekainohajimari.o: In function `glutInit_ATEXIT_HACK':
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:486: undefined reference to `__glutInitWithExit'
+src\sekainohajimari.o: In function `glutCreateWindow_ATEXIT_HACK':
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:503: undefined reference to `__glutCreateWindowWithExit'
+src\sekainohajimari.o: In function `glutCreateMenu_ATEXIT_HACK':
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:549: undefined reference to `__glutCreateMenuWithExit'
+collect2.exe: エラー: ld はステータス 1 で終了しました
+17:00:44 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -o Open.exe "src\\sekainohajimari.o" 
+src\sekainohajimari.o: In function `glutInit_ATEXIT_HACK':
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:486: undefined reference to `__glutInitWithExit'
+src\sekainohajimari.o: In function `glutCreateWindow_ATEXIT_HACK':
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:503: undefined reference to `__glutCreateWindowWithExit'
+src\sekainohajimari.o: In function `glutCreateMenu_ATEXIT_HACK':
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:549: undefined reference to `__glutCreateMenuWithExit'
+collect2.exe: エラー: ld はステータス 1 で終了しました
+17:00:48 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -o Open.exe "src\\sekainohajimari.o" 
+src\sekainohajimari.o: In function `glutInit_ATEXIT_HACK':
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:486: undefined reference to `__glutInitWithExit'
+src\sekainohajimari.o: In function `glutCreateWindow_ATEXIT_HACK':
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:503: undefined reference to `__glutCreateWindowWithExit'
+src\sekainohajimari.o: In function `glutCreateMenu_ATEXIT_HACK':
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:549: undefined reference to `__glutCreateMenuWithExit'
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+17:01:50 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sekainohajimari.o" "..\\src\\sekainohajimari.cpp" 
+g++ -o Open.exe "src\\sekainohajimari.o" 
+src\sekainohajimari.o: In function `glutInit_ATEXIT_HACK':
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:486: undefined reference to `__glutInitWithExit@12'
+src\sekainohajimari.o: In function `glutCreateWindow_ATEXIT_HACK':
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:503: undefined reference to `__glutCreateWindowWithExit@8'
+src\sekainohajimari.o: In function `glutCreateMenu_ATEXIT_HACK':
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:549: undefined reference to `__glutCreateMenuWithExit@8'
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+17:06:53 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -o Open.exe "src\\sekainohajimari.o" -lglut -lglu32 -lopengl32 
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot find -lglut
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+17:08:17 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -o Open.exe "src\\sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+Info: Nothing to build for Open
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+17:08:37 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sekainohajimari.o" "..\\src\\sekainohajimari.cpp" 
+g++ -o Open.exe "src\\sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+Info: Nothing to build for Open
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+17:08:57 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sekainohajimari.o" "..\\src\\sekainohajimari.cpp" 
+g++ -o Open.exe "src\\sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+17:09:10 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sekainohajimari.o" "..\\src\\sekainohajimari.cpp" 
+g++ -o Open.exe "src\\sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+Info: Nothing to build for Open
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+17:10:53 **** Incremental Build of configuration Debug for project Necowaka ****
+Info: Internal Builder is used for build
+g++ -o Necowaka.exe "src\\p58textanimation01.o" "src\\p31text01.o" "src\\p18.o" -lgdi32 
+17:10:54 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -finput-charset=cp932 -fexec-charset=cp932 -o "src\\sekainohajimari.o" "..\\src\\sekainohajimari.cpp" 
+In file included from ..\src\sekainohajimari.cpp:9:0:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:137:19: エラー: cp932 から UTF-8 への変換に失敗しました
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:138:0,
+                 from ..\src\sekainohajimari.cpp:9:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:38:19: エラー: cp932 から UTF-8 への変換に失敗しました
+..\src\sekainohajimari.cpp:10:19: エラー: cp932 から UTF-8 への変換に失敗しました
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:138:0,
+                 from ..\src\sekainohajimari.cpp:9:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:225:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:226:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:227:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:228:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:229:1: エラー: 'GLAPI' does not name a type
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:138:0,
+                 from ..\src\sekainohajimari.cpp:9:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:230:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:231:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:232:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:233:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:234:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:235:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:236:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:237:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:238:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:239:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:240:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:241:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:242:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:243:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:244:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:245:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:246:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:247:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:248:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:249:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:250:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:251:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:252:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:253:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:254:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:255:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:256:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:257:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:258:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:259:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:260:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:261:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:262:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:263:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:264:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:265:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:266:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:267:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:268:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:269:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:270:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:271:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:272:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:273:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:274:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:275:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:276:1: エラー: 'GLAPI' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glu.h:277:1: エラー: 'GLAPI' does not name a type
+In file included from ..\src\sekainohajimari.cpp:9:0:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:535:36: エラー: 変数またはフィールド 'glutUseLayer' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:535:36: エラー: 'GLenum' was not declared in this scope
+In file included from ..\src\sekainohajimari.cpp:9:0:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:600:41: エラー: 'GLfloat' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:600:54: エラー: 'GLfloat' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:600:69: エラー: 'GLfloat' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:601:9: エラー: 'GLfloat' does not name a type
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:605:30: エラー: 'GLenum' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:606:36: エラー: 'GLenum' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:613:35: エラー: 'GLenum' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:627:38: エラー: 変数またはフィールド 'glutWireSphere' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:627:38: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:627:55: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:627:69: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:628:39: エラー: 変数またはフィールド 'glutSolidSphere' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:628:39: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:628:56: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:628:70: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:629:36: エラー: 変数またはフィールド 'glutWireCone' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:629:36: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:629:51: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:629:68: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:629:82: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:630:37: エラー: 変数またはフィールド 'glutSolidCone' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:630:37: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:630:52: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:630:69: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:630:83: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:631:36: エラー: 変数またはフィールド 'glutWireCube' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:631:36: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:632:37: エラー: 変数またはフィールド 'glutSolidCube' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:632:37: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:633:37: エラー: 変数またはフィールド 'glutWireTorus' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:633:37: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:633:59: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:633:81: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:633:94: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:634:38: エラー: 変数またはフィールド 'glutSolidTorus' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:634:38: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:634:60: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:634:82: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:634:95: エラー: 'GLint' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:637:38: エラー: 変数またはフィールド 'glutWireTeapot' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:637:38: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:638:39: エラー: 変数またはフィールド 'glutSolidTeapot' が void と宣言されています
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:638:39: エラー: 'GLdouble' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:648:41: エラー: 'GLenum' was not declared in this scope
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:688:38: エラー: 'GLenum' was not declared in this scope
+..\src\sekainohajimari.cpp: 関数 'void Initialize()' 内:
+..\src\sekainohajimari.cpp:41:34: エラー: 'glClearColor' was not declared in this scope
+..\src\sekainohajimari.cpp:42:12: エラー: 'GL_DEPTH_TEST' was not declared in this scope
+..\src\sekainohajimari.cpp:42:25: エラー: 'glEnable' was not declared in this scope
+..\src\sekainohajimari.cpp: 関数 'void Display()' 内:
+..\src\sekainohajimari.cpp:48:11: エラー: 'GL_COLOR_BUFFER_BIT' was not declared in this scope
+..\src\sekainohajimari.cpp:48:33: エラー: 'GL_DEPTH_BUFFER_BIT' was not declared in this scope
+..\src\sekainohajimari.cpp:48:52: エラー: 'glClear' was not declared in this scope
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+17:11:06 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sekainohajimari.o" "..\\src\\sekainohajimari.cpp" 
+g++ -o Open.exe "src\\sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+17:11:39 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -o Open.exe "src\\sekainohajimari.o" -lglut32 -lglu32 
+src\sekainohajimari.o: In function `Z10Initializev':
+C:\Users\yumikoy\workspace\Open\Debug/../src/sekainohajimari.cpp:41: undefined reference to `glClearColor@16'
+C:\Users\yumikoy\workspace\Open\Debug/../src/sekainohajimari.cpp:42: undefined reference to `glEnable@4'
+src\sekainohajimari.o: In function `Z7Displayv':
+C:\Users\yumikoy\workspace\Open\Debug/../src/sekainohajimari.cpp:48: undefined reference to `glClear@4'
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+17:12:46 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -o Open.exe "src\\sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+17:20:18 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day2chiheisen.o" "..\\src\\day2chiheisen.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sekainohajimari.o" "..\\src\\sekainohajimari.cpp" 
+g++ -o Open.exe "src\\sekainohajimari.o" "src\\day2chiheisen.o" -lglut32 -lglu32 -lopengl32 
+src\day2chiheisen.o: In function `glutInit_ATEXIT_HACK':
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:486: undefined reference to `__glutInitWithExit'
+src\day2chiheisen.o: In function `glutCreateWindow_ATEXIT_HACK':
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:503: undefined reference to `__glutCreateWindowWithExit'
+src\day2chiheisen.o: In function `glutCreateMenu_ATEXIT_HACK':
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:549: undefined reference to `__glutCreateMenuWithExit'
+src\day2chiheisen.o: In function `main':
+C:\Users\yumikoy\workspace\Open\Debug/../src/day2chiheisen.cpp:28: undefined reference to `glutInitWindowPosition'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day2chiheisen.cpp:29: undefined reference to `glutInitWindowSize'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day2chiheisen.cpp:30: undefined reference to `glutInitDisplayMode'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day2chiheisen.cpp:32: undefined reference to `glutDisplayFunc'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day2chiheisen.cpp:34: undefined reference to `glutMainLoop'
+src\day2chiheisen.o: In function `Z10Initializev':
+C:\Users\yumikoy\workspace\Open\Debug/../src/day2chiheisen.cpp:41: undefined reference to `_imp__glClearColor'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day2chiheisen.cpp:42: undefined reference to `_imp__glEnable'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day2chiheisen.cpp:44: undefined reference to `_imp__gluPerspective'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day2chiheisen.cpp:48: undefined reference to `_imp__gluLookAt'
+src\day2chiheisen.o: In function `Z7Displayv':
+C:\Users\yumikoy\workspace\Open\Debug/../src/day2chiheisen.cpp:54: undefined reference to `_imp__glClear'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day2chiheisen.cpp:58: undefined reference to `glutSwapBuffers'
+src\day2chiheisen.o: In function `Z6Groundv':
+C:\Users\yumikoy\workspace\Open\Debug/../src/day2chiheisen.cpp:66: undefined reference to `_imp__glColor3d'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day2chiheisen.cpp:67: undefined reference to `_imp__glBegin'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day2chiheisen.cpp:69: undefined reference to `_imp__glVertex3d'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day2chiheisen.cpp:70: undefined reference to `_imp__glVertex3d'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day2chiheisen.cpp:73: undefined reference to `_imp__glVertex3d'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day2chiheisen.cpp:74: undefined reference to `_imp__glVertex3d'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day2chiheisen.cpp:76: undefined reference to `_imp__glEnd'
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+17:20:31 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day2chiheisen.o" "..\\src\\day2chiheisen.cpp" 
+g++ -o Open.exe "src\\sekainohajimari.o" "src\\day2chiheisen.o" -lglut32 -lglu32 -lopengl32 
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+17:20:38 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day2chiheisen.o" "..\\src\\day2chiheisen.cpp" 
+..\src\day2chiheisen.cpp: 関数 'int main(int, char**)' 内:
+..\src\day2chiheisen.cpp:27:23: エラー: 'glutInit' was not declared in this scope
+..\src\day2chiheisen.cpp:28:58: エラー: 'glutInitWindowPosition' was not declared in this scope
+..\src\day2chiheisen.cpp:29:47: エラー: 'glutInitWindowSize' was not declared in this scope
+..\src\day2chiheisen.cpp:30:23: エラー: 'GLUT_RGBA' was not declared in this scope
+..\src\day2chiheisen.cpp:30:35: エラー: 'GLUT_DEPTH' was not declared in this scope
+..\src\day2chiheisen.cpp:30:48: エラー: 'GLUT_DOUBLE' was not declared in this scope
+..\src\day2chiheisen.cpp:30:59: エラー: 'glutInitDisplayMode' was not declared in this scope
+..\src\day2chiheisen.cpp:31:31: エラー: 'glutCreateWindow' was not declared in this scope
+..\src\day2chiheisen.cpp:32:26: エラー: 'glutDisplayFunc' was not declared in this scope
+..\src\day2chiheisen.cpp:34:16: エラー: 'glutMainLoop' was not declared in this scope
+..\src\day2chiheisen.cpp: 関数 'void Initialize()' 内:
+..\src\day2chiheisen.cpp:41:34: エラー: 'glClearColor' was not declared in this scope
+..\src\day2chiheisen.cpp:42:12: エラー: 'GL_DEPTH_TEST' was not declared in this scope
+..\src\day2chiheisen.cpp:42:25: エラー: 'glEnable' was not declared in this scope
+..\src\day2chiheisen.cpp:44:77: エラー: 'gluPerspective' was not declared in this scope
+..\src\day2chiheisen.cpp:48:21: エラー: 'gluLookAt' was not declared in this scope
+..\src\day2chiheisen.cpp: 関数 'void Display()' 内:
+..\src\day2chiheisen.cpp:54:11: エラー: 'GL_COLOR_BUFFER_BIT' was not declared in this scope
+..\src\day2chiheisen.cpp:54:33: エラー: 'GL_DEPTH_BUFFER_BIT' was not declared in this scope
+..\src\day2chiheisen.cpp:54:52: エラー: 'glClear' was not declared in this scope
+..\src\day2chiheisen.cpp:58:19: エラー: 'glutSwapBuffers' was not declared in this scope
+..\src\day2chiheisen.cpp: 関数 'void Ground()' 内:
+..\src\day2chiheisen.cpp:66:28: エラー: 'glColor3d' was not declared in this scope
+..\src\day2chiheisen.cpp:67:13: エラー: 'GL_LINES' was not declared in this scope
+..\src\day2chiheisen.cpp:67:21: エラー: 'glBegin' was not declared in this scope
+..\src\day2chiheisen.cpp:69:37: エラー: 'glVertex3d' was not declared in this scope
+..\src\day2chiheisen.cpp:73:36: エラー: 'glVertex3d' was not declared in this scope
+..\src\day2chiheisen.cpp:76:11: エラー: 'glEnd' was not declared in this scope
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+17:20:45 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day2chiheisen.o" "..\\src\\day2chiheisen.cpp" 
+g++ -o Open.exe "src\\sekainohajimari.o" "src\\day2chiheisen.o" -lglut32 -lglu32 -lopengl32 
+Info: Nothing to build for Open
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+17:22:19 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day10rotate.o" "..\\src\\day10rotate.cpp" 
+..\src\day10rotate.cpp:15:30: 致命的エラー: GL/gl_screenshot.h: No such file or directory
+コンパイルを停止しました。
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+17:24:20 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day2chiheisen.o" "..\\src\\day2chiheisen.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day10rotate.o" "..\\src\\day10rotate.cpp" 
+..\src\day10rotate.cpp: 関数 'void qmul(double*, const double*, const double*)' 内:
+..\src\day10rotate.cpp:346:64: エラー: 'void qmul(double*, const double*, const double*)' was declared 'extern' and later 'static' [-fpermissive]
+..\src\day10rotate.cpp:110:6: エラー: previous declaration of 'void qmul(double*, const double*, const double*)' [-fpermissive]
+..\src\day10rotate.cpp: 関数 'void qrot(double*, double*)' 内:
+..\src\day10rotate.cpp:355:40: エラー: 'void qrot(double*, double*)' was declared 'extern' and later 'static' [-fpermissive]
+..\src\day10rotate.cpp:111:6: エラー: previous declaration of 'void qrot(double*, double*)' [-fpermissive]
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+17:25:31 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day10rotate.o" "..\\src\\day10rotate.cpp" 
+..\src\day10rotate.cpp: 関数 'void Initialize()' 内:
+..\src\day10rotate.cpp:157:14: エラー: 'qrot' was not declared in this scope
+..\src\day10rotate.cpp: 関数 'void mouse_motion(int, int)' 内:
+..\src\day10rotate.cpp:288:20: エラー: 'qmul' was not declared in this scope
+..\src\day10rotate.cpp:291:16: エラー: 'qrot' was not declared in this scope
+..\src\day10rotate.cpp: 大域スコープ:
+..\src\day10rotate.cpp:346:13: 警告: 'void qmul(double*, const double*, const double*)' が定義されましたが使用されません [-Wunused-function]
+..\src\day10rotate.cpp:355:13: 警告: 'void qrot(double*, double*)' が定義されましたが使用されません [-Wunused-function]
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+17:25:39 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day10rotate.o" "..\\src\\day10rotate.cpp" 
+..\src\day10rotate.cpp: 関数 'void qmul(double*, const double*, const double*)' 内:
+..\src\day10rotate.cpp:346:64: エラー: 'void qmul(double*, const double*, const double*)' was declared 'extern' and later 'static' [-fpermissive]
+..\src\day10rotate.cpp:110:6: エラー: previous declaration of 'void qmul(double*, const double*, const double*)' [-fpermissive]
+..\src\day10rotate.cpp: 関数 'void qrot(double*, double*)' 内:
+..\src\day10rotate.cpp:355:40: エラー: 'void qrot(double*, double*)' was declared 'extern' and later 'static' [-fpermissive]
+..\src\day10rotate.cpp:111:6: エラー: previous declaration of 'void qrot(double*, double*)' [-fpermissive]
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+17:26:20 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day10rotate.o" "..\\src\\day10rotate.cpp" 
+g++ -o Open.exe "src\\sekainohajimari.o" "src\\day2chiheisen.o" "src\\day10rotate.o" -lglut32 -lglu32 -lopengl32 
+src\day10rotate.o: In function `glutInit_ATEXIT_HACK':
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:486: undefined reference to `__glutInitWithExit'
+src\day10rotate.o: In function `glutCreateWindow_ATEXIT_HACK':
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:503: undefined reference to `__glutCreateWindowWithExit'
+src\day10rotate.o: In function `glutCreateMenu_ATEXIT_HACK':
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../include/GL/glut.h:549: undefined reference to `__glutCreateMenuWithExit'
+src\day10rotate.o: In function `main':
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:124: undefined reference to `glutInitWindowPosition'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:125: undefined reference to `glutInitWindowSize'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:126: undefined reference to `glutInitDisplayMode'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:128: undefined reference to `glutDisplayFunc'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:129: undefined reference to `glutMouseFunc'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:130: undefined reference to `glutMotionFunc'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:132: undefined reference to `glutIdleFunc'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:134: undefined reference to `glutMainLoop'
+src\day10rotate.o: In function `Z10Initializev':
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:141: undefined reference to `_imp__glClearColor'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:142: undefined reference to `_imp__glEnable'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:145: undefined reference to `_imp__glGenLists'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:146: undefined reference to `_imp__glNewList'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:150: undefined reference to `_imp__glEndList'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:161: undefined reference to `_imp__glMatrixMode'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:162: undefined reference to `_imp__glLoadIdentity'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:163: undefined reference to `_imp__gluPerspective'
+src\day10rotate.o: In function `Z4Idlev':
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:169: undefined reference to `glutPostRedisplay'
+src\day10rotate.o: In function `Z7Displayv':
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:176: undefined reference to `_imp__glClear'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:179: undefined reference to `_imp__glMatrixMode'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:180: undefined reference to `_imp__glLoadIdentity'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:181: undefined reference to `_imp__glViewport'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:184: undefined reference to `_imp__glPushMatrix'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:188: undefined reference to `_imp__glLightfv'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:193: undefined reference to `_imp__gluLookAt'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:197: undefined reference to `_imp__glEnable'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:198: undefined reference to `_imp__glEnable'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:202: undefined reference to `_imp__glMultMatrixd'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:206: undefined reference to `_imp__glPushMatrix'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:207: undefined reference to `_imp__glMaterialfv'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:208: undefined reference to `_imp__glMaterialfv'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:209: undefined reference to `_imp__glMaterialfv'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:210: undefined reference to `_imp__glMaterialfv'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:211: undefined reference to `_imp__glTranslated'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:212: undefined reference to `glutSolidSphere'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:213: undefined reference to `_imp__glPopMatrix'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:216: undefined reference to `_imp__glPushMatrix'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:217: undefined reference to `_imp__glMaterialfv'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:218: undefined reference to `_imp__glTranslated'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:219: undefined reference to `glutSolidCube'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:220: undefined reference to `_imp__glPopMatrix'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:223: undefined reference to `_imp__glPushMatrix'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:224: undefined reference to `_imp__glMaterialfv'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:225: undefined reference to `_imp__glTranslated'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:226: undefined reference to `glutSolidCone'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:227: undefined reference to `_imp__glPopMatrix'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:230: undefined reference to `_imp__glPushMatrix'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:231: undefined reference to `_imp__glMaterialfv'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:232: undefined reference to `_imp__glMaterialfv'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:233: undefined reference to `_imp__glMaterialfv'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:234: undefined reference to `_imp__glMaterialfv'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:235: undefined reference to `_imp__glTranslated'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:236: undefined reference to `_imp__glBegin'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:238: undefined reference to `_imp__glNormal3dv'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:240: undefined reference to `_imp__glVertex3dv'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:243: undefined reference to `_imp__glEnd'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:246: undefined reference to `_imp__glPopMatrix'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:249: undefined reference to `_imp__glDisable'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:253: undefined reference to `_imp__glPopMatrix'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:263: undefined reference to `glutSwapBuffers'
+src\day10rotate.o: In function `Z6Groundv':
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:329: undefined reference to `_imp__glColor3d'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:330: undefined reference to `_imp__glBegin'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:332: undefined reference to `_imp__glVertex3d'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:333: undefined reference to `_imp__glVertex3d'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:336: undefined reference to `_imp__glVertex3d'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:337: undefined reference to `_imp__glVertex3d'
+C:\Users\yumikoy\workspace\Open\Debug/../src/day10rotate.cpp:339: undefined reference to `_imp__glEnd'
+src\day10rotate.o: In function `ZN13gl_screenshot10screenshotEPKci':
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../include/GL/gl_screenshot.h:50: undefined reference to `glutGet'
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../include/GL/gl_screenshot.h:51: undefined reference to `glutGet'
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../include/GL/gl_screenshot.h:78: undefined reference to `_imp__glReadPixels'
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+17:27:29 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day10rotate.o" "..\\src\\day10rotate.cpp" 
+..\src\day10rotate.cpp:8:20: 致命的エラー: window.h: No such file or directory
+コンパイルを停止しました。
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+17:27:35 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day10rotate.o" "..\\src\\day10rotate.cpp" 
+g++ -o Open.exe "src\\sekainohajimari.o" "src\\day2chiheisen.o" "src\\day10rotate.o" -lglut32 -lglu32 -lopengl32 
+Info: Nothing to build for Open
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+17:28:23 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day10rotate.o" "..\\src\\day10rotate.cpp" 
+g++ -o Open.exe "src\\sekainohajimari.o" "src\\day2chiheisen.o" "src\\day10rotate.o" -lglut32 -lglu32 -lopengl32 
+Info: Nothing to build for Open
+Info: Nothing to build for Open

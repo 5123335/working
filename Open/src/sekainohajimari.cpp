@@ -5,13 +5,15 @@
 // *      Author: yumikoy
 // */
 //
+//#include <windows.h>
 //#include <GL/glut.h>
+//#include <GL/gl.h>
 //
 //int WindowPositionX = 100;  //生成するウィンドウ位置のX座標
 //int WindowPositionY = 100;  //生成するウィンドウ位置のY座標
 //int WindowWidth = 512;    //生成するウィンドウの幅
 //int WindowHeight = 512;    //生成するウィンドウの高さ
-//char WindowTitle[] = "世界の始まり"  //ウィンドウのタイトル
+//char WindowTitle[] = "世界の始まり";  //ウィンドウのタイトル
 //
 ////----------------------------------------------------
 //// 関数プロトタイプ（後に呼び出す関数名と引数の宣言）
