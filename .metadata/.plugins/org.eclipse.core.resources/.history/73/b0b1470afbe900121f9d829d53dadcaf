@@ -1,0 +1,31 @@
+/*
+ * p2.c
+ *
+ *  Created on: 2013/07/11
+ *      Author: yumikoy
+ */
+#include <windows.h>
+
+int WINAPI WinMain(HINSTANCE hInstance,     // インスタンスハンドル
+		HINSTANCE hPrevInstance, // Win32では常にNULL(→使うことはない)
+		LPSTR lpCmdLine,         // コマンドラインから受け取る引数
+		int nCmdShow)            // アプリケーションの初期表示方法
+{
+	// ↑の引数たちはアプリケーションプログラム中で指定することはない。この関数の中で使うためのもの
+
+	// WINAPI : __stdcallのマクロ名
+	// #define [マクロ名] [パターン]
+
+	// HINSTANCE : インスタンスハンドル。アプリケーション自体をあらわす
+	// 	アプリケーションによってインスタンスハンドルの値は一意。
+	// 	インスタンスとは、アプリケーションのメモリ内での実体のこと。
+	// 	データとしては32bit整数値
+
+	// LPSTR :　ANSI(またはマルチバイト)文字列へのポインタ
+	// typedef CHAR *PCHAR,*LPCH,*PCH,*NPSTR,*LPSTR,*PSTR;
+
+	MessageBox(NULL, TEXT("Kitty on your lap"), "メッセージボックス", MB_OK);
+
+	return 0;
+}
+

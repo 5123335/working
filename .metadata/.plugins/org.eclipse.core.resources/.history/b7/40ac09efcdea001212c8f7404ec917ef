@@ -1,0 +1,25 @@
+/*
+ * p5-2.c
+ *
+ *  Created on: 2013/07/12
+ *      Author: yumikoy
+ */
+
+#include <windows.h>
+
+int WINAPI WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, PSTR lpCmdLine,
+		int nCmdShow) {
+
+	CHAR chStr[128];
+
+	wsprintf(chStr, "インスタンスハンドル : %d", hInstance);
+	MessageBox(NULL, chStr, TEXT("Kitty on your lap"), MB_OK);
+
+//	wsprintfは文字列を扱うWin32 APIなので，wsprintfAとwsprintfWがあります。
+//	int WINAPI wsprintfA (char *, const char *, ...);
+//	int WINAPI wsprintfW (wchar_t *, const wchar_t *, ...);
+//	なので，wsprintfとして使う場合は，全てTCHAR系で統一する必要があります。
+
+
+	return 0;
+}

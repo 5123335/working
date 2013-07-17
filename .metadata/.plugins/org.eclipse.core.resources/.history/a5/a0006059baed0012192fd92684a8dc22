@@ -1,0 +1,14 @@
+/*
+ * p7.c
+ *
+ *  Created on: 2013/07/16
+ *      Author: yumikoy
+ */
+
+HWND CreateWindow(
+	LPCTSTR lpClassName , LPCTSTR lpWindowName,
+	DWORD dwStyle ,
+	int x , int y , int nWidth , int nHeight ,
+	HWND hWndParent , HMENU hMenu ,
+	HANDLE hInstance , LPVOID lpParam
+);

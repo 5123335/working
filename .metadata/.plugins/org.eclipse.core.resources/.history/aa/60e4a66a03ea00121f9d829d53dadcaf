@@ -1,0 +1,52 @@
+/*
+ * p2.c
+ *
+ *  Created on: 2013/07/11
+ *      Author: yumikoy
+ */
+#include <windows.h>
+#include <stdio.h>
+
+int WINAPI WinMain(HINSTANCE hInstance,     // インスタンスハンドル
+		HINSTANCE hPrevInstance, // Win32では常にNULL(→使うことはない)
+		LPSTR lpCmdLine,         // コマンドラインから受け取る引数
+		int nCmdShow)            // アプリケーションの初期表示方法
+{
+	// ↑の引数たちはアプリケーションプログラム中で指定することはない。この関数の中で使うためのもの
+
+	// WINAPI : __stdcallのマクロ名
+	// #define [マクロ名] [パターン]
+
+	// HINSTANCE : インスタンスハンドル。アプリケーション自体をあらわす
+	// 	アプリケーションによってインスタンスハンドルの値は一意。
+	// 	インスタンスとは、アプリケーションのメモリ内での実体のこと。
+	// 	データとしては32bit整数値
+
+	// LPSTR :　ANSI(またはマルチバイト)文字列へのポインタ
+	// typedef CHAR *PCHAR,*LPCH,*PCH,*NPSTR,*LPSTR,*PSTR;
+
+	printf("Hello, World!はにゃ");
+	MessageBox(NULL, TEXT("Kitty on your lap"), TEXT("メッセージ愛ボックス"), MB_OK);
+
+	//	int MessageBox(
+	//	  HWND hWnd,          // オーナーウィンドウのハンドル
+	//	  LPCTSTR lpText,     // メッセージボックス内のテキスト
+	//	  LPCTSTR lpCaption,  // メッセージボックスのタイトル
+	//	  UINT uType          // メッセージボックスのスタイル
+	//	);
+
+	// hWnd : 作成したいメッセージボックスのオーナーウィンドウのハンドルを指定。
+	// NULL を指定すると、オーナーウィンドウを持たないメッセージボックスが作成される。
+
+	// 違いは、パラメータとして受け取る文字列の型です。
+	// MessageBoxA() 関数の LPCSTR は const char * 型、
+	// MessageBoxW() 関数の LPCWSTR は const wchar_t * 型に相当します。
+	// MessageBox() 関数は、設定に応じてこれらのいずれかの関数にマッピングされます。
+	// このマッピングは、プロジェクトのプロパティから文字セットの設定を変更することで切り替えられます。
+
+	// LPCTSTR :
+
+	// TEXT()のことはあとでちゃんとわかろう
+
+	return 0;
+}

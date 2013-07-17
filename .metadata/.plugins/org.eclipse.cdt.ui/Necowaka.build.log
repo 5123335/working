@@ -1,0 +1,7 @@
+17:14:45 **** Incremental Build of configuration Debug for project Necowaka ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p18.o" "..\\src\\p18.c" 
+g++ -o Necowaka.exe "src\\p18.o" -lgdi32 
+
+17:14:46 Build Finished (took 546ms)
+

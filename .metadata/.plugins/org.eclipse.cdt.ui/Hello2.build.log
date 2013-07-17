@@ -1,0 +1,7 @@
+10:46:03 **** Rebuild of configuration Debug for project Hello2 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Hello2.o" "..\\src\\Hello2.cpp" 
+g++ -o Hello2.exe "src\\Hello2.o" 
+
+10:46:03 Build Finished (took 609ms)
+

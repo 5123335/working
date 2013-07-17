@@ -1,0 +1,1284 @@
+10:35:24 **** Rebuild of configuration Debug for project Hello ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Hello.o" "..\\src\\Hello.cpp" 
+g++ -o Hello.exe "src\\Hello.o" 
+Info: Nothing to build for Hello
+Info: Nothing to build for Hello
+10:43:35 **** Rebuild of configuration Debug for project Hello2 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Hello2.o" "..\\src\\Hello2.cpp" 
+g++ -o Hello2.exe "src\\Hello2.o" 
+Info: Nothing to build for Hello
+10:46:03 **** Rebuild of configuration Debug for project Hello2 ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Hello2.o" "..\\src\\Hello2.cpp" 
+g++ -o Hello2.exe "src\\Hello2.o" 
+Info: Nothing to build for Hello
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+11:55:21 **** Incremental Build of configuration Debug for project Necowaka ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p4.o" "..\\src\\p4.cpp" 
+g++ -o Necowaka.exe "src\\p4.o" 
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../libmingw32.a(main.o):main.c:(.text.startup+0xa7): undefined reference to `WinMain@16'
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Hello
+15:11:58 **** Incremental Build of configuration Debug for project Necowaka ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p4.o" "..\\src\\p4.cpp" 
+..\src\p4.cpp: 関数 'ATOM InitApp(HINSTANCE)' 内:
+..\src\p4.cpp:38:37: エラー: cast from 'LPSTR {aka char*}' to 'WORD {aka short unsigned int}' loses precision [-fpermissive]
+..\src\p4.cpp:40:41: エラー: cast from 'LPSTR {aka char*}' to 'WORD {aka short unsigned int}' loses precision [-fpermissive]
+..\src\p4.cpp:45:39: エラー: cast from 'LPSTR {aka char*}' to 'WORD {aka short unsigned int}' loses precision [-fpermissive]
+Info: Nothing to build for Hello
+15:20:59 **** Incremental Build of configuration Debug for project Necowaka ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p4.o" "..\\src\\p4.cpp" 
+g++ -o Necowaka.exe "src\\p4.o" 
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../libmingw32.a(main.o):main.c:(.text.startup+0xa7): undefined reference to `WinMain@16'
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Hello
+15:24:59 **** Rebuild of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p2.o" "..\\src\\p2.c" 
+gcc -o Leon.exe "src\\p2.o" 
+15:25:00 **** Incremental Build of configuration Debug for project Necowaka ****
+Info: Internal Builder is used for build
+g++ -o Necowaka.exe "src\\p4.o" 
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../libmingw32.a(main.o):main.c:(.text.startup+0xa7): undefined reference to `WinMain@16'
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Hello
+15:25:17 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p2.o" "..\\src\\p2.c" 
+gcc -o Leon.exe "src\\p2.o" 
+15:25:18 **** Incremental Build of configuration Debug for project Necowaka ****
+Info: Internal Builder is used for build
+g++ -o Necowaka.exe "src\\p4.o" 
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../libmingw32.a(main.o):main.c:(.text.startup+0xa7): undefined reference to `WinMain@16'
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Hello
+15:26:05 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p2.o" "..\\src\\p2.c" 
+gcc -o Leon.exe "src\\p2.o" 
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../libmingw32.a(main.o):main.c:(.text.startup+0xa7): undefined reference to `WinMain@16'
+collect2.exe: エラー: ld はステータス 1 で終了しました
+15:26:06 **** Incremental Build of configuration Debug for project Necowaka ****
+Info: Internal Builder is used for build
+g++ -o Necowaka.exe "src\\p4.o" 
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../libmingw32.a(main.o):main.c:(.text.startup+0xa7): undefined reference to `WinMain@16'
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Hello
+15:27:00 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p2.o" "..\\src\\p2.c" 
+gcc -o Leon.exe "src\\p2.o" 
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../libmingw32.a(main.o):main.c:(.text.startup+0xa7): undefined reference to `WinMain@16'
+collect2.exe: エラー: ld はステータス 1 で終了しました
+15:27:01 **** Incremental Build of configuration Debug for project Necowaka ****
+Info: Internal Builder is used for build
+g++ -o Necowaka.exe "src\\p4.o" 
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../libmingw32.a(main.o):main.c:(.text.startup+0xa7): undefined reference to `WinMain@16'
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Hello
+15:28:29 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p2.o" "..\\src\\p2.c" 
+gcc -o Leon.exe "src\\p2.o" 
+15:28:30 **** Incremental Build of configuration Debug for project Necowaka ****
+Info: Internal Builder is used for build
+g++ -o Necowaka.exe "src\\p4.o" 
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../libmingw32.a(main.o):main.c:(.text.startup+0xa7): undefined reference to `WinMain@16'
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Leon
+Info: Nothing to build for Hello
+15:30:36 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p2.o" "..\\src\\p2.c" 
+gcc -o Leon.exe "src\\p2.o" 
+15:30:37 **** Incremental Build of configuration Debug for project Necowaka ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p4.o" "..\\src\\p4.cpp" 
+..\src\p4.cpp: 関数 'ATOM InitApp(HINSTANCE)' 内:
+..\src\p4.cpp:38:37: エラー: cast from 'LPSTR {aka char*}' to 'WORD {aka short unsigned int}' loses precision [-fpermissive]
+..\src\p4.cpp:40:41: エラー: cast from 'LPSTR {aka char*}' to 'WORD {aka short unsigned int}' loses precision [-fpermissive]
+..\src\p4.cpp:45:39: エラー: cast from 'LPSTR {aka char*}' to 'WORD {aka short unsigned int}' loses precision [-fpermissive]
+Info: Nothing to build for Leon
+Info: Nothing to build for Hello
+15:31:33 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p2.o" "..\\src\\p2.c" 
+..\src\p2.c:9:5: エラー: 'WinMain' と型が競合しています
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/windows.h:50:0,
+                 from ..\src\p2.c:7:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/winbase.h:1251:14: 備考: 前の 'WinMain' の宣言はここです
+15:31:33 **** Incremental Build of configuration Debug for project Necowaka ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p4.o" "..\\src\\p4.cpp" 
+..\src\p4.cpp: 関数 'ATOM InitApp(HINSTANCE)' 内:
+..\src\p4.cpp:38:37: エラー: cast from 'LPSTR {aka char*}' to 'WORD {aka short unsigned int}' loses precision [-fpermissive]
+..\src\p4.cpp:40:41: エラー: cast from 'LPSTR {aka char*}' to 'WORD {aka short unsigned int}' loses precision [-fpermissive]
+..\src\p4.cpp:45:39: エラー: cast from 'LPSTR {aka char*}' to 'WORD {aka short unsigned int}' loses precision [-fpermissive]
+Info: Nothing to build for Hello
+15:31:48 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p2.o" "..\\src\\p2.c" 
+gcc -o Leon.exe "src\\p2.o" 
+15:31:49 **** Incremental Build of configuration Debug for project Necowaka ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p4.o" "..\\src\\p4.cpp" 
+..\src\p4.cpp: 関数 'ATOM InitApp(HINSTANCE)' 内:
+..\src\p4.cpp:38:37: エラー: cast from 'LPSTR {aka char*}' to 'WORD {aka short unsigned int}' loses precision [-fpermissive]
+..\src\p4.cpp:40:41: エラー: cast from 'LPSTR {aka char*}' to 'WORD {aka short unsigned int}' loses precision [-fpermissive]
+..\src\p4.cpp:45:39: エラー: cast from 'LPSTR {aka char*}' to 'WORD {aka short unsigned int}' loses precision [-fpermissive]
+Info: Nothing to build for Hello
+15:41:16 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p2.o" "..\\src\\p2.c" 
+..\src\p2.c:9:13: エラー: 'WinMain' と型が競合しています
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/windows.h:50:0,
+                 from ..\src\p2.c:7:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/winbase.h:1251:14: 備考: 前の 'WinMain' の宣言はここです
+15:41:17 **** Incremental Build of configuration Debug for project Necowaka ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p4.o" "..\\src\\p4.cpp" 
+..\src\p4.cpp: 関数 'ATOM InitApp(HINSTANCE)' 内:
+..\src\p4.cpp:38:37: エラー: cast from 'LPSTR {aka char*}' to 'WORD {aka short unsigned int}' loses precision [-fpermissive]
+..\src\p4.cpp:40:41: エラー: cast from 'LPSTR {aka char*}' to 'WORD {aka short unsigned int}' loses precision [-fpermissive]
+..\src\p4.cpp:45:39: エラー: cast from 'LPSTR {aka char*}' to 'WORD {aka short unsigned int}' loses precision [-fpermissive]
+Info: Nothing to build for Hello
+15:42:07 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p2.o" "..\\src\\p2.c" 
+gcc -o Leon.exe "src\\p2.o" 
+15:42:08 **** Incremental Build of configuration Debug for project Necowaka ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p4.o" "..\\src\\p4.cpp" 
+..\src\p4.cpp: 関数 'ATOM InitApp(HINSTANCE)' 内:
+..\src\p4.cpp:38:37: エラー: cast from 'LPSTR {aka char*}' to 'WORD {aka short unsigned int}' loses precision [-fpermissive]
+..\src\p4.cpp:40:41: エラー: cast from 'LPSTR {aka char*}' to 'WORD {aka short unsigned int}' loses precision [-fpermissive]
+..\src\p4.cpp:45:39: エラー: cast from 'LPSTR {aka char*}' to 'WORD {aka short unsigned int}' loses precision [-fpermissive]
+Info: Nothing to build for Hello
+15:47:30 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p2.o" "..\\src\\p2.c" 
+gcc -o Leon.exe "src\\p2.o" 
+15:47:31 **** Incremental Build of configuration Debug for project Necowaka ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p4.o" "..\\src\\p4.cpp" 
+g++ -o Necowaka.exe "src\\p4.o" 
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../libmingw32.a(main.o):main.c:(.text.startup+0xa7): undefined reference to `WinMain@16'
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+15:48:09 **** Incremental Build of configuration Debug for project Necowaka ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p4.o" "..\\src\\p4.cpp" 
+g++ -o Necowaka.exe "src\\p4.o" 
+Info: Nothing to build for Hello
+16:10:29 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p2.o" "..\\src\\p2.c" 
+gcc -o Leon.exe "src\\p2.o" 
+16:10:30 **** Incremental Build of configuration Debug for project Necowaka ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p4.o" "..\\src\\p4.cpp" 
+g++ -o Necowaka.exe "src\\p4.o" 
+Info: Nothing to build for Hello
+16:24:49 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p2.o" "..\\src\\p2.c" 
+gcc -o Leon.exe "src\\p2.o" 
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Leon
+16:25:05 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p2.o" "..\\src\\p2.c" 
+gcc -o Leon.exe "src\\p2.o" 
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Leon
+Info: Nothing to build for Hello
+16:25:28 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p2.o" "..\\src\\p2.c" 
+gcc -o Leon.exe "src\\p2.o" 
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Leon
+Info: Nothing to build for Hello
+16:26:44 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p2.o" "..\\src\\p2.c" 
+gcc -o Leon.exe "src\\p2.o" 
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Leon
+Info: Nothing to build for Hello
+16:26:54 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p2.o" "..\\src\\p2.c" 
+gcc -o Leon.exe "src\\p2.o" 
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Leon
+Info: Nothing to build for Hello
+16:27:27 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p2.o" "..\\src\\p2.c" 
+gcc -o Leon.exe "src\\p2.o" 
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Leon
+17:14:04 **** Incremental Build of configuration Debug for project Hello ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Hello.o" "..\\src\\Hello.cpp" 
+g++ -o Hello.exe "src\\Hello.o" 
+17:14:07 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p2.o" "..\\src\\p2.c" 
+gcc -o Leon.exe "src\\p2.o" 
+17:14:08 **** Incremental Build of configuration Debug for project Necowaka ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p4.o" "..\\src\\p4.cpp" 
+g++ -o Necowaka.exe "src\\p4.o" 
+Info: Nothing to build for Leon
+Info: Nothing to build for Hello
+17:14:50 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p2.o" "..\\src\\p2.c" 
+gcc -o Leon.exe "src\\p2.o" 
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Leon
+17:16:52 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p2.o" "..\\src\\p2.c" 
+gcc -o Leon.exe "src\\p2.o" 
+17:16:54 **** Incremental Build of configuration Debug for project Hello ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Hello.o" "..\\src\\Hello.cpp" 
+g++ -o Hello.exe "src\\Hello.o" 
+Info: Nothing to build for Leon
+17:16:55 **** Incremental Build of configuration Debug for project Necowaka ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p4.o" "..\\src\\p4.cpp" 
+g++ -o Necowaka.exe "src\\p4.o" 
+Info: Nothing to build for Leon
+Info: Nothing to build for Leon
+17:17:05 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p2.o" "..\\src\\p2.c" 
+gcc -o Leon.exe "src\\p2.o" 
+09:54:28 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p2.o" "..\\src\\p2.c" 
+gcc -o Leon.exe "src\\p2.o" 
+10:05:29 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p2.o" "..\\src\\p2.c" 
+gcc -o Leon.exe "src\\p2.o" 
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Leon
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Leon
+10:08:23 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p2.o" "..\\src\\p2.c" 
+..\src\p2.c: 関数 'WinMain' 内:
+..\src\p2.c:33:2: 警告: 1 番目の 'printf' の引数へ渡すときに整数からキャスト無しにポインタを作成しています [デフォルトで有効]
+In file included from ..\src\p2.c:8:0:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/stdio.h:294:37: 備考: expected 'const char *' but argument is of type 'int'
+gcc -o Leon.exe "src\\p2.o" 
+Info: Nothing to build for Hello
+10:08:50 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p2.o" "..\\src\\p2.c" 
+gcc -o Leon.exe "src\\p2.o" 
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+10:08:56 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p2.o" "..\\src\\p2.c" 
+..\src\p2.c: 関数 'WinMain' 内:
+..\src\p2.c:33:2: 警告: 1 番目の 'printf' の引数へ渡すときに整数からキャスト無しにポインタを作成しています [デフォルトで有効]
+In file included from ..\src\p2.c:8:0:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/stdio.h:294:37: 備考: expected 'const char *' but argument is of type 'int'
+gcc -o Leon.exe "src\\p2.o" 
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+10:09:01 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p2.o" "..\\src\\p2.c" 
+gcc -o Leon.exe "src\\p2.o" 
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Leon
+Info: Nothing to build for Leon
+Info: Nothing to build for Leon
+10:09:48 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p2.o" "..\\src\\p2.c" 
+gcc -o Leon.exe "src\\p2.o" 
+10:11:41 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p2.o" "..\\src\\p2.c" 
+..\src\p2.c: 関数 'WinMain' 内:
+..\src\p2.c:33:2: 警告: 真偽値として使われる代入のまわりでは、丸括弧の使用をお勧めします [-Wparentheses]
+gcc -o Leon.exe "src\\p2.o" 
+Info: Nothing to build for Hello
+10:11:56 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p2.o" "..\\src\\p2.c" 
+gcc -o Leon.exe "src\\p2.o" 
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Leon
+Info: Nothing to build for Leon
+Info: Nothing to build for Hello
+10:12:29 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p2.o" "..\\src\\p2.c" 
+gcc -o Leon.exe "src\\p2.o" 
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Leon
+10:13:12 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p2.o" "..\\src\\p2.c" 
+gcc -o Leon.exe "src\\p2.o" 
+Info: Nothing to build for Hello
+16:57:27 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p5.o" "..\\src\\p5.c" 
+gcc -o Leon.exe "src\\p5.o" "src\\p2.o" 
+src\p2.o: In function `WinMain@16':
+C:\Users\yumikoy\workspace\Leon\Debug/../src/p2.c:14: multiple definition of `WinMain@16'
+src\p5.o:C:\Users\yumikoy\workspace\Leon\Debug/../src/p5.c:14: first defined here
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+16:58:30 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p5.o" "..\\src\\p5.c" 
+..\src\p5.c: 関数 'WinMain' 内:
+..\src\p5.c:72:2: 警告: 関数 'printf' の暗黙的な宣言です [-Wimplicit-function-declaration]
+..\src\p5.c:72:2: 警告: 組み込み関数 'printf' の互換性がない暗黙的な宣言です [デフォルトで有効]
+gcc -o Leon.exe "src\\p5.o" 
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+16:58:41 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p5.o" "..\\src\\p5.c" 
+gcc -o Leon.exe "src\\p5.o" 
+Info: Nothing to build for Necowaka
+16:58:56 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p5.o" "..\\src\\p5.c" 
+gcc -o Leon.exe "src\\p5.o" 
+Info: Nothing to build for Hello
+17:02:18 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p5-2.o" "..\\src\\p5-2.c" 
+gcc -o Leon.exe "src\\p5.o" "src\\p5-2.o" 
+src\p5-2.o: In function `WinMain@16':
+C:\Users\yumikoy\workspace\Leon\Debug/../src/p5-2.c:11: multiple definition of `WinMain@16'
+src\p5.o:C:\Users\yumikoy\workspace\Leon\Debug/../src/p5.c:13: first defined here
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+17:03:34 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p5-2.o" "..\\src\\p5-2.c" 
+gcc -o Leon.exe "src\\p5.o" "src\\p5-2.o" 
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+17:07:42 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p5-2.o" "..\\src\\p5-2.c" 
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p5.o" "..\\src\\p5.c" 
+gcc -o Leon.exe "src\\p5.o" "src\\p5-2.o" 
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Leon
+Info: Nothing to build for Leon
+Info: Nothing to build for Leon
+Info: Nothing to build for Leon
+Info: Nothing to build for Hello
+17:15:55 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p5-2.o" "..\\src\\p5-2.c" 
+..\src\p5-2.c: 関数 'WinMain' 内:
+..\src\p5-2.c:15:2: 警告: 互換性のないポインタ型から 1 番目の 'wsprintfA' の引数に渡しています [デフォルトで有効]
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/windows.h:55:0,
+                 from ..\src\p5-2.c:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/winuser.h:4148:24: 備考: expected 'LPSTR' but argument is of type 'wchar_t *'
+..\src\p5-2.c:16:2: 警告: 互換性のないポインタ型から 2 番目の 'MessageBoxA' の引数に渡しています [デフォルトで有効]
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/windows.h:55:0,
+                 from ..\src\p5-2.c:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/winuser.h:3916:23: 備考: expected 'LPCSTR' but argument is of type 'wchar_t *'
+gcc -o Leon.exe "src\\p5.o" "src\\p5-2.o" 
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+17:16:09 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p5-2.o" "..\\src\\p5-2.c" 
+gcc -o Leon.exe "src\\p5.o" "src\\p5-2.o" 
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+17:34:59 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p5-2.o" "..\\src\\p5-2.c" 
+gcc -o Leon.exe "src\\p5.o" "src\\p5-2.o" 
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Leon
+17:35:17 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p5-2.o" "..\\src\\p5-2.c" 
+..\src\p5-2.c: 関数 'WinMain' 内:
+..\src\p5-2.c:15:18: エラー: converting to execution character set: Illegal byte sequence
+..\src\p5-2.c:15:2: 警告: 互換性のないポインタ型から 2 番目の 'wsprintfA' の引数に渡しています [デフォルトで有効]
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/windows.h:55:0,
+                 from ..\src\p5-2.c:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/winuser.h:4148:24: 備考: expected 'LPCSTR' but argument is of type 'short unsigned int *'
+Info: Nothing to build for Hello
+17:37:04 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p5-2.o" "..\\src\\p5-2.c" 
+..\src\p5-2.c: 関数 'WinMain' 内:
+..\src\p5-2.c:16:2: 警告: 関数 '_stprintf_s' の暗黙的な宣言です [-Wimplicit-function-declaration]
+..\src\p5-2.c:16:21: エラー: converting to execution character set: Illegal byte sequence
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+17:37:16 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p5-2.o" "..\\src\\p5-2.c" 
+..\src\p5-2.c: 関数 'WinMain' 内:
+..\src\p5-2.c:16:2: 警告: 関数 '_stprintf_s' の暗黙的な宣言です [-Wimplicit-function-declaration]
+gcc -o Leon.exe "src\\p5.o" "src\\p5-2.o" 
+src\p5-2.o: In function `WinMain@16':
+C:\Users\yumikoy\workspace\Leon\Debug/../src/p5-2.c:16: undefined reference to `_stprintf_s'
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+17:38:01 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p5-2.o" "..\\src\\p5-2.c" 
+..\src\p5-2.c: 関数 'WinMain' 内:
+..\src\p5-2.c:16:2: 警告: 関数 'stprintf' の暗黙的な宣言です [-Wimplicit-function-declaration]
+gcc -o Leon.exe "src\\p5.o" "src\\p5-2.o" 
+src\p5-2.o: In function `WinMain@16':
+C:\Users\yumikoy\workspace\Leon\Debug/../src/p5-2.c:16: undefined reference to `stprintf'
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+17:38:27 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p5-2.o" "..\\src\\p5-2.c" 
+..\src\p5-2.c: 関数 'WinMain' 内:
+..\src\p5-2.c:16:2: 警告: 関数 '_stprintf' の暗黙的な宣言です [-Wimplicit-function-declaration]
+gcc -o Leon.exe "src\\p5.o" "src\\p5-2.o" 
+src\p5-2.o: In function `WinMain@16':
+C:\Users\yumikoy\workspace\Leon\Debug/../src/p5-2.c:16: undefined reference to `_stprintf'
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+17:38:47 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p5-2.o" "..\\src\\p5-2.c" 
+..\src\p5-2.c: 関数 'WinMain' 内:
+..\src\p5-2.c:16:2: 警告: 関数 '_stprintf' の暗黙的な宣言です [-Wimplicit-function-declaration]
+..\src\p5-2.c:16:19: エラー: '_T' が宣言されていません (この関数内での最初の使用)
+..\src\p5-2.c:16:19: 備考: 未宣言の識別子は出現した各関数内で一回のみ報告されます
+..\src\p5-2.c:16:21: エラー: expected ')' before string constant
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+17:39:02 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p5-2.o" "..\\src\\p5-2.c" 
+..\src\p5-2.c: 関数 'WinMain' 内:
+..\src\p5-2.c:16:2: 警告: 関数 '_stprintf' の暗黙的な宣言です [-Wimplicit-function-declaration]
+..\src\p5-2.c:16:2: 警告: 関数 '_T' の暗黙的な宣言です [-Wimplicit-function-declaration]
+gcc -o Leon.exe "src\\p5.o" "src\\p5-2.o" 
+src\p5-2.o: In function `WinMain@16':
+C:\Users\yumikoy\workspace\Leon\Debug/../src/p5-2.c:16: undefined reference to `_T'
+C:\Users\yumikoy\workspace\Leon\Debug/../src/p5-2.c:16: undefined reference to `_stprintf'
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+17:39:12 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p5-2.o" "..\\src\\p5-2.c" 
+..\src\p5-2.c: 関数 'WinMain' 内:
+..\src\p5-2.c:16:2: 警告: 関数 'swprintf' の暗黙的な宣言です [-Wimplicit-function-declaration]
+..\src\p5-2.c:16:2: 警告: 関数 '_T' の暗黙的な宣言です [-Wimplicit-function-declaration]
+gcc -o Leon.exe "src\\p5.o" "src\\p5-2.o" 
+src\p5-2.o: In function `WinMain@16':
+C:\Users\yumikoy\workspace\Leon\Debug/../src/p5-2.c:16: undefined reference to `_T'
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+17:39:23 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p5-2.o" "..\\src\\p5-2.c" 
+..\src\p5-2.c: 関数 'WinMain' 内:
+..\src\p5-2.c:16:2: 警告: 関数 'swprintf' の暗黙的な宣言です [-Wimplicit-function-declaration]
+gcc -o Leon.exe "src\\p5.o" "src\\p5-2.o" 
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+17:39:38 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p5-2.o" "..\\src\\p5-2.c" 
+gcc -o Leon.exe "src\\p5.o" "src\\p5-2.o" 
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+10:01:35 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p5-2.o" "..\\src\\p5-2.c" 
+..\src\p5-2.c: 関数 'WinMain' 内:
+..\src\p5-2.c:26:16: 警告: 使用されない変数 'str' です [-Wunused-variable]
+gcc -o Leon.exe "src\\p5.o" "src\\p5-2.o" 
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+10:01:56 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p5-2.o" "..\\src\\p5-2.c" 
+..\src\p5-2.c: 関数 'WinMain' 内:
+..\src\p5-2.c:27:2: 警告: 関数 'printf' の暗黙的な宣言です [-Wimplicit-function-declaration]
+..\src\p5-2.c:27:2: 警告: 組み込み関数 'printf' の互換性がない暗黙的な宣言です [デフォルトで有効]
+gcc -o Leon.exe "src\\p5.o" "src\\p5-2.o" 
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+10:02:13 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p5-2.o" "..\\src\\p5-2.c" 
+gcc -o Leon.exe "src\\p5.o" "src\\p5-2.o" 
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Leon
+Info: Nothing to build for Hello
+10:02:47 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p5-2.o" "..\\src\\p5-2.c" 
+gcc -o Leon.exe "src\\p5.o" "src\\p5-2.o" 
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Leon
+Info: Nothing to build for Hello
+10:03:00 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p5-2.o" "..\\src\\p5-2.c" 
+..\src\p5-2.c: 関数 'WinMain' 内:
+..\src\p5-2.c:27:2: 警告: 関数 '_TEXT' の暗黙的な宣言です [-Wimplicit-function-declaration]
+..\src\p5-2.c:27:22: 警告: 初期化で整数からキャスト無しにポインタを作成しています [デフォルトで有効]
+gcc -o Leon.exe "src\\p5.o" "src\\p5-2.o" 
+src\p5-2.o: In function `WinMain@16':
+C:\Users\yumikoy\workspace\Leon\Debug/../src/p5-2.c:27: undefined reference to `_TEXT'
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+10:03:10 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p5-2.o" "..\\src\\p5-2.c" 
+gcc -o Leon.exe "src\\p5.o" "src\\p5-2.o" 
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Leon
+10:03:22 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p5-2.o" "..\\src\\p5-2.c" 
+..\src\p5-2.c: 関数 'WinMain' 内:
+..\src\p5-2.c:27:2: 警告: 関数 '_T' の暗黙的な宣言です [-Wimplicit-function-declaration]
+..\src\p5-2.c:27:22: 警告: 初期化で整数からキャスト無しにポインタを作成しています [デフォルトで有効]
+gcc -o Leon.exe "src\\p5.o" "src\\p5-2.o" 
+src\p5-2.o: In function `WinMain@16':
+C:\Users\yumikoy\workspace\Leon\Debug/../src/p5-2.c:27: undefined reference to `_T'
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Hello
+10:03:26 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -o Leon.exe "src\\p5.o" "src\\p5-2.o" 
+src\p5-2.o: In function `WinMain@16':
+C:\Users\yumikoy\workspace\Leon\Debug/../src/p5-2.c:27: undefined reference to `_T'
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+10:05:40 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p5-2.o" "..\\src\\p5-2.c" 
+gcc -o Leon.exe "src\\p5.o" "src\\p5-2.o" 
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+10:07:59 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p5-2.o" "..\\src\\p5-2.c" 
+gcc -o Leon.exe "src\\p5.o" "src\\p5-2.o" 
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Leon
+Info: Nothing to build for Hello
+10:23:38 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p5-2.o" "..\\src\\p5-2.c" 
+..\src\p5-2.c: 関数 'WinMain' 内:
+..\src\p5-2.c:18:18: エラー: converting to execution character set: Illegal byte sequence
+..\src\p5-2.c:18:2: 警告: 互換性のないポインタ型から 2 番目の 'wsprintfA' の引数に渡しています [デフォルトで有効]
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/windows.h:55:0,
+                 from ..\src\p5-2.c:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/winuser.h:4148:24: 備考: expected 'LPCSTR' but argument is of type 'short unsigned int *'
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+10:23:57 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p5-2.o" "..\\src\\p5-2.c" 
+..\src\p5-2.c: 関数 'WinMain' 内:
+..\src\p5-2.c:32:2: エラー: プログラム内に逸脱した '\201' があります
+..\src\p5-2.c:32:2: エラー: プログラム内に逸脱した '@' があります
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+10:24:05 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p5-2.o" "..\\src\\p5-2.c" 
+gcc -o Leon.exe "src\\p5.o" "src\\p5-2.o" 
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+10:24:14 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p5-2.o" "..\\src\\p5-2.c" 
+gcc -o Leon.exe "src\\p5.o" "src\\p5-2.o" 
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Leon
+Info: Nothing to build for Hello
+10:24:35 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p5-2.o" "..\\src\\p5-2.c" 
+..\src\p5-2.c: 関数 'WinMain' 内:
+..\src\p5-2.c:32:23: 警告: 互換性のないポインタ型からの初期化です [デフォルトで有効]
+..\src\p5-2.c:34:2: 警告: 互換性のないポインタ型から 1 番目の 'printf' の引数に渡しています [デフォルトで有効]
+In file included from ..\src\p5-2.c:9:0:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/stdio.h:294:37: 備考: expected 'const char *' but argument is of type 'const TCHAR * const*'
+gcc -o Leon.exe "src\\p5.o" "src\\p5-2.o" 
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+10:24:41 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p5-2.o" "..\\src\\p5-2.c" 
+gcc -o Leon.exe "src\\p5.o" "src\\p5-2.o" 
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Leon
+Info: Nothing to build for Hello
+10:36:21 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p5-2.o" "..\\src\\p5-2.c" 
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p6.o" "..\\src\\p6.c" 
+gcc -o Leon.exe "src\\p6.o" "src\\p5.o" "src\\p5-2.o" 
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Leon
+Info: Nothing to build for Hello
+10:43:01 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p6.o" "..\\src\\p6.c" 
+gcc -o Leon.exe "src\\p6.o" "src\\p5.o" "src\\p5-2.o" 
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+11:04:50 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p6.o" "..\\src\\p6.c" 
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p7.o" "..\\src\\p7.c" 
+..\src\p7.c: 関数 'WinMain' 内:
+..\src\p7.c:19:2: 警告: 関数 'MesageBox' の暗黙的な宣言です [-Wimplicit-function-declaration]
+gcc -o Leon.exe "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" 
+src\p7.o: In function `WinMain@16':
+C:\Users\yumikoy\workspace\Leon\Debug/../src/p7.c:19: undefined reference to `MesageBox'
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+11:05:02 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p7.o" "..\\src\\p7.c" 
+gcc -o Leon.exe "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" 
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Leon
+Info: Nothing to build for Leon
+Info: Nothing to build for Leon
+Info: Nothing to build for Hello
+11:09:36 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p7.o" "..\\src\\p7.c" 
+gcc -o Leon.exe "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" 
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Leon
+Info: Nothing to build for Leon
+11:10:19 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p7.o" "..\\src\\p7.c" 
+gcc -o Leon.exe "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" 
+Info: Nothing to build for Leon
+11:10:38 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p7.o" "..\\src\\p7.c" 
+gcc -o Leon.exe "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" 
+Info: Nothing to build for Hello
+11:46:21 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p7.o" "..\\src\\p7.c" 
+gcc -o Leon.exe "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" 
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+11:46:28 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p7.o" "..\\src\\p7.c" 
+gcc -o Leon.exe "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" 
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Leon
+Info: Nothing to build for Leon
+Info: Nothing to build for Hello
+15:14:29 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p7.o" "..\\src\\p7.c" 
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p8.o" "..\\src\\p8.c" 
+gcc -o Leon.exe "src\\p8.o" "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" 
+src\p8.o: In function `WinMain@16':
+C:\Users\yumikoy\workspace\Leon\Debug/../src/p8.c:21: undefined reference to `GetStockObject@4'
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+15:15:08 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p8.o" "..\\src\\p8.c" 
+gcc -o Leon.exe "src\\p8.o" "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" 
+src\p8.o: In function `WinMain@16':
+C:\Users\yumikoy\workspace\Leon\Debug/../src/p8.c:21: undefined reference to `GetStockObject@4'
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+15:17:52 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -o Leon.exe "src\\p8.o" "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" 
+src\p8.o: In function `WinMain@16':
+C:\Users\yumikoy\workspace\Leon\Debug/../src/p8.c:21: undefined reference to `GetStockObject@4'
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+15:18:38 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p8.o" "..\\src\\p8.c" 
+gcc -o Leon.exe "src\\p8.o" "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" 
+src\p8.o: In function `WinMain@16':
+C:\Users\yumikoy\workspace\Leon\Debug/../src/p8.c:21: undefined reference to `GetStockObject@4'
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+15:20:53 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p8.o" "..\\src\\p8.c" 
+gcc -o Leon.exe "src\\p8.o" "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" 
+src\p8.o: In function `WinMain@16':
+C:\Users\yumikoy\workspace\Leon\Debug/../src/p8.c:22: undefined reference to `GetStockObject@4'
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+15:21:40 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p8.o" "..\\src\\p8.c" 
+..\src\p8.c:9:17: 致命的エラー: gdi32: No such file or directory
+コンパイルを停止しました。
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+15:32:03 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -lgdi32 -o "src\\p8.o" "..\\src\\p8.c" 
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -lgdi32 -o "src\\p7.o" "..\\src\\p7.c" 
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -lgdi32 -o "src\\p6.o" "..\\src\\p6.c" 
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -lgdi32 -o "src\\p5.o" "..\\src\\p5.c" 
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -lgdi32 -o "src\\p5-2.o" "..\\src\\p5-2.c" 
+gcc -o Leon.exe "src\\p8.o" "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" 
+src\p8.o: In function `WinMain@16':
+C:\Users\yumikoy\workspace\Leon\Debug/../src/p8.c:21: undefined reference to `GetStockObject@4'
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+15:32:31 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -lgdi32 -c -fmessage-length=0 -o "src\\p6.o" "..\\src\\p6.c" 
+gcc -O0 -g3 -Wall -lgdi32 -c -fmessage-length=0 -o "src\\p5.o" "..\\src\\p5.c" 
+gcc -O0 -g3 -Wall -lgdi32 -c -fmessage-length=0 -o "src\\p5-2.o" "..\\src\\p5-2.c" 
+gcc -O0 -g3 -Wall -lgdi32 -c -fmessage-length=0 -o "src\\p7.o" "..\\src\\p7.c" 
+gcc -O0 -g3 -Wall -lgdi32 -c -fmessage-length=0 -o "src\\p8.o" "..\\src\\p8.c" 
+gcc -o Leon.exe "src\\p8.o" "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" 
+src\p8.o: In function `WinMain@16':
+C:\Users\yumikoy\workspace\Leon\Debug/../src/p8.c:21: undefined reference to `GetStockObject@4'
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+15:32:39 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -lgdi32 -c -fmessage-length=0 -o "src\\p8.o" "..\\src\\p8.c" 
+gcc -o Leon.exe "src\\p8.o" "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" 
+src\p8.o: In function `WinMain@16':
+C:\Users\yumikoy\workspace\Leon\Debug/../src/p8.c:21: undefined reference to `GetStockObject@4'
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+15:33:08 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -lgdi32 -c -fmessage-length=0 -o "src\\p8.o" "..\\src\\p8.c" 
+gcc -o Leon.exe "src\\p8.o" "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" 
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+15:38:59 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -l gdi32 -c -fmessage-length=0 -o "src\\p5-2.o" "..\\src\\p5-2.c" 
+gcc -O0 -g3 -Wall -l gdi32 -c -fmessage-length=0 -o "src\\p5.o" "..\\src\\p5.c" 
+gcc -O0 -g3 -Wall -l gdi32 -c -fmessage-length=0 -o "src\\p8.o" "..\\src\\p8.c" 
+gcc -O0 -g3 -Wall -l gdi32 -c -fmessage-length=0 -o "src\\p6.o" "..\\src\\p6.c" 
+gcc -O0 -g3 -Wall -l gdi32 -c -fmessage-length=0 -o "src\\p7.o" "..\\src\\p7.c" 
+gcc -o Leon.exe "src\\p8.o" "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" 
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+15:39:43 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -l gdi32 -c -fmessage-length=0 -mwindows -o "src\\p5-2.o" "..\\src\\p5-2.c" 
+gcc -O0 -g3 -Wall -l gdi32 -c -fmessage-length=0 -mwindows -o "src\\p8.o" "..\\src\\p8.c" 
+gcc -O0 -g3 -Wall -l gdi32 -c -fmessage-length=0 -mwindows -o "src\\p7.o" "..\\src\\p7.c" 
+gcc -O0 -g3 -Wall -l gdi32 -c -fmessage-length=0 -mwindows -o "src\\p6.o" "..\\src\\p6.c" 
+gcc -O0 -g3 -Wall -l gdi32 -c -fmessage-length=0 -mwindows -o "src\\p5.o" "..\\src\\p5.c" 
+gcc -o Leon.exe "src\\p8.o" "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" 
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+15:41:20 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p6.o" "..\\src\\p6.c" 
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p5-2.o" "..\\src\\p5-2.c" 
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p7.o" "..\\src\\p7.c" 
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p8.o" "..\\src\\p8.c" 
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p5.o" "..\\src\\p5.c" 
+gcc -o Leon.exe "src\\p8.o" "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" -lgdi32 
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+15:46:36 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc "-LC:\\windows\\System32" -o Leon.exe "src\\p8.o" "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" -lgdi32 
+Warning: resolving _SetUnhandledExceptionFilter@4 by linking to _SetUnhandledExceptionFilter
+Use --enable-stdcall-fixup to disable these warnings
+Use --disable-stdcall-fixup to disable these fixups
+Warning: resolving _ExitProcess@4 by linking to _ExitProcess
+Warning: resolving _GetModuleHandleA@4 by linking to _GetModuleHandleA
+Warning: resolving _GetProcAddress@8 by linking to _GetProcAddress
+Warning: resolving _DefWindowProcA@16 by linking to _DefWindowProcA
+Warning: resolving _LoadIconA@8 by linking to _LoadIconA
+Warning: resolving _LoadCursorA@8 by linking to _LoadCursorA
+Warning: resolving _RegisterClassA@4 by linking to _RegisterClassA
+Warning: resolving _CreateWindowExA@48 by linking to _CreateWindowExA
+Warning: resolving _ShowWindow@8 by linking to _ShowWindow
+Warning: resolving _MessageBoxA@16 by linking to _MessageBoxA
+Warning: resolving _VirtualQuery@12 by linking to _VirtualQuery
+Warning: resolving _VirtualProtect@16 by linking to _VirtualProtect
+Warning: resolving _GetCommandLineA@0 by linking to _GetCommandLineA
+Warning: resolving _GetStartupInfoA@4 by linking to _GetStartupInfoA
+Warning: resolving _EnterCriticalSection@4 by linking to _EnterCriticalSection
+Warning: resolving _TlsGetValue@4 by linking to _TlsGetValue
+Warning: resolving _GetLastError@0 by linking to _GetLastError
+Warning: resolving _LeaveCriticalSection@4 by linking to _LeaveCriticalSection
+Warning: resolving _DeleteCriticalSection@4 by linking to _DeleteCriticalSection
+Warning: resolving _InitializeCriticalSection@4 by linking to _InitializeCriticalSection
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+15:48:02 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p8.o" "..\\src\\p8.c" 
+gcc "-LC:\\windows\\System32" -o Leon.exe "src\\p8.o" "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" -lgdi32 
+Warning: resolving _SetUnhandledExceptionFilter@4 by linking to _SetUnhandledExceptionFilter
+Use --enable-stdcall-fixup to disable these warnings
+Use --disable-stdcall-fixup to disable these fixups
+Warning: resolving _ExitProcess@4 by linking to _ExitProcess
+Warning: resolving _GetModuleHandleA@4 by linking to _GetModuleHandleA
+Warning: resolving _GetProcAddress@8 by linking to _GetProcAddress
+Warning: resolving _DefWindowProcA@16 by linking to _DefWindowProcA
+Warning: resolving _LoadIconA@8 by linking to _LoadIconA
+Warning: resolving _LoadCursorA@8 by linking to _LoadCursorA
+Warning: resolving _GetStockObject@4 by linking to _GetStockObject
+Warning: resolving _RegisterClassA@4 by linking to _RegisterClassA
+Warning: resolving _CreateWindowExA@48 by linking to _CreateWindowExA
+Warning: resolving _ShowWindow@8 by linking to _ShowWindow
+Warning: resolving _MessageBoxA@16 by linking to _MessageBoxA
+Warning: resolving _VirtualQuery@12 by linking to _VirtualQuery
+Warning: resolving _VirtualProtect@16 by linking to _VirtualProtect
+Warning: resolving _GetCommandLineA@0 by linking to _GetCommandLineA
+Warning: resolving _GetStartupInfoA@4 by linking to _GetStartupInfoA
+Warning: resolving _EnterCriticalSection@4 by linking to _EnterCriticalSection
+Warning: resolving _TlsGetValue@4 by linking to _TlsGetValue
+Warning: resolving _GetLastError@0 by linking to _GetLastError
+Warning: resolving _LeaveCriticalSection@4 by linking to _LeaveCriticalSection
+Warning: resolving _DeleteCriticalSection@4 by linking to _DeleteCriticalSection
+Warning: resolving _InitializeCriticalSection@4 by linking to _InitializeCriticalSection
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+15:48:25 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -o Leon.exe "src\\p8.o" "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" -lgdi32 
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Leon
+Info: Nothing to build for Leon
+Info: Nothing to build for Hello
+16:07:46 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p8.o" "..\\src\\p8.c" 
+gcc -o Leon.exe "src\\p8.o" "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" -lgdi32 
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Leon
+Info: Nothing to build for Hello
+16:09:43 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p8.o" "..\\src\\p8.c" 
+gcc -o Leon.exe "src\\p8.o" "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" -lgdi32 
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Leon
+Info: Nothing to build for Leon
+Info: Nothing to build for Hello
+16:15:40 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p8.o" "..\\src\\p8.c" 
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p9.o" "..\\src\\p9.c" 
+gcc -o Leon.exe "src\\p9.o" "src\\p8.o" "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" -lgdi32 
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file Leon.exe: Permission denied
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Necowaka
+16:15:43 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -o Leon.exe "src\\p9.o" "src\\p8.o" "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" -lgdi32 
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file Leon.exe: Permission denied
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Hello
+16:15:53 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -o Leon.exe "src\\p9.o" "src\\p8.o" "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" -lgdi32 
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file Leon.exe: Permission denied
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+16:16:28 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p9.o" "..\\src\\p9.c" 
+gcc -o Leon.exe "src\\p9.o" "src\\p8.o" "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" -lgdi32 
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file Leon.exe: Permission denied
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Necowaka
+16:16:31 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -o Leon.exe "src\\p9.o" "src\\p8.o" "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" -lgdi32 
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file Leon.exe: Permission denied
+collect2.exe: エラー: ld はステータス 1 で終了しました
+16:16:46 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -o Leon.exe "src\\p9.o" "src\\p8.o" "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" -lgdi32 
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file Leon.exe: Permission denied
+collect2.exe: エラー: ld はステータス 1 で終了しました
+16:16:55 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -o Leon.exe "src\\p9.o" "src\\p8.o" "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" -lgdi32 
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file Leon.exe: Permission denied
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Hello
+16:23:12 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p9.o" "..\\src\\p9.c" 
+..\src\p9.c: 関数 'WinMain' 内:
+..\src\p9.c:13:6: 警告: 使用されない変数 'msg' です [-Wunused-variable]
+gcc -o Leon.exe "src\\p9.o" "src\\p8.o" "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" -lgdi32 
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file Leon.exe: Permission denied
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+16:23:22 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p9.o" "..\\src\\p9.c" 
+gcc -o Leon.exe "src\\p9.o" "src\\p8.o" "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" -lgdi32 
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file Leon.exe: Permission denied
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Necowaka
+16:23:26 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p9.o" "..\\src\\p9.c" 
+gcc -o Leon.exe "src\\p9.o" "src\\p8.o" "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" -lgdi32 
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file Leon.exe: Permission denied
+collect2.exe: エラー: ld はステータス 1 で終了しました
+16:24:25 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -o Leon.exe "src\\p9.o" "src\\p8.o" "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" -lgdi32 
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file Leon.exe: Permission denied
+collect2.exe: エラー: ld はステータス 1 で終了しました
+16:25:47 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -o Leon.exe "src\\p9.o" "src\\p8.o" "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" -lgdi32 
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file Leon.exe: Permission denied
+collect2.exe: エラー: ld はステータス 1 で終了しました
+16:26:24 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -o Leon.exe "src\\p9.o" "src\\p8.o" "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" -lgdi32 
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file Leon.exe: Permission denied
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Hello
+16:26:36 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -o Leon.exe "src\\p9.o" "src\\p8.o" "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" -lgdi32 
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file Leon.exe: Permission denied
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+16:27:15 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p9.o" "..\\src\\p9.c" 
+gcc -o Leon.exe "src\\p9.o" "src\\p8.o" "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" -lgdi32 
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file Leon.exe: Permission denied
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Necowaka
+16:27:18 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -o Leon.exe "src\\p9.o" "src\\p8.o" "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" -lgdi32 
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file Leon.exe: Permission denied
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Hello
+16:27:53 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p8.o" "..\\src\\p8.c" 
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p9.o" "..\\src\\p9.c" 
+gcc -o Leon.exe "src\\p9.o" "src\\p8.o" "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" -lgdi32 
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file Leon.exe: Permission denied
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Necowaka
+16:28:06 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -o Leon.exe "src\\p9.o" "src\\p8.o" "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" -lgdi32 
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file Leon.exe: Permission denied
+collect2.exe: エラー: ld はステータス 1 で終了しました
+16:28:23 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -o Leon.exe "src\\p9.o" "src\\p8.o" "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" -lgdi32 
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file Leon.exe: Permission denied
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Hello
+16:28:46 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p8.o" "..\\src\\p8.c" 
+gcc -o Leon.exe "src\\p9.o" "src\\p8.o" "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" -lgdi32 
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file Leon.exe: Permission denied
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Necowaka
+16:28:49 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -o Leon.exe "src\\p9.o" "src\\p8.o" "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" -lgdi32 
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file Leon.exe: Permission denied
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Hello
+16:29:52 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -o Leon.exe "src\\p9.o" "src\\p8.o" "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" -lgdi32 
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file Leon.exe: Permission denied
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+16:29:58 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p9.o" "..\\src\\p9.c" 
+gcc -o Leon.exe "src\\p9.o" "src\\p8.o" "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" -lgdi32 
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file Leon.exe: Permission denied
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Necowaka
+16:30:00 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -o Leon.exe "src\\p9.o" "src\\p8.o" "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" -lgdi32 
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file Leon.exe: Permission denied
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Hello
+16:30:19 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p9.o" "..\\src\\p9.c" 
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p8.o" "..\\src\\p8.c" 
+gcc -o Leon.exe "src\\p9.o" "src\\p8.o" "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" -lgdi32 
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file Leon.exe: Permission denied
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Necowaka
+16:30:21 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -o Leon.exe "src\\p9.o" "src\\p8.o" "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" -lgdi32 
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file Leon.exe: Permission denied
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Hello
+16:34:53 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p5.o" "..\\src\\p5.c" 
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p8.o" "..\\src\\p8.c" 
+gcc -o Leon.exe "src\\p9.o" "src\\p8.o" "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" -lgdi32 
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Leon
+Info: Nothing to build for Hello
+16:35:12 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p5.o" "..\\src\\p5.c" 
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p8.o" "..\\src\\p8.c" 
+gcc -o Leon.exe "src\\p9.o" "src\\p8.o" "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" -lgdi32 
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Leon
+Info: Nothing to build for Hello
+16:35:30 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p9.o" "..\\src\\p9.c" 
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p8.o" "..\\src\\p8.c" 
+gcc -o Leon.exe "src\\p9.o" "src\\p8.o" "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" -lgdi32 
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Leon
+Info: Nothing to build for Hello
+16:35:57 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p9.o" "..\\src\\p9.c" 
+gcc -o Leon.exe "src\\p9.o" "src\\p8.o" "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" -lgdi32 
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Leon
+Info: Nothing to build for Hello
+16:48:26 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p10.o" "..\\src\\p10.c" 
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p9.o" "..\\src\\p9.c" 
+gcc -o Leon.exe "src\\p9.o" "src\\p8.o" "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" "src\\p10.o" -lgdi32 
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Leon
+16:52:24 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p10.o" "..\\src\\p10.c" 
+gcc -o Leon.exe "src\\p9.o" "src\\p8.o" "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" "src\\p10.o" -lgdi32 
+Info: Nothing to build for Hello
+16:52:40 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p10.o" "..\\src\\p10.c" 
+gcc -o Leon.exe "src\\p9.o" "src\\p8.o" "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" "src\\p10.o" -lgdi32 
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Leon
+Info: Nothing to build for Leon
+Info: Nothing to build for Hello
+16:53:23 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p10.o" "..\\src\\p10.c" 
+gcc -o Leon.exe "src\\p9.o" "src\\p8.o" "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" "src\\p10.o" -lgdi32 
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Leon
+Info: Nothing to build for Hello
+16:59:35 **** Incremental Build of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p10.o" "..\\src\\p10.c" 
+gcc -o Leon.exe "src\\p9.o" "src\\p8.o" "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" "src\\p10.o" -lgdi32 
+16:59:36 **** Incremental Build of configuration Debug for project Necowaka ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p4.o" "..\\src\\p4.cpp" 
+..\src\p4.cpp: 関数 'ATOM InitApp(HINSTANCE)' 内:
+..\src\p4.cpp:37:37: エラー: cast from 'LPSTR {aka char*}' to 'WORD {aka short unsigned int}' loses precision [-fpermissive]
+..\src\p4.cpp:39:41: エラー: cast from 'LPSTR {aka char*}' to 'WORD {aka short unsigned int}' loses precision [-fpermissive]
+..\src\p4.cpp:44:39: エラー: cast from 'LPSTR {aka char*}' to 'WORD {aka short unsigned int}' loses precision [-fpermissive]
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+17:02:46 **** Incremental Build of configuration Debug for project Necowaka ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p4.o" "..\\src\\p4.cpp" 
+..\src\p4.cpp: 関数 'ATOM InitApp(HINSTANCE)' 内:
+..\src\p4.cpp:39:41: エラー: cast from 'LPSTR {aka char*}' to 'WORD {aka short unsigned int}' loses precision [-fpermissive]
+..\src\p4.cpp:44:39: エラー: cast from 'LPSTR {aka char*}' to 'WORD {aka short unsigned int}' loses precision [-fpermissive]
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+17:03:03 **** Incremental Build of configuration Debug for project Necowaka ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p4.o" "..\\src\\p4.cpp" 
+..\src\p4.cpp:39:2: エラー: プログラム内に逸脱した '\201' があります
+..\src\p4.cpp:39:2: エラー: プログラム内に逸脱した '@' があります
+..\src\p4.cpp:44:2: エラー: プログラム内に逸脱した '\201' があります
+..\src\p4.cpp:44:2: エラー: プログラム内に逸脱した '@' があります
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+17:03:59 **** Incremental Build of configuration Debug for project Necowaka ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p4.o" "..\\src\\p4.cpp" 
+..\src\p4.cpp:39:2: エラー: プログラム内に逸脱した '\201' があります
+..\src\p4.cpp:39:2: エラー: プログラム内に逸脱した '@' があります
+..\src\p4.cpp:44:2: エラー: プログラム内に逸脱した '\201' があります
+..\src\p4.cpp:44:2: エラー: プログラム内に逸脱した '@' があります
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+17:04:17 **** Incremental Build of configuration Debug for project Necowaka ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p4.o" "..\\src\\p4.cpp" 
+g++ -o Necowaka.exe "src\\p4.o" 
+src\p4.o: In function `Z7InitAppP11HINSTANCE__':
+C:\Users\yumikoy\workspace\Necowaka\Debug/../src/p4.cpp:41: undefined reference to `GetStockObject@4'
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+17:05:00 **** Incremental Build of configuration Debug for project Necowaka ****
+Info: Internal Builder is used for build
+g++ -o Necowaka.exe "src\\p4.o" -lgdi32 
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+17:05:18 **** Incremental Build of configuration Debug for project Necowaka ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p4.o" "..\\src\\p4.cpp" 
+..\src\p4.cpp: 関数 'ATOM InitApp(HINSTANCE)' 内:
+..\src\p4.cpp:39:41: エラー: cast from 'LPSTR {aka char*}' to 'WORD {aka short unsigned int}' loses precision [-fpermissive]
+..\src\p4.cpp:44:39: エラー: cast from 'LPSTR {aka char*}' to 'WORD {aka short unsigned int}' loses precision [-fpermissive]
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+17:09:03 **** Incremental Build of configuration Debug for project Necowaka ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p4.o" "..\\src\\p4.cpp" 
+..\src\p4.cpp: 関数 'ATOM InitApp(HINSTANCE)' 内:
+..\src\p4.cpp:47:41: エラー: cast from 'LPSTR {aka char*}' to 'WORD {aka short unsigned int}' loses precision [-fpermissive]
+..\src\p4.cpp:52:39: エラー: cast from 'LPSTR {aka char*}' to 'WORD {aka short unsigned int}' loses precision [-fpermissive]
+17:09:36 **** Incremental Build of configuration Debug for project Necowaka ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p4.o" "..\\src\\p4.cpp" 
+g++ -o Necowaka.exe "src\\p4.o" -lgdi32 
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+17:10:01 **** Incremental Build of configuration Debug for project Necowaka ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p4.o" "..\\src\\p4.cpp" 
+g++ -o Necowaka.exe "src\\p4.o" -lgdi32 
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+17:13:50 **** Incremental Build of configuration Debug for project Necowaka ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p18.o" "..\\src\\p18.cpp" 
+g++ -o Necowaka.exe "src\\p18.o" "src\\p4.o" -lgdi32 
+src\p4.o: In function `WinMain@16':
+C:\Users\yumikoy\workspace\Necowaka\Debug/../src/p4.cpp:18: multiple definition of `WinMain@16'
+src\p18.o:C:\Users\yumikoy\workspace\Necowaka\Debug/../src/p18.cpp:18: first defined here
+src\p4.o: In function `Z7InitAppP11HINSTANCE__':
+C:\Users\yumikoy\workspace\Necowaka\Debug/../src/p4.cpp:37: multiple definition of `InitApp(HINSTANCE__*)'
+src\p18.o:C:\Users\yumikoy\workspace\Necowaka\Debug/../src/p18.cpp:37: first defined here
+src\p4.o: In function `Z12InitInstanceP11HINSTANCE(int)':
+C:\Users\yumikoy\workspace\Necowaka\Debug/../src/p4.cpp:58: multiple definition of `InitInstance(HINSTANCE__*, int)'
+src\p18.o:C:\Users\yumikoy\workspace\Necowaka\Debug/../src/p18.cpp:58: first defined here
+src\p4.o: In function `Z7WndProcP6HWND__jjl@16':
+C:\Users\yumikoy\workspace\Necowaka\Debug/../src/p4.cpp:76: multiple definition of `WndProc(HWND__*, unsigned int, unsigned int, long)@16'
+src\p18.o:C:\Users\yumikoy\workspace\Necowaka\Debug/../src/p18.cpp:76: first defined here
+src\p4.o:p4.cpp:(.data+0x0): multiple definition of `szClassName'
+src\p18.o:p18.cpp:(.data+0x0): first defined here
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+17:14:36 **** Incremental Build of configuration Debug for project Necowaka ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p18.o" "..\\src\\p18.c" 
+g++ -o Necowaka.exe "src\\p18.o" -lgdi32 
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../libmingw32.a(main.o):main.c:(.text.startup+0xa7): undefined reference to `WinMain@16'
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+17:14:45 **** Incremental Build of configuration Debug for project Necowaka ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p18.o" "..\\src\\p18.c" 
+g++ -o Necowaka.exe "src\\p18.o" -lgdi32 

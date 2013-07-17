@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Necowaka/src/p4.cpp&apos; to &apos;p18.cpp&apos;" description="Rename resource &apos;p4.cpp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/p4.cpp" name="p18.cpp" stamp="1373962425775" updateReferences="true"/>
+</session>
