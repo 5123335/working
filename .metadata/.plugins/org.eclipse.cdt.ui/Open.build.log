@@ -1,1 +1,8 @@
-Info: Nothing to build for Open
+17:16:32 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day01z1daichisouzou.o" "..\\src\\day01z1daichisouzou.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+
+17:16:33 Build Finished (took 967ms)
+

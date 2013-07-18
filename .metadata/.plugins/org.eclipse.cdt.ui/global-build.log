@@ -3717,3 +3717,575 @@ g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day10rotate.o" "..\\src\\day10r
 g++ -o Open.exe "src\\sekainohajimari.o" "src\\day2chiheisen.o" "src\\day10rotate.o" -lglut32 -lglu32 -lopengl32 
 Info: Nothing to build for Open
 Info: Nothing to build for Open
+14:33:37 **** Rebuild of configuration Debug for project Hello ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Hello.o" "..\\src\\Hello.cpp" 
+g++ -o Hello.exe "src\\Hello.o" 
+14:33:46 **** Rebuild of configuration Debug for project Leon ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p8.o" "..\\src\\p8.c" 
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p5.o" "..\\src\\p5.c" 
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p7.o" "..\\src\\p7.c" 
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p9.o" "..\\src\\p9.c" 
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p10.o" "..\\src\\p10.c" 
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p6.o" "..\\src\\p6.c" 
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p5-2.o" "..\\src\\p5-2.c" 
+gcc -o Leon.exe "src\\p9.o" "src\\p8.o" "src\\p7.o" "src\\p6.o" "src\\p5.o" "src\\p5-2.o" "src\\p10.o" -lgdi32 
+14:33:50 **** Rebuild of configuration Debug for project Necowaka ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p18.o" "..\\src\\p18.c" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -finput-charset=cp932 -fexec-charset=cp932 -o "src\\p31text01.o" "..\\src\\p31text01.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -finput-charset=cp932 -fexec-charset=cp932 -o "src\\p58textanimation01.o" "..\\src\\p58textanimation01.cpp" 
+g++ -o Necowaka.exe "src\\p58textanimation01.o" "src\\p31text01.o" "src\\p18.o" -lgdi32 
+14:33:52 **** Rebuild of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day10rotate.o" "..\\src\\day10rotate.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day2chiheisen.o" "..\\src\\day2chiheisen.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sekainohajimari.o" "..\\src\\sekainohajimari.cpp" 
+g++ -o Open.exe "src\\sekainohajimari.o" "src\\day2chiheisen.o" "src\\day10rotate.o" -lglut32 -lglu32 -lopengl32 
+Info: Nothing to build for Open
+Info: Nothing to build for Open
+Info: Nothing to build for Open
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+14:35:28 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sekainohajimari.o" "..\\src\\sekainohajimari.cpp" 
+g++ -o Open.exe "src\\sekainohajimari.o" "src\\day2chiheisen.o" "src\\day10rotate.o" -lglut32 -lglu32 -lopengl32 
+Info: Nothing to build for Open
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+14:48:51 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sekainohajimari.o" "..\\src\\sekainohajimari.cpp" 
+g++ -o Open.exe "src\\sekainohajimari.o" "src\\day2chiheisen.o" "src\\day10rotate.o" -lglut32 -lglu32 -lopengl32 
+Info: Nothing to build for Open
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+14:49:04 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sekainohajimari.o" "..\\src\\sekainohajimari.cpp" 
+g++ -o Open.exe "src\\sekainohajimari.o" "src\\day2chiheisen.o" "src\\day10rotate.o" -lglut32 -lglu32 -lopengl32 
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+14:53:35 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sekainohajimari.o" "..\\src\\sekainohajimari.cpp" 
+..\src\sekainohajimari.cpp: 関数 'void Display()' 内:
+..\src\sekainohajimari.cpp:49:18: エラー: 'void Display()' was declared 'extern' and later 'static' [-fpermissive]
+..\src\sekainohajimari.cpp:23:6: エラー: previous declaration of 'void Display()' [-fpermissive]
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+14:53:53 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sekainohajimari.o" "..\\src\\sekainohajimari.cpp" 
+..\src\sekainohajimari.cpp: 関数 'void Display()' 内:
+..\src\sekainohajimari.cpp:49:18: エラー: 'void Display()' was declared 'extern' and later 'static' [-fpermissive]
+..\src\sekainohajimari.cpp:23:6: エラー: previous declaration of 'void Display()' [-fpermissive]
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+14:53:59 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sekainohajimari.o" "..\\src\\sekainohajimari.cpp" 
+..\src\sekainohajimari.cpp: 関数 'void Display()' 内:
+..\src\sekainohajimari.cpp:49:18: エラー: 'void Display()' was declared 'extern' and later 'static' [-fpermissive]
+..\src\sekainohajimari.cpp:23:6: エラー: previous declaration of 'void Display()' [-fpermissive]
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+14:54:03 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sekainohajimari.o" "..\\src\\sekainohajimari.cpp" 
+..\src\sekainohajimari.cpp: 関数 'void Display()' 内:
+..\src\sekainohajimari.cpp:49:18: エラー: 'void Display()' was declared 'extern' and later 'static' [-fpermissive]
+..\src\sekainohajimari.cpp:23:6: エラー: previous declaration of 'void Display()' [-fpermissive]
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+14:54:15 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sekainohajimari.o" "..\\src\\sekainohajimari.cpp" 
+g++ -o Open.exe "src\\sekainohajimari.o" "src\\day2chiheisen.o" "src\\day10rotate.o" -lglut32 -lglu32 -lopengl32 
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+14:55:35 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sekainohajimari.o" "..\\src\\sekainohajimari.cpp" 
+..\src\sekainohajimari.cpp:17:40: エラー: '_T' was not declared in this scope
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+14:55:39 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sekainohajimari.o" "..\\src\\sekainohajimari.cpp" 
+g++ -o Open.exe "src\\sekainohajimari.o" "src\\day2chiheisen.o" "src\\day10rotate.o" -lglut32 -lglu32 -lopengl32 
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+14:59:06 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sekainohajimari.o" "..\\src\\sekainohajimari.cpp" 
+g++ -o Open.exe "src\\sekainohajimari.o" "src\\day2chiheisen.o" "src\\day10rotate.o" -lglut32 -lglu32 -lopengl32 
+Info: Nothing to build for Open
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+15:02:12 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sekainohajimari.o" "..\\src\\sekainohajimari.cpp" 
+g++ -o Open.exe "src\\sekainohajimari.o" "src\\day2chiheisen.o" "src\\day10rotate.o" -lglut32 -lglu32 -lopengl32 
+Info: Nothing to build for Open
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+15:02:38 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\sekainohajimari.o" "..\\src\\sekainohajimari.cpp" 
+g++ -o Open.exe "src\\sekainohajimari.o" "src\\day2chiheisen.o" "src\\day10rotate.o" -lglut32 -lglu32 -lopengl32 
+Info: Nothing to build for Open
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+15:30:34 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day10rotate.o" "..\\src\\day10rotate.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day02chiheisen.o" "..\\src\\day02chiheisen.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day0101daichisouzou.o" "..\\src\\day0101daichisouzou.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day01sekainohajimari.o" "..\\src\\day01sekainohajimari.cpp" 
+g++ -o Open.exe "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01sekainohajimari.o" "src\\day0101daichisouzou.o" "src\\day2chiheisen.o" "src\\sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+src\sekainohajimari.o: In function `main':
+C:\Users\yumikoy\workspace\Open\Debug/../src/sekainohajimari.cpp:27: multiple definition of `main'
+src\day0101daichisouzou.o:C:\Users\yumikoy\workspace\Open\Debug/../src/day0101daichisouzou.cpp:31: first defined here
+src\sekainohajimari.o: In function `Z10Initializev':
+C:\Users\yumikoy\workspace\Open\Debug/../src/sekainohajimari.cpp:41: multiple definition of `Initialize()'
+src\day0101daichisouzou.o:C:\Users\yumikoy\workspace\Open\Debug/../src/day0101daichisouzou.cpp:46: first defined here
+src\sekainohajimari.o: In function `Z7Displayv':
+C:\Users\yumikoy\workspace\Open\Debug/../src/sekainohajimari.cpp:49: multiple definition of `Display()'
+src\day0101daichisouzou.o:C:\Users\yumikoy\workspace\Open\Debug/../src/day0101daichisouzou.cpp:69: first defined here
+src\sekainohajimari.o:sekainohajimari.cpp:(.data+0x0): multiple definition of `WindowPositionX'
+src\day0101daichisouzou.o:day0101daichisouzou.cpp:(.data+0x0): first defined here
+src\sekainohajimari.o:sekainohajimari.cpp:(.data+0x4): multiple definition of `WindowPositionY'
+src\day0101daichisouzou.o:day0101daichisouzou.cpp:(.data+0x4): first defined here
+src\sekainohajimari.o:sekainohajimari.cpp:(.data+0x8): multiple definition of `WindowWidth'
+src\day0101daichisouzou.o:day0101daichisouzou.cpp:(.data+0x8): first defined here
+src\sekainohajimari.o:sekainohajimari.cpp:(.data+0xc): multiple definition of `WindowHeight'
+src\day0101daichisouzou.o:day0101daichisouzou.cpp:(.data+0xc): first defined here
+src\sekainohajimari.o:sekainohajimari.cpp:(.data+0x10): multiple definition of `WindowTitle'
+src\day0101daichisouzou.o:day0101daichisouzou.cpp:(.data+0x10): first defined here
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+15:31:30 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day0101daichisouzou.o" "..\\src\\day0101daichisouzou.cpp" 
+g++ -o Open.exe "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01sekainohajimari.o" "src\\day0101daichisouzou.o" -lglut32 -lglu32 -lopengl32 
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+15:31:36 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day0101daichisouzou.o" "..\\src\\day0101daichisouzou.cpp" 
+g++ -o Open.exe "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01sekainohajimari.o" "src\\day0101daichisouzou.o" -lglut32 -lglu32 -lopengl32 
+Info: Nothing to build for Open
+15:33:06 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day0101daichisouzou.o" "..\\src\\day0101daichisouzou.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day01sekainohajimari.o" "..\\src\\day01sekainohajimari.cpp" 
+g++ -o Open.exe "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01sekainohajimari.o" "src\\day0101daichisouzou.o" -lglut32 -lglu32 -lopengl32 
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+15:41:52 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day0101daichisouzou.o" "..\\src\\day0101daichisouzou.cpp" 
+g++ -o Open.exe "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01sekainohajimari.o" "src\\day0101daichisouzou.o" -lglut32 -lglu32 -lopengl32 
+Info: Nothing to build for Open
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+15:52:16 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day01sekainohajimari.o" "..\\src\\day01sekainohajimari.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day0101daichisouzou.o" "..\\src\\day0101daichisouzou.cpp" 
+g++ -o Open.exe "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01sekainohajimari.o" "src\\day0101daichisouzou.o" -lglut32 -lglu32 -lopengl32 
+Info: Nothing to build for Open
+Info: Nothing to build for Open
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+15:52:46 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day01sekainohajimari.o" "..\\src\\day01sekainohajimari.cpp" 
+g++ -o Open.exe "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01sekainohajimari.o" "src\\day0101daichisouzou.o" -lglut32 -lglu32 -lopengl32 
+Info: Nothing to build for Open
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+15:53:24 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day01sekainohajimari.o" "..\\src\\day01sekainohajimari.cpp" 
+..\src\day01sekainohajimari.cpp: 関数 'void Display()' 内:
+..\src\day01sekainohajimari.cpp:51:14: エラー: 'printf' was not declared in this scope
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+15:53:35 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day01sekainohajimari.o" "..\\src\\day01sekainohajimari.cpp" 
+..\src\day01sekainohajimari.cpp:10:19: 致命的エラー: stdin.h: No such file or directory
+コンパイルを停止しました。
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+15:53:41 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day01sekainohajimari.o" "..\\src\\day01sekainohajimari.cpp" 
+g++ -o Open.exe "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01sekainohajimari.o" "src\\day0101daichisouzou.o" -lglut32 -lglu32 -lopengl32 
+Info: Nothing to build for Open
+15:53:51 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day01sekainohajimari.o" "..\\src\\day01sekainohajimari.cpp" 
+..\src\day01sekainohajimari.cpp:10:18: 致命的エラー: stdi.h: No such file or directory
+コンパイルを停止しました。
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+15:53:55 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day01sekainohajimari.o" "..\\src\\day01sekainohajimari.cpp" 
+g++ -o Open.exe "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01sekainohajimari.o" "src\\day0101daichisouzou.o" -lglut32 -lglu32 -lopengl32 
+Info: Nothing to build for Open
+15:56:05 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day01sekainohajimari.o" "..\\src\\day01sekainohajimari.cpp" 
+g++ -o Open.exe "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01sekainohajimari.o" "src\\day0101daichisouzou.o" -lglut32 -lglu32 -lopengl32 
+15:56:37 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day01sekainohajimari.o" "..\\src\\day01sekainohajimari.cpp" 
+g++ -o Open.exe "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01sekainohajimari.o" "src\\day0101daichisouzou.o" -lglut32 -lglu32 -lopengl32 
+15:56:47 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day01sekainohajimari.o" "..\\src\\day01sekainohajimari.cpp" 
+g++ -o Open.exe "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01sekainohajimari.o" "src\\day0101daichisouzou.o" -lglut32 -lglu32 -lopengl32 
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+15:57:33 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day01sekainohajimari.o" "..\\src\\day01sekainohajimari.cpp" 
+g++ -o Open.exe "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01sekainohajimari.o" "src\\day0101daichisouzou.o" -lglut32 -lglu32 -lopengl32 
+Info: Nothing to build for Open
+15:57:41 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day01sekainohajimari.o" "..\\src\\day01sekainohajimari.cpp" 
+g++ -o Open.exe "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01sekainohajimari.o" "src\\day0101daichisouzou.o" -lglut32 -lglu32 -lopengl32 
+15:58:27 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day01sekainohajimari.o" "..\\src\\day01sekainohajimari.cpp" 
+g++ -o Open.exe "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01sekainohajimari.o" "src\\day0101daichisouzou.o" -lglut32 -lglu32 -lopengl32 
+15:58:46 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day01sekainohajimari.o" "..\\src\\day01sekainohajimari.cpp" 
+g++ -o Open.exe "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01sekainohajimari.o" "src\\day0101daichisouzou.o" -lglut32 -lglu32 -lopengl32 
+15:59:07 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day01sekainohajimari.o" "..\\src\\day01sekainohajimari.cpp" 
+g++ -o Open.exe "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01sekainohajimari.o" "src\\day0101daichisouzou.o" -lglut32 -lglu32 -lopengl32 
+15:59:28 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day01sekainohajimari.o" "..\\src\\day01sekainohajimari.cpp" 
+g++ -o Open.exe "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01sekainohajimari.o" "src\\day0101daichisouzou.o" -lglut32 -lglu32 -lopengl32 
+Info: Nothing to build for Open
+16:00:19 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day01sekainohajimari.o" "..\\src\\day01sekainohajimari.cpp" 
+g++ -o Open.exe "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01sekainohajimari.o" "src\\day0101daichisouzou.o" -lglut32 -lglu32 -lopengl32 
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+16:19:00 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day0101daichisouzou.o" "..\\src\\day0101daichisouzou.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day02chiheisen.o" "..\\src\\day02chiheisen.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day10rotate.o" "..\\src\\day10rotate.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day01sekainohajimari.o" "..\\src\\day01sekainohajimari.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01sekainohajimari.o" "src\\day0101daichisouzou.o" -lglut32 -lglu32 -lopengl32 
+Info: Nothing to build for Open
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+16:19:16 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01sekainohajimari.o" "src\\day0101daichisouzou.o" -lglut32 -lglu32 -lopengl32 
+Info: Nothing to build for Open
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+16:19:46 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01sekainohajimari.o" "src\\day0101daichisouzou.o" -lglut32 -lglu32 -lopengl32 
+Info: Nothing to build for Open
+16:20:55 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01sekainohajimari.o" "src\\day0101daichisouzou.o" -lglut32 -lglu32 -lopengl32 
+16:22:58 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01sekainohajimari.o" "src\\day0101daichisouzou.o" -lglut32 -lglu32 -lopengl32 
+16:23:42 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01sekainohajimari.o" "src\\day0101daichisouzou.o" -lglut32 -lglu32 -lopengl32 
+16:23:58 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01sekainohajimari.o" "src\\day0101daichisouzou.o" -lglut32 -lglu32 -lopengl32 
+16:24:06 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01sekainohajimari.o" "src\\day0101daichisouzou.o" -lglut32 -lglu32 -lopengl32 
+16:24:58 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01sekainohajimari.o" "src\\day0101daichisouzou.o" -lglut32 -lglu32 -lopengl32 
+16:25:09 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01sekainohajimari.o" "src\\day0101daichisouzou.o" -lglut32 -lglu32 -lopengl32 
+16:25:20 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01sekainohajimari.o" "src\\day0101daichisouzou.o" -lglut32 -lglu32 -lopengl32 
+16:29:21 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01sekainohajimari.o" "src\\day0101daichisouzou.o" -lglut32 -lglu32 -lopengl32 
+16:29:38 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01sekainohajimari.o" "src\\day0101daichisouzou.o" -lglut32 -lglu32 -lopengl32 
+16:29:56 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01sekainohajimari.o" "src\\day0101daichisouzou.o" -lglut32 -lglu32 -lopengl32 
+16:30:27 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01sekainohajimari.o" "src\\day0101daichisouzou.o" -lglut32 -lglu32 -lopengl32 
+16:30:58 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01sekainohajimari.o" "src\\day0101daichisouzou.o" -lglut32 -lglu32 -lopengl32 
+16:31:15 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+..\wissrc\p3.cpp: 関数 'int main(int, char**)' 内:
+..\wissrc\p3.cpp:45:6: 警告: statement is a reference, not call, to function 'disp' [-Waddress]
+..\wissrc\p3.cpp:45:6: 警告: 文は効果がありません [-Wunused-value]
+g++ -o Open.exe "wissrc\\p3.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01sekainohajimari.o" "src\\day0101daichisouzou.o" -lglut32 -lglu32 -lopengl32 
+16:31:26 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01sekainohajimari.o" "src\\day0101daichisouzou.o" -lglut32 -lglu32 -lopengl32 
+16:31:41 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01sekainohajimari.o" "src\\day0101daichisouzou.o" -lglut32 -lglu32 -lopengl32 
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+16:38:18 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test.o" "..\\src\\test.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01sekainohajimari.o" "src\\day0101daichisouzou.o" -lglut32 -lglu32 -lopengl32 
+Info: Nothing to build for Open
+16:38:36 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test.o" "..\\src\\test.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01sekainohajimari.o" "src\\day0101daichisouzou.o" -lglut32 -lglu32 -lopengl32 
+16:39:02 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test.o" "..\\src\\test.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01sekainohajimari.o" "src\\day0101daichisouzou.o" -lglut32 -lglu32 -lopengl32 
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+16:47:50 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test.o" "..\\src\\test.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01sekainohajimari.o" "src\\day0101daichisouzou.o" -lglut32 -lglu32 -lopengl32 
+Info: Nothing to build for Open
+16:48:05 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test.o" "..\\src\\test.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01sekainohajimari.o" "src\\day0101daichisouzou.o" -lglut32 -lglu32 -lopengl32 
+16:48:27 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test.o" "..\\src\\test.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01sekainohajimari.o" "src\\day0101daichisouzou.o" -lglut32 -lglu32 -lopengl32 
+16:48:35 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test.o" "..\\src\\test.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01sekainohajimari.o" "src\\day0101daichisouzou.o" -lglut32 -lglu32 -lopengl32 
+16:49:12 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test.o" "..\\src\\test.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01sekainohajimari.o" "src\\day0101daichisouzou.o" -lglut32 -lglu32 -lopengl32 
+src\test.o: In function `main':
+C:\Users\yumikoy\workspace\Open\Debug/../src/test.cpp:23: multiple definition of `main'
+wissrc\p3.o:C:\Users\yumikoy\workspace\Open\Debug/../wissrc/p3.cpp:36: first defined here
+collect2.exe: エラー: ld はステータス 1 で終了しました
+16:49:27 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\test.o" "..\\src\\test.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01sekainohajimari.o" "src\\day0101daichisouzou.o" -lglut32 -lglu32 -lopengl32 
+16:50:43 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01sekainohajimari.o" "src\\day0101daichisouzou.o" -lglut32 -lglu32 -lopengl32 
+16:54:38 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day01z1daichisouzou.o" "..\\src\\day01z1daichisouzou.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" "src\\day0101daichisouzou.o" -lglut32 -lglu32 -lopengl32 
+16:55:05 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file Open.exe: Permission denied
+collect2.exe: エラー: ld はステータス 1 で終了しました
+16:55:11 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -o Open.exe "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+16:55:27 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+16:55:41 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+16:57:16 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+17:04:51 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+17:05:08 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+17:05:21 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+17:06:08 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+17:06:27 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+17:07:23 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+17:07:50 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+17:08:28 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file Open.exe: Permission denied
+collect2.exe: エラー: ld はステータス 1 で終了しました
+17:08:34 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -o Open.exe "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+17:08:41 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+17:08:49 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+17:09:13 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+17:09:22 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+17:09:35 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+17:09:51 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+17:10:34 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+17:10:44 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+17:10:51 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+17:10:57 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+17:11:01 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+17:11:08 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+17:11:16 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+17:11:24 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+17:12:33 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+17:12:51 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+17:16:32 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day01z1daichisouzou.o" "..\\src\\day01z1daichisouzou.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
