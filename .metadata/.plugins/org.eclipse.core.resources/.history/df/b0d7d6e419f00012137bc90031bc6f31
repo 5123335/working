@@ -1,0 +1,46 @@
+/*
+ * p5param.cpp
+ *
+ *  Created on: 2013/07/19
+ *      Author: yumikoy
+ */
+
+
+#include <windows.h>
+#include <stdio.h>
+#include <GL/gl.h>
+#include <GL/glut.h>
+
+GLfloat fore[4] , back[4];
+
+void disp( void ) {
+	glClearColor(back[0] , back[1] , back[2] , back[3]);
+	glClear(GL_COLOR_BUFFER_BIT);
+
+	glColor3fv(fore);
+	glBegin(GL_TRIANGLES);
+		glVertex2f(0 , -0.9);
+		glVertex2f(-0.9 , 0.9);
+		glVertex2f(0.9 , 0.9);
+	glEnd();
+
+	glutSwapBuffers();
+}
+
+int main(int argc , char ** argv) {
+	glutInit(&argc , argv);
+	glutInitWindowPosition(100 , 50);
+	glutInitWindowSize(400 , 300);
+	glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGBA);
+
+	glutCreateWindow("Kitty on your lap");
+	glutDisplayFunc(disp);
+
+	glGetFloatv(GL_CURRENT_COLOR , back);
+	printf("(%f,%f,%f,%f)\n", back[0], back[1], back[2], back[3]);
+	glGetFloatv(GL_COLOR_CLEAR_VALUE , fore);
+	printf("(%f,%f,%f,%f)\n", fore[0], fore[1], fore[2], fore[3]);
+
+	glutMainLoop();
+	return 0;
+}

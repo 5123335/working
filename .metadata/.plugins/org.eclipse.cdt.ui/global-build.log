@@ -4289,3 +4289,982 @@ Info: Internal Builder is used for build
 g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
 g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day01z1daichisouzou.o" "..\\src\\day01z1daichisouzou.cpp" 
 g++ -o Open.exe "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+11:13:37 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day01z1daichisouzou.o" "..\\src\\day01z1daichisouzou.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+11:13:54 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -o Open.exe "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+11:15:41 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p5param.o" "..\\wissrc\\p5param.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p3.o" "..\\wissrc\\p3.cpp" 
+g++ -o Open.exe "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+Info: Nothing to build for Open
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+11:16:12 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p5param.o" "..\\wissrc\\p5param.cpp" 
+g++ -o Open.exe "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+Info: Nothing to build for Open
+11:18:58 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p5param.o" "..\\wissrc\\p5param.cpp" 
+g++ -o Open.exe "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+11:19:22 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p5param.o" "..\\wissrc\\p5param.cpp" 
+g++ -o Open.exe "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+11:21:20 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p5param.o" "..\\wissrc\\p5param.cpp" 
+g++ -o Open.exe "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+11:21:49 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p5param.o" "..\\wissrc\\p5param.cpp" 
+g++ -o Open.exe "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+11:24:22 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p5param.o" "..\\wissrc\\p5param.cpp" 
+g++ -o Open.exe "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+11:28:10 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p5param.o" "..\\wissrc\\p5param.cpp" 
+g++ -o Open.exe "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+11:29:37 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p5param.o" "..\\wissrc\\p5param.cpp" 
+g++ -o Open.exe "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+11:30:14 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p5param.o" "..\\wissrc\\p5param.cpp" 
+g++ -o Open.exe "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+11:31:43 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p5param.o" "..\\wissrc\\p5param.cpp" 
+g++ -o Open.exe "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+11:31:49 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p5param.o" "..\\wissrc\\p5param.cpp" 
+g++ -o Open.exe "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+11:32:37 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p5param.o" "..\\wissrc\\p5param.cpp" 
+g++ -o Open.exe "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+11:32:44 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p5param.o" "..\\wissrc\\p5param.cpp" 
+g++ -o Open.exe "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+11:35:31 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p5param.o" "..\\wissrc\\p5param.cpp" 
+g++ -o Open.exe "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+11:36:22 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p5param.o" "..\\wissrc\\p5param.cpp" 
+g++ -o Open.exe "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+11:36:31 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p5param.o" "..\\wissrc\\p5param.cpp" 
+g++ -o Open.exe "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+11:37:18 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p5param.o" "..\\wissrc\\p5param.cpp" 
+g++ -o Open.exe "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+Info: Nothing to build for Open
+Info: Nothing to build for Open
+Info: Nothing to build for Open
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+11:42:11 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p5param.o" "..\\wissrc\\p5param.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p6-1.o" "..\\wissrc\\p6-1.cpp" 
+g++ -o Open.exe "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+11:42:43 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p6-1.o" "..\\wissrc\\p6-1.cpp" 
+g++ -o Open.exe "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+11:43:07 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p6-1.o" "..\\wissrc\\p6-1.cpp" 
+g++ -o Open.exe "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+11:46:26 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p6-1.o" "..\\wissrc\\p6-1.cpp" 
+g++ -o Open.exe "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+11:46:39 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p6-1.o" "..\\wissrc\\p6-1.cpp" 
+g++ -o Open.exe "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+11:47:32 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p6-1.o" "..\\wissrc\\p6-1.cpp" 
+g++ -o Open.exe "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+11:48:05 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p6-1.o" "..\\wissrc\\p6-1.cpp" 
+g++ -o Open.exe "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+11:48:23 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p6-1.o" "..\\wissrc\\p6-1.cpp" 
+g++ -o Open.exe "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+11:51:22 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p6-1.o" "..\\wissrc\\p6-1.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p6-3.o" "..\\wissrc\\p6-3.cpp" 
+g++ -o Open.exe "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+11:51:44 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p6-3.o" "..\\wissrc\\p6-3.cpp" 
+g++ -o Open.exe "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+11:52:20 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p6-3.o" "..\\wissrc\\p6-3.cpp" 
+g++ -o Open.exe "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+11:53:01 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p6-3.o" "..\\wissrc\\p6-3.cpp" 
+g++ -o Open.exe "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+11:53:07 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p6-3.o" "..\\wissrc\\p6-3.cpp" 
+g++ -o Open.exe "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+11:53:18 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p6-3.o" "..\\wissrc\\p6-3.cpp" 
+g++ -o Open.exe "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+11:53:45 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p6-3.o" "..\\wissrc\\p6-3.cpp" 
+g++ -o Open.exe "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+11:53:52 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p6-3.o" "..\\wissrc\\p6-3.cpp" 
+g++ -o Open.exe "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+11:54:01 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p6-3.o" "..\\wissrc\\p6-3.cpp" 
+g++ -o Open.exe "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+11:55:58 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p6-3.o" "..\\wissrc\\p6-3.cpp" 
+g++ -o Open.exe "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+11:56:11 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p6-3.o" "..\\wissrc\\p6-3.cpp" 
+g++ -o Open.exe "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file Open.exe: Permission denied
+collect2.exe: エラー: ld はステータス 1 で終了しました
+11:56:18 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -o Open.exe "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+11:57:04 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p6-3.o" "..\\wissrc\\p6-3.cpp" 
+g++ -o Open.exe "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+11:57:12 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p6-3.o" "..\\wissrc\\p6-3.cpp" 
+g++ -o Open.exe "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+13:08:17 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p7texture.o" "..\\wissrc\\p7texture.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p6-3.o" "..\\wissrc\\p6-3.cpp" 
+g++ -o Open.exe "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+13:16:01 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p7texture.o" "..\\wissrc\\p7texture.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+13:16:19 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+13:19:24 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+13:27:02 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+13:27:24 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+13:27:33 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+13:28:07 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+13:31:37 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+13:31:52 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+13:39:54 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+..\wissrc\p8_EdgeFlag.cpp: 関数 'void disp()' 内:
+..\wissrc\p8_EdgeFlag.cpp:23:25: 警告: 書式 '%d' は引数の型が 'int' であると予期されますが、第 2 引数の型は 'int*' です [-Wformat]
+..\wissrc\p8_EdgeFlag.cpp:22:43: 警告: 'shadeModel' はこの関数内で初期化されずに使用されています [-Wuninitialized]
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+13:40:58 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+..\wissrc\p8_EdgeFlag.cpp: 関数 'void disp()' 内:
+..\wissrc\p8_EdgeFlag.cpp:23:25: 警告: 書式 '%d' は引数の型が 'int' であると予期されますが、第 2 引数の型は 'GLint* {aka int*}' です [-Wformat]
+..\wissrc\p8_EdgeFlag.cpp:22:43: 警告: 'shadeModel' はこの関数内で初期化されずに使用されています [-Wuninitialized]
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+13:41:18 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+13:42:20 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+13:42:34 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+13:43:18 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+13:44:01 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+13:44:58 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+13:45:03 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+13:45:20 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+13:46:44 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+13:49:49 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file Open.exe: Permission denied
+collect2.exe: エラー: ld はステータス 1 で終了しました
+13:49:56 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+13:51:28 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+13:53:05 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+13:53:57 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+13:54:23 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+Info: Nothing to build for Open
+Info: Nothing to build for Open
+13:59:01 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+13:59:22 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+13:59:45 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:00:04 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:00:50 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:01:00 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:01:44 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:01:58 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:02:06 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:02:51 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:04:15 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file Open.exe: Permission denied
+collect2.exe: エラー: ld はステータス 1 で終了しました
+14:04:19 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:04:45 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:04:58 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:05:05 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:05:14 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:05:26 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:05:39 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:05:49 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:06:41 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file Open.exe: Permission denied
+collect2.exe: エラー: ld はステータス 1 で終了しました
+14:06:46 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:07:54 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+c:/mingw/bin/../lib/gcc/mingw32/4.7.2/../../../../mingw32/bin/ld.exe: cannot open output file Open.exe: Permission denied
+collect2.exe: エラー: ld はステータス 1 で終了しました
+14:07:58 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:08:11 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:08:30 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:08:44 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:11:30 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:24:06 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:24:13 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:24:42 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:35:02 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:35:07 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:35:24 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:35:56 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:36:07 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:37:38 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:39:58 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+..\wissrc\p8_EdgeFlag.cpp: 関数 'void disp()' 内:
+..\wissrc\p8_EdgeFlag.cpp:42:15: 警告: 書式内に不明な型変換文字 'b' があります [-Wformat]
+..\wissrc\p8_EdgeFlag.cpp:42:15: 警告: 書式への引数が多すぎます [-Wformat-extra-args]
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:40:14 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+..\wissrc\p8_EdgeFlag.cpp: 関数 'void disp()' 内:
+..\wissrc\p8_EdgeFlag.cpp:42:10: エラー: 'GLboolean {aka unsigned char}' から 'const char*' への無効な変換です [-fpermissive]
+In file included from ..\wissrc\p8_EdgeFlag.cpp:9:0:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/stdio.h:294:37: エラー:   initializing argument 1 of 'int printf(const char*, ...)' [-fpermissive]
+14:40:45 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:41:10 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:42:37 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:43:11 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:43:44 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:45:15 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:46:46 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:47:37 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:47:41 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:48:20 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:51:07 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:51:16 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:51:38 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:51:52 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:52:17 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:52:31 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:52:43 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:53:17 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:53:38 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:53:44 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:54:12 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:54:30 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:54:49 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:55:37 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:56:49 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:58:30 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:58:50 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:59:00 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:59:22 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:59:37 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+14:59:54 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+15:00:17 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+15:01:56 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+15:02:43 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+15:02:59 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+15:03:04 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+15:03:13 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+15:03:23 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+15:46:15 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+15:47:03 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+..\wissrc\p8_EdgeFlag.cpp: 関数 'void vertexWithEdgeFlag(GLboolean, GLfloat, GLfloat)' 内:
+..\wissrc\p8_EdgeFlag.cpp:19:18: 警告: 書式 '%d' は引数の型が 'int' であると予期されますが、第 2 引数の型は 'GLboolean* {aka unsigned char*}' です [-Wformat]
+..\wissrc\p8_EdgeFlag.cpp:18:32: 警告: 'b' はこの関数内で初期化されずに使用されています [-Wuninitialized]
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+15:47:34 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+15:51:43 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+15:53:17 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+15:54:38 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+15:54:51 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+15:55:09 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+15:56:19 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+15:56:30 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+Info: Nothing to build for Open
+15:59:13 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+..\wissrc\p8_EdgeFlag.cpp: 関数 'void vertexWithEdgeFlag(GLboolean, GLfloat, GLfloat)' 内:
+..\wissrc\p8_EdgeFlag.cpp:16:21: エラー: expected ';' before ')' token
+15:59:20 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+16:01:47 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+16:02:08 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+16:11:36 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p9_VertexArray.o" "..\\wissrc\\p9_VertexArray.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p8_EdgeFlag.o" "..\\wissrc\\p8_EdgeFlag.cpp" 
+g++ -o Open.exe "wissrc\\p9_VertexArray.o" "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+16:11:53 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p9_VertexArray.o" "..\\wissrc\\p9_VertexArray.cpp" 
+g++ -o Open.exe "wissrc\\p9_VertexArray.o" "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+16:26:07 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p09_01_VertexArray.o" "..\\wissrc\\p09_01_VertexArray.cpp" 
+..\wissrc\p09_01_VertexArray.cpp: 関数 'void disp()' 内:
+..\wissrc\p09_01_VertexArray.cpp:44:34: エラー: a function-definition is not allowed here before '{' token
+..\wissrc\p09_01_VertexArray.cpp:55:1: エラー: expected '}' at end of input
+16:26:27 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p09_01_VertexArray.o" "..\\wissrc\\p09_01_VertexArray.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "wissrc\\p09_01_VertexArray.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+16:26:50 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p09_01_VertexArray.o" "..\\wissrc\\p09_01_VertexArray.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "wissrc\\p09_01_VertexArray.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+16:28:57 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p09_01_VertexArray.o" "..\\wissrc\\p09_01_VertexArray.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "wissrc\\p09_01_VertexArray.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+16:29:12 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p09_01_VertexArray.o" "..\\wissrc\\p09_01_VertexArray.cpp" 
+..\wissrc\p09_01_VertexArray.cpp: 関数 'void disp()' 内:
+..\wissrc\p09_01_VertexArray.cpp:40:15: エラー: 'GL_QUAD' was not declared in this scope
+16:29:28 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p09_01_VertexArray.o" "..\\wissrc\\p09_01_VertexArray.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "wissrc\\p09_01_VertexArray.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+16:29:56 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p09_01_VertexArray.o" "..\\wissrc\\p09_01_VertexArray.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "wissrc\\p09_01_VertexArray.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+16:30:06 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p09_01_VertexArray.o" "..\\wissrc\\p09_01_VertexArray.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "wissrc\\p09_01_VertexArray.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+16:30:30 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p09_01_VertexArray.o" "..\\wissrc\\p09_01_VertexArray.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "wissrc\\p09_01_VertexArray.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+16:30:44 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p09_01_VertexArray.o" "..\\wissrc\\p09_01_VertexArray.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "wissrc\\p09_01_VertexArray.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+16:33:16 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p09_01_VertexArray.o" "..\\wissrc\\p09_01_VertexArray.cpp" 
+..\wissrc\p09_01_VertexArray.cpp: 関数 'void disp()' 内:
+..\wissrc\p09_01_VertexArray.cpp:37:9: 警告: 使用されない変数 'indices' です [-Wunused-variable]
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "wissrc\\p09_01_VertexArray.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+16:33:24 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p09_01_VertexArray.o" "..\\wissrc\\p09_01_VertexArray.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "wissrc\\p09_01_VertexArray.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+16:33:49 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p09_01_VertexArray.o" "..\\wissrc\\p09_01_VertexArray.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "wissrc\\p09_01_VertexArray.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+Info: Nothing to build for Open
+16:35:47 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p09_01_VertexArray.o" "..\\wissrc\\p09_01_VertexArray.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "wissrc\\p09_01_VertexArray.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+16:36:32 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p09_01_VertexArray.o" "..\\wissrc\\p09_01_VertexArray.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "wissrc\\p09_01_VertexArray.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+16:38:01 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p09_01_VertexArray.o" "..\\wissrc\\p09_01_VertexArray.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "wissrc\\p09_01_VertexArray.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+16:38:08 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p09_01_VertexArray.o" "..\\wissrc\\p09_01_VertexArray.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "wissrc\\p09_01_VertexArray.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+16:38:36 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p09_01_VertexArray.o" "..\\wissrc\\p09_01_VertexArray.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "wissrc\\p09_01_VertexArray.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+16:39:26 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p09_01_VertexArray.o" "..\\wissrc\\p09_01_VertexArray.cpp" 
+..\wissrc\p09_01_VertexArray.cpp: 関数 'void disp()' 内:
+..\wissrc\p09_01_VertexArray.cpp:36:9: 警告: 使用されない変数 'indices' です [-Wunused-variable]
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "wissrc\\p09_01_VertexArray.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+16:39:38 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p09_01_VertexArray.o" "..\\wissrc\\p09_01_VertexArray.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "wissrc\\p09_01_VertexArray.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+16:40:09 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p09_01_VertexArray.o" "..\\wissrc\\p09_01_VertexArray.cpp" 
+..\wissrc\p09_01_VertexArray.cpp: 関数 'void disp()' 内:
+..\wissrc\p09_01_VertexArray.cpp:37:18: エラー: 'GL_LINES_LOOP' was not declared in this scope
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+16:40:23 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p09_01_VertexArray.o" "..\\wissrc\\p09_01_VertexArray.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "wissrc\\p09_01_VertexArray.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+Info: Nothing to build for Open
+16:40:32 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p09_01_VertexArray.o" "..\\wissrc\\p09_01_VertexArray.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "wissrc\\p09_01_VertexArray.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+16:40:56 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p09_01_VertexArray.o" "..\\wissrc\\p09_01_VertexArray.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "wissrc\\p09_01_VertexArray.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+16:41:14 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p09_01_VertexArray.o" "..\\wissrc\\p09_01_VertexArray.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "wissrc\\p09_01_VertexArray.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+16:41:48 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p09_01_VertexArray.o" "..\\wissrc\\p09_01_VertexArray.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "wissrc\\p09_01_VertexArray.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+16:41:59 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p09_01_VertexArray.o" "..\\wissrc\\p09_01_VertexArray.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "wissrc\\p09_01_VertexArray.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+16:43:28 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p09_01_VertexArray.o" "..\\wissrc\\p09_01_VertexArray.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "wissrc\\p09_01_VertexArray.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+16:44:06 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p09_01_VertexArray.o" "..\\wissrc\\p09_01_VertexArray.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "wissrc\\p09_01_VertexArray.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+16:48:18 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p09_01_VertexArray.o" "..\\wissrc\\p09_01_VertexArray.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "wissrc\\p09_01_VertexArray.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+16:51:41 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p09_01_VertexArray.o" "..\\wissrc\\p09_01_VertexArray.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p10_event.o" "..\\wissrc\\p10_event.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "wissrc\\p10_event.o" "wissrc\\p09_01_VertexArray.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+Info: Nothing to build for Open
+17:01:36 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p10_event.o" "..\\wissrc\\p10_event.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "wissrc\\p10_event.o" "wissrc\\p09_01_VertexArray.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Open
+Info: Nothing to build for Open
+17:06:54 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p10_01_MouseClick.o" "..\\wissrc\\p10_01_MouseClick.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p10_02_PrintMousePosition.o" "..\\wissrc\\p10_02_PrintMousePosition.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "wissrc\\p10_02_PrintMousePosition.o" "wissrc\\p10_01_MouseClick.o" "wissrc\\p09_01_VertexArray.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" "wissrc\\p10_event.o" -lglut32 -lglu32 -lopengl32 
+wissrc\p10_event.o: In function `Z4dispv':
+C:\Users\yumikoy\workspace\Open\Debug/../wissrc/p10_event.cpp:19: multiple definition of `disp()'
+wissrc\p10_02_PrintMousePosition.o:C:\Users\yumikoy\workspace\Open\Debug/../wissrc/p10_02_PrintMousePosition.cpp:13: first defined here
+wissrc\p10_event.o: In function `main':
+C:\Users\yumikoy\workspace\Open\Debug/../wissrc/p10_event.cpp:45: multiple definition of `main'
+wissrc\p10_02_PrintMousePosition.o:C:\Users\yumikoy\workspace\Open\Debug/../wissrc/p10_02_PrintMousePosition.cpp:21: first defined here
+collect2.exe: エラー: ld はステータス 1 で終了しました
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+17:07:37 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p10_02_PrintMousePosition.o" "..\\wissrc\\p10_02_PrintMousePosition.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "wissrc\\p10_02_PrintMousePosition.o" "wissrc\\p10_01_MouseClick.o" "wissrc\\p09_01_VertexArray.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+Info: Nothing to build for Open
+Info: Nothing to build for Open
+Info: Nothing to build for Open
+17:10:53 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p10_02_PrintMousePosition.o" "..\\wissrc\\p10_02_PrintMousePosition.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p10_03_KeyboardEvent.o" "..\\wissrc\\p10_03_KeyboardEvent.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "wissrc\\p10_03_KeyboardEvent.o" "wissrc\\p10_02_PrintMousePosition.o" "wissrc\\p10_01_MouseClick.o" "wissrc\\p09_01_VertexArray.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+17:11:19 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p10_03_KeyboardEvent.o" "..\\wissrc\\p10_03_KeyboardEvent.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "wissrc\\p10_03_KeyboardEvent.o" "wissrc\\p10_02_PrintMousePosition.o" "wissrc\\p10_01_MouseClick.o" "wissrc\\p09_01_VertexArray.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+17:12:19 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p10_01_MouseEvent.o" "..\\wissrc\\p10_01_MouseEvent.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p10_03_KeyboardEvent.o" "..\\wissrc\\p10_03_KeyboardEvent.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "wissrc\\p10_03_KeyboardEvent.o" "wissrc\\p10_02_PrintMousePosition.o" "wissrc\\p10_01_MouseEvent.o" "wissrc\\p09_01_VertexArray.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" "wissrc\\p10_01_MouseClick.o" -lglut32 -lglu32 -lopengl32 
+17:13:41 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p10_03_KeyboardEvent.o" "..\\wissrc\\p10_03_KeyboardEvent.cpp" 
+..\wissrc\p10_03_KeyboardEvent.cpp:8:1: エラー: 'GLUT_KEY_F9' does not name a type
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/windows.h:47:0,
+                 from ..\wissrc\p10_03_KeyboardEvent.cpp:9:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/stdarg.h:102:9: エラー: '__gnuc_va_list' does not name a type
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/windows.h:50:0,
+                 from ..\wissrc\p10_03_KeyboardEvent.cpp:9:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/winbase.h:1538:77: エラー: 'va_list' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/winbase.h:1539:78: エラー: 'va_list' has not been declared
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/windows.h:55:0,
+                 from ..\wissrc\p10_03_KeyboardEvent.cpp:9:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/winuser.h:4150:47: エラー: 'va_list' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/winuser.h:4151:49: エラー: 'va_list' has not been declared
+In file included from ..\wissrc\p10_03_KeyboardEvent.cpp:10:0:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/stdio.h:208:67: エラー: '__gnuc_va_list' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/stdio.h:209:59: エラー: '__gnuc_va_list' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/stdio.h:210:67: エラー: '__gnuc_va_list' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/stdio.h:211:76: エラー: '__gnuc_va_list' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/stdio.h:296:67: エラー: '__gnuc_va_list' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/stdio.h:297:59: エラー: '__gnuc_va_list' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/stdio.h:298:67: エラー: '__gnuc_va_list' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/stdio.h:311:68: エラー: '__gnuc_va_list' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/stdio.h:312:60: エラー: '__gnuc_va_list' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/stdio.h:313:68: エラー: '__gnuc_va_list' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/stdio.h:320:77: エラー: '__gnuc_va_list' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/stdio.h:321:62: エラー: '__gnuc_va_list' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/stdio.h:332:70: エラー: '__gnuc_va_list' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/stdio.h:334:64: エラー: '__gnuc_va_list' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/stdio.h:336:8: エラー: '__gnuc_va_list' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/stdio.h:338:35: エラー: '__gnuc_va_list' has not been declared
+In file included from ..\wissrc\p10_03_KeyboardEvent.cpp:10:0:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/stdio.h:566:71: エラー: '__gnuc_va_list' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/stdio.h:567:63: エラー: '__gnuc_va_list' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/stdio.h:568:84: エラー: '__gnuc_va_list' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/stdio.h:569:66: エラー: '__gnuc_va_list' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/stdio.h:580:74: エラー: '__gnuc_va_list' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/stdio.h:606:86: エラー: '__gnuc_va_list' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/stdio.h:612:68: エラー: '__gnuc_va_list' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/stdio.h:614:40: エラー: '__gnuc_va_list' has not been declared
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/../../../../include/stdio.h:616:40: エラー: '__gnuc_va_list' has not been declared
+17:13:47 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p10_03_KeyboardEvent.o" "..\\wissrc\\p10_03_KeyboardEvent.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "wissrc\\p10_03_KeyboardEvent.o" "wissrc\\p10_02_PrintMousePosition.o" "wissrc\\p10_01_MouseEvent.o" "wissrc\\p09_01_VertexArray.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+17:16:17 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p10_04_Animation.o" "..\\wissrc\\p10_04_Animation.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p10_03_KeyboardEvent.o" "..\\wissrc\\p10_03_KeyboardEvent.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "wissrc\\p10_04_Animation.o" "wissrc\\p10_03_KeyboardEvent.o" "wissrc\\p10_02_PrintMousePosition.o" "wissrc\\p10_01_MouseEvent.o" "wissrc\\p09_01_VertexArray.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+17:16:40 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p10_04_Animation.o" "..\\wissrc\\p10_04_Animation.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "wissrc\\p10_04_Animation.o" "wissrc\\p10_03_KeyboardEvent.o" "wissrc\\p10_02_PrintMousePosition.o" "wissrc\\p10_01_MouseEvent.o" "wissrc\\p09_01_VertexArray.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+17:19:34 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p10_04_Animation.o" "..\\wissrc\\p10_04_Animation.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "wissrc\\p10_04_Animation.o" "wissrc\\p10_03_KeyboardEvent.o" "wissrc\\p10_02_PrintMousePosition.o" "wissrc\\p10_01_MouseEvent.o" "wissrc\\p09_01_VertexArray.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+17:19:46 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p10_04_Animation.o" "..\\wissrc\\p10_04_Animation.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "wissrc\\p10_04_Animation.o" "wissrc\\p10_03_KeyboardEvent.o" "wissrc\\p10_02_PrintMousePosition.o" "wissrc\\p10_01_MouseEvent.o" "wissrc\\p09_01_VertexArray.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+17:19:56 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p10_04_Animation.o" "..\\wissrc\\p10_04_Animation.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "wissrc\\p10_04_Animation.o" "wissrc\\p10_03_KeyboardEvent.o" "wissrc\\p10_02_PrintMousePosition.o" "wissrc\\p10_01_MouseEvent.o" "wissrc\\p09_01_VertexArray.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+17:21:42 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p10_04_Animation.o" "..\\wissrc\\p10_04_Animation.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p10_05_TimerAnimation.o" "..\\wissrc\\p10_05_TimerAnimation.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "wissrc\\p10_05_TimerAnimation.o" "wissrc\\p10_04_Animation.o" "wissrc\\p10_03_KeyboardEvent.o" "wissrc\\p10_02_PrintMousePosition.o" "wissrc\\p10_01_MouseEvent.o" "wissrc\\p09_01_VertexArray.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+17:23:55 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p10_05_TimerAnimation.o" "..\\wissrc\\p10_05_TimerAnimation.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "wissrc\\p10_05_TimerAnimation.o" "wissrc\\p10_04_Animation.o" "wissrc\\p10_03_KeyboardEvent.o" "wissrc\\p10_02_PrintMousePosition.o" "wissrc\\p10_01_MouseEvent.o" "wissrc\\p09_01_VertexArray.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+17:24:04 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p10_05_TimerAnimation.o" "..\\wissrc\\p10_05_TimerAnimation.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "wissrc\\p10_05_TimerAnimation.o" "wissrc\\p10_04_Animation.o" "wissrc\\p10_03_KeyboardEvent.o" "wissrc\\p10_02_PrintMousePosition.o" "wissrc\\p10_01_MouseEvent.o" "wissrc\\p09_01_VertexArray.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+17:24:12 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p10_05_TimerAnimation.o" "..\\wissrc\\p10_05_TimerAnimation.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "wissrc\\p10_05_TimerAnimation.o" "wissrc\\p10_04_Animation.o" "wissrc\\p10_03_KeyboardEvent.o" "wissrc\\p10_02_PrintMousePosition.o" "wissrc\\p10_01_MouseEvent.o" "wissrc\\p09_01_VertexArray.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+17:25:04 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p10_05_TimerAnimation.o" "..\\wissrc\\p10_05_TimerAnimation.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "wissrc\\p10_05_TimerAnimation.o" "wissrc\\p10_04_Animation.o" "wissrc\\p10_03_KeyboardEvent.o" "wissrc\\p10_02_PrintMousePosition.o" "wissrc\\p10_01_MouseEvent.o" "wissrc\\p09_01_VertexArray.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+17:25:34 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p10_05_TimerAnimation.o" "..\\wissrc\\p10_05_TimerAnimation.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "wissrc\\p10_05_TimerAnimation.o" "wissrc\\p10_04_Animation.o" "wissrc\\p10_03_KeyboardEvent.o" "wissrc\\p10_02_PrintMousePosition.o" "wissrc\\p10_01_MouseEvent.o" "wissrc\\p09_01_VertexArray.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+17:25:53 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p10_05_TimerAnimation.o" "..\\wissrc\\p10_05_TimerAnimation.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "wissrc\\p10_05_TimerAnimation.o" "wissrc\\p10_04_Animation.o" "wissrc\\p10_03_KeyboardEvent.o" "wissrc\\p10_02_PrintMousePosition.o" "wissrc\\p10_01_MouseEvent.o" "wissrc\\p09_01_VertexArray.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+17:26:07 **** Incremental Build of configuration Debug for project Open ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p10_05_TimerAnimation.o" "..\\wissrc\\p10_05_TimerAnimation.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "wissrc\\p10_05_TimerAnimation.o" "wissrc\\p10_04_Animation.o" "wissrc\\p10_03_KeyboardEvent.o" "wissrc\\p10_02_PrintMousePosition.o" "wissrc\\p10_01_MouseEvent.o" "wissrc\\p09_01_VertexArray.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
