@@ -23,9 +23,10 @@
 //// 関数プロトタイプ（後に呼び出す関数名と引数の宣言）
 ////----------------------------------------------------
 //void Initialize(void);   //初期設定時に呼び出す関数
-//void Idle(void);         //アイドル時に呼び出す関数 ←増えた
+////void Idle(void);         //アイドル時に呼び出す関数 ←増えた
 //void Display(void);      //画面描画時に呼び出す関数
 //void Ground(void);       //大地の描画用の関数
+//
 ////----------------------------------------------------
 //// メイン関数
 ////----------------------------------------------------
@@ -35,9 +36,10 @@
 //  glutInitWindowSize(WindowWidth, WindowHeight);             //ウィンドウサイズの指定
 //  glutInitDisplayMode(GLUT_RGBA | GLUT_DEPTH | GLUT_DOUBLE); //ディスプレイモードの指定
 //  glutCreateWindow(WindowTitle);                             //ウィンドウの作成
-//  glutIdleFunc(Idle);                                        //プログラムアイドル状態時に呼び出される関数 ←増えた
+////  glutIdleFunc(Idle);                                        //プログラムアイドル状態時に呼び出される関数 ←増えた
 //  //glutIdleFunc 関数は、プログラム全体が「ひま」になった時に、指定した関数（例では「Idle」関数）を呼び出す関数です。アニメーションを実行するために必須の関数です。後述する「Idle」関数 の説明時に詳しく触れます。
 //  glutDisplayFunc(Display);                                  //描画時に呼び出される関数を指定する（関数名：Display）
+//
 //  Initialize();                                              //初期設定の関数を呼び出す
 //  glutMainLoop();
 //  return 0;
@@ -47,46 +49,42 @@
 ////----------------------------------------------------
 //void Initialize(void){
 //  glClearColor(1.0, 1.0, 1.0, 0.9); //背景色
-//
-//  glEnable(GL_DEPTH_TEST);//デプスバッファを使用：glutInitDisplayMode() で GLUT_DEPTH を指定する
+//  glEnable(GL_DEPTH_TEST);
 //
 //  //透視変換行列の設定------------------------------
-//  glMatrixMode(GL_PROJECTION);//行列モードの設定（GL_PROJECTION : 透視変換行列の設定、GL_MODELVIEW：モデルビュー変換行列）
-//  glLoadIdentity();//行列の初期化
-//  gluPerspective(30.0, (double)WindowWidth/(double)WindowHeight, 0.1, 1000.0); //透視投影法の視体積gluPerspactive(th, w/h, near, far);
-//  //------------------------------------------------
+//  glMatrixMode(GL_PROJECTION);
+//  glLoadIdentity();
+//  gluPerspective(30.0, (double)WindowWidth/WindowHeight, 0.1, 1000.0); //gluPerspective(垂直視野角, aspect, near, far);
 //  gluLookAt(
-//       0.0, -200.0, 50.0, // 視点の位置x,y,z;
-//       0.0, 0.0, 20.0,   // 視界の中心位置の参照点座標x,y,z
-//       0.0, 0.0, 1.0);  //視界の上方向のベクトルx,y,z
+//       0.0, -200.0, 50.0, // 視点の位置x,y,z(立ち位置)
+//       0.0, 0.0, 20.0,    // 視界の中心位置の参照点座標x,y,z(注視点)
+//       0.0, 0.0, 1.0);    //　視界の上方向のベクトルx,y,z(上下の向き)
 //}
 ////----------------------------------------------------
 //// アイドル時に呼び出される関数
 ////----------------------------------------------------
-//void Idle(){
-//  glutPostRedisplay(); //glutDisplayFunc()を１回実行する
-//}
+////void Idle(){
+////  glutPostRedisplay(); //glutDisplayFunc()を１回実行する
+////}
 ////----------------------------------------------------
 //// 描画の関数
 ////----------------------------------------------------
 //void Display(void) {
 //  glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT); //バッファの消去
-//  //モデルビュー変換行列の設定--------------------------
-//  glMatrixMode(GL_MODELVIEW);//行列モードの設定（GL_PROJECTION : 透視変換行列の設定、GL_MODELVIEW：モデルビュー変換行列）
-//  glLoadIdentity();//行列の初期化
-//  glViewport(0, 0, WindowWidth, WindowHeight);
-//  //----------------------------------------------
+//  glMatrixMode(GL_MODELVIEW);
+//  glLoadIdentity();
+////  glViewport(0, 0, WindowWidth, WindowHeight);
 //
 //  Ground();
-//
-//  glutSwapBuffers(); //glutInitDisplayMode(GLUT_DOUBLE)でダブルバッファリングを利用可
+//  glutSwapBuffers();
 //}
+//
 ////----------------------------------------------------
-//// 大地の描画
+//// 大地の描画(xy平面上)
 ////----------------------------------------------------
 //void Ground(void) {
-//    double ground_max_x = 300.0;
-//    double ground_max_y = 300.0;
+//    double ground_max_x = 300;
+//    double ground_max_y = 300;
 //    glColor3d(0.8, 0.8, 0.8);  // 大地の色
 //    glBegin(GL_LINES);
 //

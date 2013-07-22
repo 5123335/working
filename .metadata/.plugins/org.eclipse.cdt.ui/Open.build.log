@@ -1,7 +1,8 @@
-17:26:07 **** Incremental Build of configuration Debug for project Open ****
+17:29:59 **** Incremental Build of configuration Debug for project Open ****
 Info: Internal Builder is used for build
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "wissrc\\p10_05_TimerAnimation.o" "..\\wissrc\\p10_05_TimerAnimation.cpp" 
-g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "wissrc\\p10_05_TimerAnimation.o" "wissrc\\p10_04_Animation.o" "wissrc\\p10_03_KeyboardEvent.o" "wissrc\\p10_02_PrintMousePosition.o" "wissrc\\p10_01_MouseEvent.o" "wissrc\\p09_01_VertexArray.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day02chiheisen.o" "..\\src\\day02chiheisen.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\day01z1daichisouzou.o" "..\\src\\day01z1daichisouzou.cpp" 
+g++ -o Open.exe "wissrc\\p8_EdgeFlag.o" "wissrc\\p7texture.o" "wissrc\\p6-3.o" "wissrc\\p6-1.o" "wissrc\\p5param.o" "wissrc\\p3.o" "wissrc\\p16_01_Light.o" "wissrc\\p15_DepthBuffer.o" "wissrc\\p14_MatrixStack.o" "wissrc\\p13_VeiwPort.o" "wissrc\\p12_03_glOrtho.o" "wissrc\\p12_02_gluPerspective.o" "wissrc\\p12_01_glFrustum.o" "wissrc\\p11_02_MVTUsingRotate.o" "wissrc\\p11_01_ModelViewTransformation.o" "wissrc\\p10_05_TimerAnimation.o" "wissrc\\p10_04_Animation.o" "wissrc\\p10_03_KeyboardEvent.o" "wissrc\\p10_02_PrintMousePosition.o" "wissrc\\p10_01_MouseEvent.o" "wissrc\\p09_01_VertexArray.o" "src\\test.o" "src\\day10rotate.o" "src\\day02chiheisen.o" "src\\day01z1daichisouzou.o" "src\\day01sekainohajimari.o" -lglut32 -lglu32 -lopengl32 
 
-17:26:07 Build Finished (took 764ms)
+17:30:00 Build Finished (took 908ms)
 

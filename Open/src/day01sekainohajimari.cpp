@@ -25,42 +25,39 @@
 ////----------------------------------------------------
 //// メイン関数
 ////----------------------------------------------------
-//int main(int argc, char *argv[]){
-//  glutInit(&argc, argv);          // 環境の初期化
-//  glutInitWindowPosition(WindowPositionX, WindowPositionY);   // ウィンドウの位置の指定
-//  glutInitWindowSize(WindowWidth, WindowHeight);              // ウィンドウサイズの指定
-//  glutInitDisplayMode(GLUT_RGBA | GLUT_DEPTH | GLUT_DOUBLE);  // ディスプレイモードの指定
-//  glutCreateWindow(WindowTitle);  // ウィンドウの作成
-//  glutDisplayFunc(Display);       // 描画時に呼び出される関数を指定する（関数名：Display）
-//  Initialize();                   // 初期設定の関数を呼び出す
-//  glutMainLoop();                 // glutのイベント処理ループに入る。
-//  return 0;
+//int main(int argc, char *argv[]) {
+//	glutInit(&argc, argv);          // 環境の初期化
+//	glutInitWindowPosition(WindowPositionX, WindowPositionY);   // ウィンドウの位置の指定
+//	glutInitWindowSize(WindowWidth, WindowHeight);              // ウィンドウサイズの指定
+//	glutInitDisplayMode(GLUT_RGBA | GLUT_DEPTH | GLUT_DOUBLE);  // ディスプレイモードの指定
+//	glutCreateWindow(WindowTitle);  // ウィンドウの作成
+//	glutDisplayFunc(Display);       // 描画時に呼び出される関数を指定する（関数名：Display）
+//	Initialize();                   // 初期設定の関数を呼び出す
+//	glutMainLoop();                 // glutのイベント処理ループに入る。
+//	return 0;
 //}
 ////----------------------------------------------------
 //// 初期設定の関数
 ////----------------------------------------------------
-//void Initialize(void){
-//  glClearColor(1.0, 1.0, 0.0, 1.0);  // 背景色(消すと黒になる)(バッファを初期化するカラー情報)
-//  // glClearColor(GLclampf red , GLclampf green , GLclampf blue , GLclampf alpha);  // alpha : 透明度
-//  glEnable(GL_DEPTH_TEST);  // デプスバッファを使用：glutInitDisplayMode() で GLUT_DEPTH を指定する
+//void Initialize(void) {
+//	glClearColor(0.8, 0.8, 0.8, 1.0);  // 背景色(バッファを初期化するカラー情報)
+//	glEnable(GL_DEPTH_TEST);
 //}
 ////----------------------------------------------------
 //// 描画の関数
 ////----------------------------------------------------
-////static
 //void Display(void) {
-////	printf("aaa");
-//  glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT); //バッファの消去
-//  // ↑消すと真っ白になる(ウィンドウサイズを変えると領域外が黒)
-//  glutSwapBuffers(); //glutInitDisplayMode(GLUT_DOUBLE)でダブルバッファリングを利用可
-//  // ↑消すと真っ白になる(ウィンドウサイズを変えると領域外が黒)
+//	glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT); //バッファの消去
+//	glutSwapBuffers();
 //}
 //
-//
-//// TODO: デプスバッファ とは
 ////バッファ :
 ////OpenGL では、すべてのピクセルの情報を保存する領域をバッファと呼び
 ////ピクセルに関する1ビットの情報を保存するバッファをビットプレーンと呼びます(?)
 ////ビットプレーンには、RGBA　か、カラー参照テーブルを参照する値が保存されます
 ////多くの場合は、加法混色にアルファ値を加えた RGBA が用いられます
-//// TODO: ダブルバッファリング とは
+//
+//// glClearColor(GLclampf red , GLclampf green , GLclampf blue , GLclampf alpha);  // alpha : 透明度
+//
+////glutInitDisplayMode(GLUT_DOUBLE)でダブルバッファリングを利用可
+//// デプスバッファを使用：glutInitDisplayMode() で GLUT_DEPTH を指定する

@@ -1,0 +1,53 @@
+/*
+ * p12_02_gluPerspective.cpp
+ *
+ *  Created on: 2013/07/22
+ *      Author: yumikoy
+ */
+
+
+#include <windows.h>
+#include <GL/gl.h>
+#include <GL/glu.h>
+#include <GL/glut.h>
+
+const GLfloat vertex[] = {
+	-2 , 2 , -2 ,
+	2 , 2 , -2 ,
+	0 , -2 , -2 ,
+};
+
+void disp( void ) {
+	glClear(GL_COLOR_BUFFER_BIT);
+	glEnableClientState(GL_VERTEX_ARRAY);
+	glVertexPointer(3 , GL_FLOAT , 0 , vertex);
+
+	glDrawArrays(GL_TRIANGLES, 0 , 3);
+
+	glutSwapBuffers();
+}
+
+int main(int argc , char ** argv) {
+	glutInit(&argc , argv);
+	glutInitWindowPosition(100 , 50);
+	glutInitWindowSize(400 , 300);
+	glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGBA);
+
+	glutCreateWindow("gluPerspective");
+	glutDisplayFunc(disp);
+
+	glMatrixMode(GL_PROJECTION);
+	glLoadIdentity();
+	gluPerspective(160 , 0.75 , 1 , 10);  // zé≤ : -1Å`-10
+
+	glutMainLoop();
+	return 0;
+}
+
+
+//	void gluPerspective(
+//	  GLdouble   fovy,    // éãñÏÇÃêÇíºï˚å¸âÊäp
+//	  GLdouble   aspect,  // ï`âÊîÕàÕÇÃècâ°î‰
+//	  GLdouble   zNear,
+//	  GLdouble   zFar
+//	);

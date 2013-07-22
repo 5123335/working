@@ -1,0 +1,85 @@
+/*
+ * p16_01_Light.cpp
+ *
+ *  Created on: 2013/07/22
+ *      Author: yumikoy
+ */
+
+#include <windows.h>
+#include <GL/gl.h>
+#include <GL/glut.h>
+
+const GLfloat lightPos[] = { 0 , 0 , 0 , 0 };
+//const GLfloat lightPos[] = { 0 , 0 , -5 , 1};
+const GLfloat lightCol[] = { 1 , 0 , 0 , 1};
+
+void disp( void ) {
+	glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT);
+	glBegin(GL_POLYGON);
+	{
+		glNormal3f(1 , 0 , 0);
+//		glNormal3f(0 , 0 , 1);
+//		glVertex3f(0 , -0.9 , -2);
+//		glVertex3f(3 , -0.9 , -7);
+//		glVertex3f(0 , 0.9 , -2);
+		glVertex3f(0 , 0 , -3);
+		glVertex3f(0 , 1 , -3);
+		glVertex3f(1 , 0, -3);
+
+//		glNormal3f(-3 , 0 , -2);
+//		glVertex3f(0 , -0.9 , -2);
+//		glVertex3f(-3 , -0.9 , -7);
+//		glVertex3f(0 , 0.9 , -2);
+	}
+	glEnd();
+
+	glBegin(GL_POLYGON);
+	{
+		glNormal3f(0 , 1 , 0);
+		glVertex3f(0 , 0 , -7);
+		glVertex3f(0 , -1 , -7);
+		glVertex3f(-1 , 0, -7);
+	}
+	glEnd();
+	glBegin(GL_POLYGON);
+	{
+		glNormal3f(0 , 0 , 1);
+		glVertex3f(1 , -1 , -7);
+		glVertex3f(0 , -1 , -7);
+		glVertex3f(1 , 0, -7);
+	}
+	glEnd();
+
+	glutSwapBuffers();
+}
+
+int main(int argc , char ** argv) {
+	glutInit(&argc , argv);
+	glutInitWindowPosition(100 , 50);
+	glutInitWindowSize(400 , 300);
+	glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGBA | GLUT_DEPTH);
+	glutCreateWindow("light");
+	glutDisplayFunc(disp);
+
+//	glMatrixMode(GL_PROJECTION);
+//	glLoadIdentity();
+	glFrustum(-1 , 1 , -1 , 1 , 2 , 10);  // -10 <= z <= -2
+
+	glLightfv(GL_LIGHT0 , GL_POSITION , lightPos);  // 照明の位置を指定
+	glLightfv(GL_LIGHT0 , GL_DIFFUSE , lightCol);  // 拡散光を指定
+
+	glEnable(GL_LIGHTING);  // 光源モデルを有効にする
+	glEnable(GL_LIGHT0);    // 光源0を有効にする
+	glEnable(GL_DEPTH_TEST);
+	glEnable(GL_NORMALIZE);
+
+	glutMainLoop();
+	return 0;
+}
+
+
+//void glLightfv(
+//	GLenum light ,  // 設定する対象の照明(GL_LIGHT0, GL_LIGHT1, ..)
+//	GLenum pname , const GLfloat *params
+//);
+//// 光源の最大数はGL_MAX_LIGHTSで取得(8以上を保障)
