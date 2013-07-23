@@ -1,0 +1,264 @@
+/*
+ * day08_01ReShadow.cpp
+ *
+ *  Created on: 2013/07/23
+ *      Author: yumikoy
+ */
+
+#include <windows.h>
+#include <stdio.h>
+#include <math.h>
+#include <fstream>
+#include <sstream>
+#include <iostream>
+#include <direct.h>
+#include <time.h>
+#include <GL/glut.h>
+
+using namespace std;
+
+int WindowPositionX = 200;  //生成するウィンドウ位置のX座標
+int WindowPositionY = 200;  //生成するウィンドウ位置のY座標
+int WindowWidth = 500;    //生成するウィンドウの幅
+int WindowHeight = 500;    //生成するウィンドウの高さ
+char WindowTitle[] = "世界の始まり";  //ウィンドウのタイトル
+
+//static GLfloat floor_planar[4];
+static GLfloat floor_planar[4] = { 0, 0, 10000, 10000 };
+static GLfloat pM[16];
+static GLfloat lightpos[4] = { -30, -100, 50, 1 };
+
+GLfloat floor_v[][3] = {
+		{ 50, 50, -1 }, { -50,	50, -1 },{ -50, -50, -1 }, { 50, -50, -1}};
+
+//----------------------------------------------------
+// 関数プロトタイプ（後に呼び出す関数名と引数の宣言）
+//----------------------------------------------------
+void Initialize(void);
+void Display(void);
+
+void shadowMatrix(GLfloat *m, GLfloat plane[4], GLfloat light[4]);
+void DrawFloor(bool bTexture);
+void DrawShadow(void);
+void DrawStructure(bool);
+//----------------------------------------------------
+// メイン関数
+//----------------------------------------------------
+int main(int argc, char *argv[]) {
+	glutInit(&argc, argv);  //環境の初期化
+	glutInitWindowPosition(WindowPositionX, WindowPositionY);  //ウィンドウの位置の指定
+	glutInitWindowSize(WindowWidth, WindowHeight); //ウィンドウサイズの指定
+	glutInitDisplayMode(GLUT_RGBA | GLUT_DEPTH | GLUT_DOUBLE); //ディスプレイモードの指定
+	glutCreateWindow(WindowTitle);  //ウィンドウの作成
+	glutDisplayFunc(Display); //描画時に呼び出される関数を指定する（関数名：Display）
+	Initialize(); //初期設定の関数を呼び出す
+	glutMainLoop();
+	return 0;
+}
+//----------------------------------------------------
+// 初期設定の関数
+//----------------------------------------------------
+void Initialize(void) {
+	glClearColor(1.0, 1.0, 1.0, 1.0); //背景色
+	glEnable(GL_DEPTH_TEST); //デプスバッファを使用：glutInitDisplayMode() で GLUT_DEPTH を指定する
+//  glDepthFunc( GL_LEQUAL );  // TODO: 床上の影を描くときにDEPTHを切ってるから必要ない？？
+	glClearDepth(1.0);  // specify the GL_DEPTH_CLEAR_VALUE for the depth buffer
+
+	//透視変換行列の設定------------------------------
+	glMatrixMode(GL_PROJECTION);
+	glLoadIdentity();  //行列の初期化
+	gluPerspective(30.0, (double) WindowWidth / (double) WindowHeight, 0.1,
+			1000.0);
+	glEnable(GL_BLEND);
+	glBlendFunc(GL_SRC_ALPHA, GL_ONE_MINUS_SRC_ALPHA);
+}
+//----------------------------------------------------
+// 描画の関数
+//----------------------------------------------------
+void Display(void) {
+	glClear(GL_COLOR_BUFFER_BIT | GL_DEPTH_BUFFER_BIT | GL_STENCIL_BUFFER_BIT);
+
+	//視点の設定------------------------------
+	gluLookAt(0.0, -160.0, 40, // 視点の位置x,y,z;
+			0.0, 0.0, 0.0,   // 視界の中心位置の参照点座標x,y,z
+			0.0, 0.0, 1.0);  //視界の上方向のベクトルx,y,z
+	//----------------------------------------
+
+	//モデルビュー変換行列の設定--------------------------
+	glMatrixMode(GL_MODELVIEW); //行列モードの設定（GL_PROJECTION : 透視変換行列の設定、GL_MODELVIEW：モデルビュー変換行列）
+	glLoadIdentity();  //行列の初期化
+	glViewport(0, 0, WindowWidth, WindowHeight);
+	//----------------------------------------------
+
+	//ステンシルバッファクリア値の設定--------------------------
+	glClearStencil(0);
+	glCullFace(GL_BACK);
+	glEnable(GL_CULL_FACE);
+	glEnable(GL_AUTO_NORMAL);
+	glEnable(GL_NORMALIZE);
+	//----------------------------------------
+
+	// 平面射影行列の算出--------------------------
+	shadowMatrix(pM, floor_planar, lightpos);
+	//--------------------------
+
+	// 光源ON-----------------------------
+	glEnable(GL_LIGHTING);
+	glEnable(GL_LIGHT0);
+	glLightfv(GL_LIGHT0, GL_POSITION, lightpos);
+	//-----------------------------------
+
+	glPushMatrix();
+	DrawStructure(true);  // 実体
+//	glDisable(GL_LIGHTING);
+	DrawShadow();
+	glPopMatrix();
+
+	glDisable(GL_AUTO_NORMAL);
+	glDisable(GL_NORMALIZE);
+
+	glutSwapBuffers();
+}
+
+const double px = 0, py = -10, pz = 6;
+const double ax = 0.0, ay = 0.0, az = -4.0;
+const double hanpatu = 0.9;
+//----------------------------------------------------
+// 物体の描画
+//----------------------------------------------------
+const double dt = 0.05;
+GLfloat blue[] = { 0.2, 0.2, 0.8, 1};//青色
+
+void DrawStructure(bool jittai) {
+	if (jittai || pz > 0) {  // true→draw, false(影)→物体が床より上ならdraw
+		glPushMatrix();
+		glTranslated(px, py, pz);  //平行移動値の設定
+//      glutSolidSphere(4.0, 20, 20);//引数：(半径, Z軸まわりの分割数, Z軸に沿った分割数)
+		if (!jittai)
+			glMaterialfv(GL_FRONT, GL_DIFFUSE, blue);
+		glutSolidCube(9);  //引数：(半径, Z軸まわりの分割数, Z軸に沿った分割数)
+		glPopMatrix();
+	}
+}
+//----------------------------------------------------
+// 床平面の方程式と行列の計算
+//----------------------------------------------------
+void shadowMatrix(GLfloat *m, GLfloat plane[4], GLfloat light[4])
+{ //         (out-行列のポインタ, 射影する表面の平面方程式の係数, 光源の同時座標値)
+
+	GLfloat dot;
+
+	// Find dot product between light position vector and ground plane normal.
+	dot = plane[0] * light[0] + plane[1] * light[1] + plane[2] * light[2]
+			+ plane[3] * light[3];
+
+	m[0] = dot - light[0] * plane[0];
+	m[4] = 0.f - light[0] * plane[1];
+	m[8] = 0.f - light[0] * plane[2];
+	m[12] = 0.f - light[0] * plane[3];
+
+	m[1] = 0.f - light[1] * plane[0];
+	m[5] = dot - light[1] * plane[1];
+	m[9] = 0.f - light[1] * plane[2];
+	m[13] = 0.f - light[1] * plane[3];
+
+	m[2] = 0.f - light[2] * plane[0];
+	m[6] = 0.f - light[2] * plane[1];
+	m[10] = dot - light[2] * plane[2];
+	m[14] = 0.f - light[2] * plane[3];
+
+	m[3] = 0.f - light[3] * plane[0];
+	m[7] = 0.f - light[3] * plane[1];
+	m[11] = 0.f - light[3] * plane[2];
+	m[15] = dot - light[3] * plane[3];
+}
+
+//----------------------------------------------------
+// 床の描画と影の描画
+//----------------------------------------------------
+void DrawFloor() {
+	glDisable(GL_LIGHTING);  // 床は色指定で描くので光源モードは使えない
+	glBegin(GL_QUADS);
+	glVertex3fv(floor_v[0]);
+	glVertex3fv(floor_v[1]);
+	glVertex3fv(floor_v[2]);
+	glVertex3fv(floor_v[3]);
+	glEnd();
+	glEnable(GL_LIGHTING);
+}
+
+void DrawShadow(void) {
+	//床のステンシルを付ける
+	glEnable(GL_STENCIL_TEST);
+	glStencilFunc(GL_ALWAYS, 1, ~0);
+	//これから描画するもののステンシル値にすべて１タグをつける
+	glStencilOp(GL_KEEP, GL_KEEP, GL_REPLACE);
+
+	glColor4f(0.7f, 0.4f, 0.0f, 1.0f);  // 床の色
+	DrawFloor();  //床の描画
+
+	//以下の内容のピクセルの色の値は、書き込まれない。
+	glDisable(GL_DEPTH_TEST);
+	glColorMask(0, 0, 0, 0);  // カラーバッファを保護
+	glDepthMask(0);           // デプスバッファを保護
+	{
+		//床にオブジェクトの影のステンシルを付ける
+//		glEnable(GL_STENCIL_TEST);
+		glStencilFunc(GL_EQUAL, 1, ~0);
+
+		//これから描画するもののステンシル値にすべて１タグをつける
+		glStencilOp(GL_KEEP, GL_KEEP, GL_INCR);
+
+		// 射影行列を掛けて物体をdraw(床に張り付いた形)
+		glColor4f(1, 1, 0, 1.0);  // (影ステンシルの色)
+		glPushMatrix();
+		glMultMatrixf(pM);
+		DrawStructure(false);  // 物体が床より上なら影ステンシルをdraw
+		glPopMatrix();
+	}
+	glColorMask(1, 1, 1, 1);
+	glDepthMask(1);
+	glEnable(GL_DEPTH_TEST);
+
+	//影をつける
+	glStencilFunc(GL_EQUAL, 2, ~0);
+//	glColor4f(0.1f, 0.1f, 0.1f, 0.5f);
+	glColor4f(1, 0, 0, 0.2);  // 影の色,影の濃さ
+	glDisable(GL_DEPTH_TEST);  // 床に上書きするため(隠れる部分はステンシルバッファで消去済み)
+	DrawFloor();  //床の描画
+	glEnable(GL_DEPTH_TEST);
+	glDisable(GL_STENCIL_TEST);
+}
+
+
+//	void glStencilFunc(
+//		GLenum func,  // 比較方法を指定
+//		GLint ref,    // 基準値を指定(ステンシルテストを通過させる値)
+//		GLuint mask   // ~0(全ビット1)にしておけば無視できる
+//	);
+//	GL_NEVER：すべて不合格
+//	GL_LESS：( ref & mask ) < ( stencil & mask ) で合格
+//	GL_LEQUAL：( ref & mask ) <= ( stencil & mask ) で合格
+//	GL_GREATER：( ref & mask ) > ( stencil & mask ) で合格
+//	GL_GEQUAL：( ref & mask ) >= ( stencil & mask ) で合格
+//	GL_EQUAL：( ref & mask ) = ( stencil & mask ) で合格
+//	GL_NOTEQUAL：( ref & mask ) != ( stencil & mask ) で合格
+//	GL_ALWAYS：すべて合格
+
+
+//void glStencilOp(
+//	GLenum sfail,   // ステンシルテストを通過できなかった時の処理
+//	GLenum dpfail,  // ステンシルテストは通過できたが、デプステストを通過できなかった時の処理
+//	GLenum dppass   // どちらも通過した時の処理
+//);
+
+
+GL_KEEP : 現在の値をキープする。
+GL_ZERO : ステンシル値を「０」に設定。
+GL_REPLACE : glStencilFunc()の第2引数ref で置き換える。
+GL_INCR : ステンシル値を「+1」する。ただし、最大値以上は増えない。
+GL_INCR_WRAP : ステンシル値を「+1」する。最大値までいったら「０」に戻る。
+GL_DECR : ステンシル値を「-1」する。「0」以下にはならない。
+GL_DECR_WRAP : ステンシル値を「-1」する。「０」を「-1」するとステンシル値のとりうる最大値になる。
+GL_INVERT : ステンシル値をビット反転する。
+
