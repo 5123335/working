@@ -1,0 +1,202 @@
+/*
+ * p3.cpp
+ *
+ *  Created on: 2013/07/26
+ *      Author: yumikoy
+ */
+
+#include <set>
+#include <map>
+#include <stdio.h>
+#include <math.h>
+#include <stdlib.h>
+#include <iostream>
+#include <sstream>
+using namespace std;
+
+struct costs;
+struct State;
+set<int> nums;  // ‹ó‚Ìset
+map<int, costs> m;
+map<State, costs> m2;
+
+struct costs{
+	unsigned char cost[10];
+	costs(){
+		for(int pos = 1; pos <= 9; pos++){
+			cost[pos] = 0xFF;
+		}
+	}
+};
+
+struct State{
+	unsigned int s[1]; // 27bit <= 4byte
+	State(){
+		s[0] = 0x0;
+	}
+	bool operator==(const State &comp) const {
+		return (s[0]==comp.s[0]);
+	}
+	bool operator<(const State &comp) const {
+		return (s[0]<comp.s[0]);
+	}
+	bool operator>(const State &comp) const {
+		return (s[0]>comp.s[0]);
+	}
+};
+//
+//string bits(unsigned int n){
+//	string ret = "";
+//	unsigned int shiftn = n;
+//	for(int i = 0; i < 9; i++){
+//		unsigned int bit = shiftn & 0x1;
+//		ret += (bit==0x1) ? "1" : "0";
+//		shiftn = shiftn >> 1;
+//	}
+//	return ret;
+//}
+//
+//int mypow(int x, int n){
+//	int result = 1;
+//	for(int i=0; i<n; i++){
+//		result *= x;
+//	}
+//	return result;
+//}
+//int p10(int n){
+//	return mypow(10, n);
+//}
+//int nonp(int l, int p){
+//	return fmod(l / p10(9-p) , 10);
+//}
+int nonp2(State s, int p){
+	return (s.s[0] >> ((p-1)*3)) & 0x7; // 0b111
+}
+
+//int swap(int l, int from, int to) {
+//	int f = nonp(l, from), t = nonp(l, to);
+////	printf("swap (p%d(%d), p%d(%d))  ", from, f, to, t);
+//	int hd,ld,hn,ln;
+//	if(from < to){
+//		hd = from; ld = to; hn = f; ln = t;
+//	} else {
+//		hd = to; ld = from; hn = t; ln = f;
+//	}
+//	return l + (p10(9-hd)-p10(9-ld))*(ln-hn);
+//}
+
+unsigned int eraseAt(State &s, int p) {
+	unsigned int extract = s.s[0] & (0x7 << ((p - 1) * 3));  // 0x7=0b111
+	s.s[0] = s.s[0] ^ extract;  // erase
+	return extract >> ((p - 1) * 3);
+}
+
+State swap2(State &s, int from, int to) {
+	unsigned int f = eraseAt(s, from), t = eraseAt(s, to); // 3 digit(2)
+//	printf("swap (p%d: %d, p%d: %d)  ", from, f, to, t);
+	s.s[0] = s.s[0] | (f << ((to-1)*3));
+	s.s[0] = s.s[0] | (t << ((from-1)*3));
+	return s;
+}
+
+string sState(const State &s){
+	stringstream ss;
+	for(int i = 1; i <= 9; i++){
+		ss << nonp2(s, i);
+	}
+	return ss.str();
+}
+
+int con[][4] = {{2,4,-1,-1},{1,3,5,-1},{2,6,-1,-1},
+		{1,5,7,-1},{2,4,6,8},{3,5,9,-1},
+		{4,8,-1,-1},{5,7,9,-1},{6,8,-1,-1}};
+
+static int lv = 0;
+void enumer2(State &l, int p, unsigned char cost){
+//	printf("enumer(%d, %d, %d): %d\n", l, p, cost, nonp(l, p));
+	lv++;
+	if(lv > 2){
+		lv--;
+//		printf("lvmax\n");
+		return;
+	}
+	int* nextps = con[p-1];
+	for(int i=0; i<4; i++){
+		int nextp = nextps[i];
+		if(nextp==-1)
+			break;
+		State swapped = swap2(l, p, nextp);
+//		printf("m[%d].costwith[%d] = %d <-> nowcost:%d\n", swapped, nextp, m[swapped].cost[nextp], cost+1);
+		if(m2[swapped].cost[nextp] <= cost+1){
+			continue;
+		}
+//		printf("! -> %d\n", cost+1);
+		m2[swapped].cost[nextp] = cost+1;
+		enumer2(swapped, nextp, cost+1);
+	}
+	lv--;
+}
+string sCosts(costs cs){
+	stringstream ss;
+	for (int i = 1; i <= 9; i++) {
+		int c = cs.cost[i];
+		ss.width(2);
+		if (c != 255){
+			ss << c;
+		}else{
+			ss << "  ";
+		}
+		ss << "| ";
+	}
+	return ss.str();
+}
+void printm(){
+	map<State, costs>::iterator mit = m2.begin();
+	while (mit != m2.end()) {
+		cout << sState((*mit).first) << ": " << sCosts((*mit).second) << endl;
+		++mit;
+	}
+}
+
+// {000, 001, 010, 011, 100, 101, 110, 111}
+// {0x0, 0x1, 0x2, 0x3, 0x4, 0x5, 0x6, 0x7}
+State createInitState(const string &str){
+	State a;
+	unsigned int len = str.length();
+	for(unsigned int i = 0; i < len; i++){
+		unsigned int bits;
+		switch (str.at(i)) {
+		case '1':
+			bits = 0x1; break;
+		case '2':
+			bits = 0x2; break;
+		case '3':
+			bits = 0x3; break;
+		}
+		a.s[0] += bits << (i*3);
+	}
+	return a;
+}
+
+int main() {
+	State init = createInitState("123123123");
+	printf("0x%X\n", init.s[0]);
+	cout << sState(init) << endl;
+
+	printf("m2");
+	sCosts(m2[init]);
+	printf("\n");
+
+
+	for(int i = 1; i<=1; i++){
+		lv = 0;
+		m2[init].cost[i] = 0;
+//		printf("m[%d].costwith[%d]=%d\n",l, i, m[l].cost[i]);
+		enumer2(init, i, 0);
+	}
+
+	printm();
+
+	cout << endl << m.size() << endl;
+	cout << endl << m2.size() << endl;
+}

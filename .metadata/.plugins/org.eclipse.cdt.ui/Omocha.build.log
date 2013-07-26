@@ -1,7 +1,7 @@
-17:09:42 **** Incremental Build of configuration Debug for project Omocha ****
+14:52:21 **** Incremental Build of configuration Debug for project Omocha ****
 Info: Internal Builder is used for build
-g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
-g++ -o Omocha.exe "src\\pz.o" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p3.o" "..\\src\\p3.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" "src\\p3.o" 
 
-17:09:43 Build Finished (took 598ms)
+14:52:21 Build Finished (took 764ms)
 

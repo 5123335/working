@@ -1,0 +1,167 @@
+/*
+ * pz.cpp
+ *
+ *  Created on: 2013/07/24
+ *      Author: yumikoy
+//
+//void printl(int l[4]){
+//	for(int i = 0; i < 4; i++){
+//		printf("%d", l[i]);
+//	}
+//	printf("\n");
+//}
+//
+//void print12(int l[4], int fromto[2]){
+//	for(int i = 0; i<12; i++){
+//		swap(l, fromto);
+//		printl(l);
+//	}
+//}
+//
+//int factorial(int n){
+//	int result = 1;
+//	for(int i = 1; i <= n; i++){
+//		result *= i;
+//	}
+//	return result;
+//}
+//
+//int main(){
+////	int fromto12[2] = {1,2};
+////	int fromto13[2] = {1,3};
+////	int fromto24[2] = {2,4};
+////	int fromto34[2] = {3,4};
+//
+////	int fromtos[4][2] = {{1,2}, {3,1}, {2,4}, {4,3}};
+//////	printl(l);
+////	for(int i = 0; i < 4; i++){
+////		int l[4] = {1,2,3,4};
+////		print12(l, fromtos[i]);
+////	}
+//
+//	printf("%d\n", factorial(6));
+//
+//	printf("end");
+//}
+ */
+
+
+#include <set>
+#include <map>
+#include <stdio.h>
+#include <math.h>
+#include <stdlib.h>
+#include <iostream>
+using namespace std;
+
+set<int> nums;  // ‹ó‚Ìset
+map<int, string> nummap;
+map<int, unsigned int> numbmap;
+
+string bits(unsigned int n){
+	string ret = "";
+	unsigned int shiftn = n;
+	for(int i = 0; i < 9; i++){
+		unsigned int bit = shiftn & 0x1;
+		ret += (bit==0x1) ? "1" : "0";
+		shiftn = shiftn >> 1;
+	}
+	return ret;
+}
+
+int mypow(int x, int n){
+	int result = 1;
+	for(int i=0; i<n; i++){
+		result *= x;
+	}
+	return result;
+}
+int p10(int n){
+	return mypow(10, n);
+}
+int nonp(int l, int p){
+	return fmod(l / p10(9-p) , 10);
+}
+
+int swap(int l, int from, int to) {
+	int f = nonp(l, from), t = nonp(l, to);
+//	printf("swap (p%d(%d), p%d(%d))  ", from, f, to, t);
+	int hd,ld,hn,ln;
+	if(from < to){
+		hd = from; ld = to; hn = f; ln = t;
+	} else {
+		hd = to; ld = from; hn = t; ln = f;
+	}
+	return l + (p10(9-hd)-p10(9-ld))*(ln-hn);
+}
+
+int con[][4] = {{2,4,-1,-1},{1,3,5,-1},{2,6,-1,-1},
+		{1,5,7,-1},{2,4,6,8},{3,5,9,-1},
+		{4,8,-1,-1},{5,7,9,-1},{6,8,-1,-1}};
+unsigned int pbits[10] = {0x0,
+		0x1, 0x2, 0x4, 0x8, 0x10, 0x20, 0x40, 0x80, 0x100
+};
+
+void printnumbmap(string s, int n){
+	cout << "_____" << s << n << "_____" << endl;
+	map<int, unsigned int>::iterator mit = numbmap.begin();
+	while (mit != numbmap.end()) {
+		cout << (*mit).first << " : " << bits((*mit).second) << endl;
+		++mit;
+	}
+}
+
+static int lv = 0;
+void enumer(int l, int p){
+//	printf("enumer(%d, %d, %d)\n", l, have, p);
+	lv++;
+	if(lv > 15){
+		lv--;
+//		printf("lvmax\n");
+		return;
+	}
+
+	int* nextps = con[p-1];
+	for(int i=0; i<4; i++){
+		int nextp = nextps[i];
+		if(nextp==-1)
+			break;
+		int swapped = swap(l, p, nextp);
+		printf("%d : p%d->p%d  %d (p%d: %d)\n", lv, p, nextp, swapped, nextp, nonp(swapped, nextp));
+		if((unsigned int)(numbmap[swapped] & pbits[nextp]) == pbits[nextp]){
+			cout << bits(pbits[nextp]) << " already exist([" << swapped << "]=" << bits(numbmap[swapped]) << ")\n";
+			continue;
+		}
+		cout << "[" << swapped << "]= " << bits(numbmap[swapped]);
+		numbmap[swapped] = numbmap[swapped] | pbits[nextp];
+		cout << "->" << bits(numbmap[swapped]) << endl;
+		enumer(swapped, nextp);
+	}
+	lv--;
+}
+
+long fact(int n){
+	long result = 1;
+	for(int i = 1; i <= n; i++){
+		result *= i;
+	}
+	return result;
+}
+
+int main() {
+	int l = 123123123;
+
+	for(int i = 1; i<=9; i++){
+		lv = 0;
+		numbmap[l] = numbmap[l] | pbits[i];
+//				printnumbmap("start i=", i);
+		enumer(l, i);
+	}
+
+	printnumbmap("end", 0);
+	cout << bits(numbmap[312123123]) << endl;
+
+	cout << numbmap.size() << endl;
+	printf("%ld\n", fact(6));
+	printf("%ld\n", fact(30));
+}

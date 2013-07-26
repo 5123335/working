@@ -13,18 +13,19 @@
 		<item value="false" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="false" key="wholeword"/>
-		<item value="4321" key="selection"/>
+		<item value="122313123" key="selection"/>
 		<list key="findhistory">
+			<item value="122313123"/>
+			<item value=" 3|"/>
+			<item value=" 1|"/>
+			<item value="312123123"/>
+			<item value="nextps[i]"/>
 			<item value="4321"/>
 			<item value="4312"/>
 			<item value="431"/>
-			<item value="4231"/>
-			<item value="4213"/>
-			<item value="4132"/>
-			<item value="4123"/>
-			<item value="3421"/>
 		</list>
 		<list key="replacehistory">
+			<item value="nextp"/>
 			<item value="[1]"/>
 			<item value="[0]"/>
 			<item value="GL_TRUE"/>
@@ -32,7 +33,6 @@
 			<item value="d\\n&quot;"/>
 			<item value="d\n&quot;"/>
 			<item value="%d\n"/>
-			<item value="\%d\n"/>
 		</list>
 	</section>
 	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">

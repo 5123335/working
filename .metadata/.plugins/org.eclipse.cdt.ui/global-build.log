@@ -9610,3 +9610,1951 @@ g++ -o Omocha.exe "src\\pz.o"
 Info: Internal Builder is used for build
 g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
 g++ -o Omocha.exe "src\\pz.o" 
+09:25:59 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+09:26:14 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+09:26:38 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+Info: Nothing to build for Omocha
+09:27:54 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+09:29:42 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+09:29:52 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+09:30:43 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+09:31:42 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+09:32:52 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+09:33:17 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+09:33:33 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+10:43:33 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+10:44:15 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+10:52:13 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+..\src\pz.cpp: 関数 'int main()' 内:
+..\src\pz.cpp:144:6: 警告: 使用されない変数 's2' です [-Wunused-variable]
+g++ -o Omocha.exe "src\\pz.o" 
+Info: Nothing to build for Open
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+10:53:10 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+Info: Nothing to build for Open
+10:55:51 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+10:55:58 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+10:56:18 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+10:56:37 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+10:56:51 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+10:57:53 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+11:00:25 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+..\src\pz.cpp: 関数 'int main()' 内:
+..\src\pz.cpp:178:46: エラー: 'std::map<int, unsigned int>::iterator {aka std::_Rb_tree_iterator<std::pair<const int, unsigned int> >}' から非スカラ型 'std::map<int, int>::iterator {aka std::_Rb_tree_iterator<std::pair<const int, int> >}' への変換が要求されました
+..\src\pz.cpp:179:25: エラー: 'operator!=' で 'mit != numbmap.std::map<_Key, _Tp, _Compare, _Alloc>::end<int, unsigned int, std::less<int>, std::allocator<std::pair<const int, unsigned int> > >()' 内にあるものが適合しません
+..\src\pz.cpp:179:25: 備考: 候補:
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60:0,
+                 from ..\src\pz.cpp:49:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:220:7: 備考: bool std::_Rb_tree_iterator<_Tp>::operator!=(const _Self&) const [with _Tp = std::pair<const int, int>; std::_Rb_tree_iterator<_Tp>::_Self = std::_Rb_tree_iterator<std::pair<const int, int> >]
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:220:7: 備考: 第 1 引数を 'std::map<int, unsigned int>::iterator {aka std::_Rb_tree_iterator<std::pair<const int, unsigned int> >}' から 'const _Self& {aka const std::_Rb_tree_iterator<std::pair<const int, int> >&}' へ変換する方法が不明です
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_algobase.h:65:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:63,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz.cpp:49:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_pair.h:219:5: 備考: template<class _T1, class _T2> bool std::operator!=(const std::pair<_T1, _T2>&, const std::pair<_T1, _T2>&)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_pair.h:219:5: 備考:   template argument deduction/substitution failed:
+..\src\pz.cpp:179:25: 備考:   'std::map<int, int>::iterator {aka std::_Rb_tree_iterator<std::pair<const int, int> >}' is not derived from 'const std::pair<_T1, _T2>'
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_algobase.h:68:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:63,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz.cpp:49:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_iterator.h:305:5: 備考: template<class _Iterator> bool std::operator!=(const std::reverse_iterator<_Iterator>&, const std::reverse_iterator<_Iterator>&)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_iterator.h:305:5: 備考:   template argument deduction/substitution failed:
+..\src\pz.cpp:179:25: 備考:   'std::map<int, int>::iterator {aka std::_Rb_tree_iterator<std::pair<const int, int> >}' is not derived from 'const std::reverse_iterator<_Iterator>'
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_algobase.h:68:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:63,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz.cpp:49:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_iterator.h:355:5: 備考: template<class _IteratorL, class _IteratorR> bool std::operator!=(const std::reverse_iterator<_IteratorL>&, const std::reverse_iterator<_IteratorR>&)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_iterator.h:355:5: 備考:   template argument deduction/substitution failed:
+..\src\pz.cpp:179:25: 備考:   'std::map<int, int>::iterator {aka std::_Rb_tree_iterator<std::pair<const int, int> >}' is not derived from 'const std::reverse_iterator<_IteratorL>'
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:64:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz.cpp:49:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/allocator.h:129:5: 備考: template<class _T1, class _T2> bool std::operator!=(const std::allocator<_T1>&, const std::allocator<_T2>&)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/allocator.h:129:5: 備考:   template argument deduction/substitution failed:
+..\src\pz.cpp:179:25: 備考:   'std::map<int, int>::iterator {aka std::_Rb_tree_iterator<std::pair<const int, int> >}' is not derived from 'const std::allocator<_T1>'
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:64:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz.cpp:49:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/allocator.h:134:5: 備考: template<class _Tp> bool std::operator!=(const std::allocator<_Tp1>&, const std::allocator<_Tp1>&)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/allocator.h:134:5: 備考:   template argument deduction/substitution failed:
+..\src\pz.cpp:179:25: 備考:   'std::map<int, int>::iterator {aka std::_Rb_tree_iterator<std::pair<const int, int> >}' is not derived from 'const std::allocator<_Tp1>'
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60:0,
+                 from ..\src\pz.cpp:49:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:315:5: 備考: template<class _Val> bool std::operator!=(const std::_Rb_tree_iterator<_Tp>&, const std::_Rb_tree_const_iterator<_Val>&)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:315:5: 備考:   template argument deduction/substitution failed:
+..\src\pz.cpp:179:25: 備考:   'std::map<int, unsigned int>::iterator {aka std::_Rb_tree_iterator<std::pair<const int, unsigned int> >}' is not derived from 'const std::_Rb_tree_const_iterator<_Val>'
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60:0,
+                 from ..\src\pz.cpp:49:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:883:5: 備考: template<class _Key, class _Val, class _KeyOfValue, class _Compare, class _Alloc> bool std::operator!=(const std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>&, const std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>&)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:883:5: 備考:   template argument deduction/substitution failed:
+..\src\pz.cpp:179:25: 備考:   'std::map<int, int>::iterator {aka std::_Rb_tree_iterator<std::pair<const int, int> >}' is not derived from 'const std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>'
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:61:0,
+                 from ..\src\pz.cpp:49:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_set.h:728:5: 備考: template<class _Key, class _Compare, class _Alloc> bool std::operator!=(const std::set<_Key, _Compare, _Alloc>&, const std::set<_Key, _Compare, _Alloc>&)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_set.h:728:5: 備考:   template argument deduction/substitution failed:
+..\src\pz.cpp:179:25: 備考:   'std::map<int, int>::iterator {aka std::_Rb_tree_iterator<std::pair<const int, int> >}' is not derived from 'const std::set<_Key, _Compare, _Alloc>'
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:62:0,
+                 from ..\src\pz.cpp:49:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_multiset.h:709:5: 備考: template<class _Key, class _Compare, class _Alloc> bool std::operator!=(const std::multiset<_Key, _Compare, _Alloc>&, const std::multiset<_Key, _Compare, _Alloc>&)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_multiset.h:709:5: 備考:   template argument deduction/substitution failed:
+..\src\pz.cpp:179:25: 備考:   'std::map<int, int>::iterator {aka std::_Rb_tree_iterator<std::pair<const int, int> >}' is not derived from 'const std::multiset<_Key, _Compare, _Alloc>'
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/map:61:0,
+                 from ..\src\pz.cpp:50:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_map.h:913:5: 備考: template<class _Key, class _Tp, class _Compare, class _Alloc> bool std::operator!=(const std::map<_Key, _Tp, _Compare, _Alloc>&, const std::map<_Key, _Tp, _Compare, _Alloc>&)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_map.h:913:5: 備考:   template argument deduction/substitution failed:
+..\src\pz.cpp:179:25: 備考:   'std::map<int, int>::iterator {aka std::_Rb_tree_iterator<std::pair<const int, int> >}' is not derived from 'const std::map<_Key, _Tp, _Compare, _Alloc>'
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/map:62:0,
+                 from ..\src\pz.cpp:50:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_multimap.h:829:5: 備考: template<class _Key, class _Tp, class _Compare, class _Alloc> bool std::operator!=(const std::multimap<_Key, _Tp, _Compare, _Alloc>&, const std::multimap<_Key, _Tp, _Compare, _Alloc>&)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_multimap.h:829:5: 備考:   template argument deduction/substitution failed:
+..\src\pz.cpp:179:25: 備考:   'std::map<int, int>::iterator {aka std::_Rb_tree_iterator<std::pair<const int, int> >}' is not derived from 'const std::multimap<_Key, _Tp, _Compare, _Alloc>'
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/iosfwd:42:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/ios:39,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/ostream:40,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/iostream:40,
+                 from ..\src\pz.cpp:54:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/postypes.h:223:5: 備考: template<class _StateT> bool std::operator!=(const std::fpos<_StateT>&, const std::fpos<_StateT>&)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/postypes.h:223:5: 備考:   template argument deduction/substitution failed:
+..\src\pz.cpp:179:25: 備考:   'std::map<int, int>::iterator {aka std::_Rb_tree_iterator<std::pair<const int, int> >}' is not derived from 'const std::fpos<_StateT>'
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/string:54:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/locale_classes.h:42,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/ios_base.h:43,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/ios:43,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/ostream:40,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/iostream:40,
+                 from ..\src\pz.cpp:54:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/basic_string.h:2529:5: 備考: template<class _CharT, class _Traits, class _Alloc> bool std::operator!=(const std::basic_string<_CharT, _Traits, _Alloc>&, const std::basic_string<_CharT, _Traits, _Alloc>&)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/basic_string.h:2529:5: 備考:   template argument deduction/substitution failed:
+..\src\pz.cpp:179:25: 備考:   'std::map<int, int>::iterator {aka std::_Rb_tree_iterator<std::pair<const int, int> >}' is not derived from 'const std::basic_string<_CharT, _Traits, _Alloc>'
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/string:54:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/locale_classes.h:42,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/ios_base.h:43,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/ios:43,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/ostream:40,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/iostream:40,
+                 from ..\src\pz.cpp:54:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/basic_string.h:2541:5: 備考: template<class _CharT, class _Traits, class _Alloc> bool std::operator!=(const _CharT*, const std::basic_string<_CharT, _Traits, _Alloc>&)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/basic_string.h:2541:5: 備考:   template argument deduction/substitution failed:
+..\src\pz.cpp:179:25: 備考:   mismatched types 'const _CharT*' and 'std::_Rb_tree_iterator<std::pair<const int, int> >'
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/string:54:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/locale_classes.h:42,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/ios_base.h:43,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/ios:43,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/ostream:40,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/iostream:40,
+                 from ..\src\pz.cpp:54:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/basic_string.h:2553:5: 備考: template<class _CharT, class _Traits, class _Alloc> bool std::operator!=(const std::basic_string<_CharT, _Traits, _Alloc>&, const _CharT*)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/basic_string.h:2553:5: 備考:   template argument deduction/substitution failed:
+..\src\pz.cpp:179:25: 備考:   'std::map<int, int>::iterator {aka std::_Rb_tree_iterator<std::pair<const int, int> >}' is not derived from 'const std::basic_string<_CharT, _Traits, _Alloc>'
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/locale_facets.h:50:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/basic_ios.h:39,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/ios:45,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/ostream:40,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/iostream:40,
+                 from ..\src\pz.cpp:54:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/streambuf_iterator.h:212:5: 備考: template<class _CharT, class _Traits> bool std::operator!=(const std::istreambuf_iterator<_CharT, _Traits>&, const std::istreambuf_iterator<_CharT, _Traits>&)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/streambuf_iterator.h:212:5: 備考:   template argument deduction/substitution failed:
+..\src\pz.cpp:179:25: 備考:   'std::map<int, int>::iterator {aka std::_Rb_tree_iterator<std::pair<const int, int> >}' is not derived from 'const std::istreambuf_iterator<_CharT, _Traits>'
+11:00:41 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+11:00:57 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+11:10:20 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+..\src\pz.cpp: 関数 'std::string bits(unsigned int)' 内:
+..\src\pz.cpp:141:15: 警告: 変数 'shiftn' が設定されましたが使用されていません [-Wunused-but-set-variable]
+..\src\pz.cpp: 関数 'int main()' 内:
+..\src\pz.cpp:191:56: エラー: cannot pass objects of non-trivially-copyable type 'std::string {aka class std::basic_string<char>}' through '...'
+..\src\pz.cpp:191:56: 警告: 書式 '%s' は引数の型が 'char*' であると予期されますが、第 3 引数の型は 'std::string {aka std::basic_string<char>}' です [-Wformat]
+Info: Nothing to build for Open
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+11:10:44 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+..\src\pz.cpp: 関数 'int main()' 内:
+..\src\pz.cpp:191:56: エラー: cannot pass objects of non-trivially-copyable type 'std::string {aka class std::basic_string<char>}' through '...'
+..\src\pz.cpp:191:56: 警告: 書式 '%s' は引数の型が 'char*' であると予期されますが、第 3 引数の型は 'std::string {aka std::basic_string<char>}' です [-Wformat]
+Info: Nothing to build for Open
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+11:11:37 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+Info: Nothing to build for Open
+Info: Nothing to build for Omocha
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+11:12:20 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+Info: Nothing to build for Open
+Info: Nothing to build for Omocha
+11:13:33 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+11:13:59 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+11:14:47 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+11:16:11 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+11:17:41 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+11:19:03 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+11:19:49 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+11:20:00 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+11:20:32 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+11:21:01 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+11:21:14 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+11:25:59 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+11:26:59 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+11:27:02 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+11:27:13 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+11:29:54 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+11:31:04 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+11:31:18 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+11:38:48 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+11:39:26 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+11:41:11 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+11:45:16 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+Info: Nothing to build for Open
+11:47:01 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+..\src\pz.cpp:91:12: 警告: 'count' が定義されましたが使用されません [-Wunused-variable]
+g++ -o Omocha.exe "src\\pz.o" 
+11:47:07 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+11:48:04 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+11:52:16 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+..\src\pz.cpp: 関数 'void enumer(int, int, int)' 内:
+..\src\pz.cpp:107:52: 警告: 符号付きと符号無しの整数式の間での比較です [-Wsign-compare]
+g++ -o Omocha.exe "src\\pz.o" 
+11:52:46 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+..\src\pz.cpp: 関数 'void enumer(int, int, int)' 内:
+..\src\pz.cpp:107:66: 警告: 符号付きと符号無しの整数式の間での比較です [-Wsign-compare]
+g++ -o Omocha.exe "src\\pz.o" 
+11:53:06 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+11:55:37 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+11:56:56 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+11:58:16 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+11:59:25 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+..\src\pz.cpp: 関数 'void enumer(int, int, int)' 内:
+..\src\pz.cpp:109:55: エラー: 'bits' was not declared in this scope
+11:59:45 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+12:00:17 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+12:00:46 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+12:01:04 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+12:01:37 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+12:04:03 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+12:05:09 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+12:05:49 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+12:06:08 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+12:06:38 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+12:06:46 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+12:57:27 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+12:57:31 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+12:57:36 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+12:57:42 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+12:57:51 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+13:02:50 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+..\src\pz.cpp: 関数 'int main()' 内:
+..\src\pz.cpp:180:55: エラー: 'pbits' cannot be used as a function
+Info: Nothing to build for Open
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+13:02:57 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+Info: Nothing to build for Open
+13:03:15 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+13:03:41 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+13:04:04 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+13:05:56 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+13:06:23 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+13:07:16 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+13:07:20 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+13:08:30 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+13:09:36 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+13:09:59 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+13:10:43 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+13:11:09 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+13:12:20 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+13:12:34 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+13:12:47 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+13:14:13 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+13:15:48 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+13:16:00 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+13:19:27 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+13:20:43 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+13:21:35 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+13:22:29 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+13:22:36 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+13:24:43 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+..\src\pz.cpp: 関数 'void enumer(int, int, int)' 内:
+..\src\pz.cpp:136:82: エラー: cannot pass objects of non-trivially-copyable type 'std::string {aka class std::basic_string<char>}' through '...'
+..\src\pz.cpp:136:82: 警告: 書式 '%s' は引数の型が 'char*' であると予期されますが、第 2 引数の型は 'unsigned int' です [-Wformat]
+..\src\pz.cpp:136:82: 警告: 書式 '%s' は引数の型が 'char*' であると予期されますが、第 4 引数の型は 'std::string {aka std::basic_string<char>}' です [-Wformat]
+13:25:07 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+..\src\pz.cpp: 関数 'void enumer(int, int, int)' 内:
+..\src\pz.cpp:136:88: エラー: cannot pass objects of non-trivially-copyable type 'std::string {aka class std::basic_string<char>}' through '...'
+..\src\pz.cpp:136:88: エラー: cannot pass objects of non-trivially-copyable type 'std::string {aka class std::basic_string<char>}' through '...'
+..\src\pz.cpp:136:88: 警告: 書式 '%s' は引数の型が 'char*' であると予期されますが、第 2 引数の型は 'std::string {aka std::basic_string<char>}' です [-Wformat]
+..\src\pz.cpp:136:88: 警告: 書式 '%s' は引数の型が 'char*' であると予期されますが、第 4 引数の型は 'std::string {aka std::basic_string<char>}' です [-Wformat]
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+13:26:23 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+Info: Nothing to build for Open
+Info: Nothing to build for Omocha
+13:26:52 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+13:28:43 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+13:28:51 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+13:32:18 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+13:32:25 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+13:33:03 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+13:34:28 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+13:34:33 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+13:34:41 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+13:34:47 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+13:36:36 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+13:36:59 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+..\src\pz.cpp: 関数 'int main()' 内:
+..\src\pz.cpp:183:39: エラー: cannot pass objects of non-trivially-copyable type 'std::string {aka class std::basic_string<char>}' through '...'
+..\src\pz.cpp:183:39: 警告: 書式 '%x' は引数の型が 'unsigned int' であると予期されますが、第 2 引数の型は 'std::string {aka std::basic_string<char>}' です [-Wformat]
+13:37:42 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+13:38:39 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+13:38:49 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+13:41:47 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+13:42:03 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+13:42:08 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+13:42:30 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+13:43:06 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+13:43:17 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+13:44:08 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+13:44:18 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+13:47:59 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+13:48:18 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+13:50:00 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+13:50:11 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+13:55:55 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+..\src\pz.cpp: 関数 'int factorial(int)' 内:
+..\src\pz.cpp:147:2: エラー: expected ';' before '}' token
+13:56:25 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+13:56:47 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+13:57:07 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+..\src\pz.cpp: 関数 'int main()' 内:
+..\src\pz.cpp:164:24: 警告: 書式 '%d' は引数の型が 'int' であると予期されますが、第 2 引数の型は 'long int' です [-Wformat]
+..\src\pz.cpp:165:25: 警告: 書式 '%d' は引数の型が 'int' であると予期されますが、第 2 引数の型は 'long int' です [-Wformat]
+g++ -o Omocha.exe "src\\pz.o" 
+13:57:32 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+14:16:43 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+14:18:40 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+14:19:09 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+14:19:19 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+14:19:30 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+14:19:41 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+14:19:48 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+14:20:10 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+14:20:17 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -o Omocha.exe "src\\pz.o" 
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+09:05:18 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz.o" "..\\src\\pz.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+Info: Nothing to build for Open
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+09:11:00 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+Info: Nothing to build for Open
+Info: Nothing to build for Omocha
+09:12:33 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+09:18:13 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+Info: Nothing to build for Open
+Info: Nothing to build for Omocha
+09:18:58 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+09:19:13 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+09:19:33 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+09:20:04 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+09:21:01 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+09:21:24 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+09:24:20 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+..\src\pz2.cpp:70:37: 警告: non-static data member initializers only available with -std=c++11 or -std=gnu++11 [デフォルトで有効]
+..\src\pz2.cpp:73:1: 警告: non-static data member initializers only available with -std=c++11 or -std=gnu++11 [デフォルトで有効]
+..\src\pz2.cpp:84:17: エラー: ISO C++ forbids in-class initialization of non-const static member 'costs::lv'
+..\src\pz2.cpp:129:1: エラー: expected '}' at end of input
+..\src\pz2.cpp:70:37: 警告: extended initializer lists only available with -std=c++11 or -std=gnu++11 [デフォルトで有効]
+..\src\pz2.cpp:70:37: エラー: too many initializers for 'int [0][4]'
+..\src\pz2.cpp:73:1: 警告: extended initializer lists only available with -std=c++11 or -std=gnu++11 [デフォルトで有効]
+..\src\pz2.cpp: メンバ関数 'int costs::main()' 内:
+..\src\pz2.cpp:129:1: 警告: 非 void を戻す関数内に return 文がありません [-Wreturn-type]
+..\src\pz2.cpp: 大域スコープ:
+..\src\pz2.cpp:129:1: エラー: expected unqualified-id at end of input
+09:24:26 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+09:24:43 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+09:25:35 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+09:26:08 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+09:27:02 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+09:38:22 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+..\src\pz2.cpp: 関数 'void enumer(int, int, unsigned char)' 内:
+..\src\pz2.cpp:110:24: エラー: too few arguments to function 'void enumer(int, int, unsigned char)'
+..\src\pz2.cpp:85:6: 備考: ここで宣言されています
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+09:38:46 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+Info: Nothing to build for Open
+Info: Nothing to build for Omocha
+09:40:31 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+09:40:48 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+09:41:02 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+09:47:05 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+09:49:40 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+09:50:08 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+09:50:24 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+09:50:34 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+09:50:51 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+09:51:41 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+09:52:18 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+09:54:42 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+09:55:06 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+09:55:18 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+09:55:25 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+09:55:36 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+09:55:40 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+09:59:52 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+..\src\pz2.cpp: 関数 'void printmcosts(unsigned char*)' 内:
+..\src\pz2.cpp:123:12: エラー: ISO C++ はポインタと整数との比較を禁じます [-fpermissive]
+10:00:18 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+10:01:47 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+..\src\pz2.cpp: 関数 'void printm()' 内:
+..\src\pz2.cpp:135:33: エラー: could not convert '(unsigned char*)(& mit.std::_Rb_tree_iterator<_Tp>::operator*<std::pair<const int, costs> >().std::pair<const int, costs>::second.costs::cost)' from 'unsigned char*' to 'costs'
+Info: Nothing to build for Open
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+10:01:59 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+Info: Nothing to build for Open
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+10:02:18 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+Info: Nothing to build for Open
+Info: Nothing to build for Omocha
+10:02:30 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+10:07:51 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+10:08:38 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+..\src\pz2.cpp: 関数 'void enumer(int, int, unsigned char)' 内:
+..\src\pz2.cpp:107:43: 警告: 書式への引数が多すぎます [-Wformat-extra-args]
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+10:08:56 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+10:11:09 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+Info: Nothing to build for Open
+Info: Nothing to build for Omocha
+10:12:01 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+10:12:27 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+10:12:42 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+10:12:55 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+10:14:16 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+10:14:44 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+10:15:14 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+10:15:48 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+10:16:34 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+10:17:17 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+10:17:27 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+10:18:12 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+10:38:49 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+..\src\pz2.cpp:32:24: 警告: non-static data member initializers only available with -std=c++11 or -std=gnu++11 [デフォルトで有効]
+..\src\pz2.cpp:32:24: 警告: extended initializer lists only available with -std=c++11 or -std=gnu++11 [デフォルトで有効]
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+10:39:11 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+Info: Nothing to build for Open
+Info: Nothing to build for Omocha
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+10:48:03 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+..\src\pz2.cpp: 関数 'state convertInit(const string&)' 内:
+..\src\pz2.cpp:121:43: エラー: return type 'struct state' is incomplete
+..\src\pz2.cpp:122:8: エラー: aggregate 'state a' has incomplete type and cannot be defined
+Info: Nothing to build for Open
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+10:48:17 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+..\src\pz2.cpp: 関数 'state convertInit(const string&)' 内:
+..\src\pz2.cpp:121:43: エラー: return type 'struct state' is incomplete
+..\src\pz2.cpp:122:15: エラー: aggregate 'state a' has incomplete type and cannot be defined
+Info: Nothing to build for Open
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+10:48:52 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+..\src\pz2.cpp: 関数 'int main()' 内:
+..\src\pz2.cpp:132:8: 警告: 変数 'sl' が設定されましたが使用されていません [-Wunused-but-set-variable]
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+Info: Nothing to build for Open
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+Info: Nothing to build for Omocha
+Info: Nothing to build for Open
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+10:49:17 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+Info: Nothing to build for Open
+Info: Nothing to build for Omocha
+10:50:48 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+..\src\pz2.cpp: 関数 'int main()' 内:
+..\src\pz2.cpp:130:25: エラー: 'init[0]' 内の 'operator[]' が適合しません
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+10:51:00 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+Info: Nothing to build for Open
+Info: Nothing to build for Omocha
+10:51:37 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+10:53:55 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+..\src\pz2.cpp: 関数 'State createInitState(const string&)' 内:
+..\src\pz2.cpp:125:30: 警告: 符号付きと符号無しの整数式の間での比較です [-Wsign-compare]
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+Info: Nothing to build for Open
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+10:54:14 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+Info: Nothing to build for Open
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+10:55:52 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+Info: Nothing to build for Open
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+10:55:55 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+..\src\pz2.cpp: 関数 'State createInitState(const string&)' 内:
+..\src\pz2.cpp:125:32: 警告: 符号付きと符号無しの整数式の間での比較です [-Wsign-compare]
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+Info: Nothing to build for Open
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+10:55:59 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+Info: Nothing to build for Open
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+10:58:20 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+..\src\pz2.cpp: 関数 'State createInitState(const string&)' 内:
+..\src\pz2.cpp:128:8: エラー: case ラベルを整数定数に還元できません
+..\src\pz2.cpp:126:8: 警告: 使用されない変数 'c' です [-Wunused-variable]
+Info: Nothing to build for Open
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+10:58:36 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+Info: Nothing to build for Open
+Info: Nothing to build for Omocha
+11:09:41 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+..\src\pz2.cpp: 関数 'State createInitState(const string&)' 内:
+..\src\pz2.cpp:128:30: 警告: 符号付きと符号無しの整数式の間での比較です [-Wsign-compare]
+..\src\pz2.cpp:139:6: エラー: 'a[0]' 内の 'operator[]' が適合しません
+..\src\pz2.cpp:139:29: 警告: '<<' 内にある '-' の周りに小括弧を付けることを推奨します [-Wparentheses]
+11:10:00 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+..\src\pz2.cpp: 関数 'State createInitState(const string&)' 内:
+..\src\pz2.cpp:139:6: エラー: 'a[0]' 内の 'operator[]' が適合しません
+11:10:12 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+..\src\pz2.cpp: 関数 'State createInitState(const string&)' 内:
+..\src\pz2.cpp:139:6: エラー: 'a[0]' 内の 'operator[]' が適合しません
+11:10:27 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+11:11:00 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+11:12:50 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+..\src\pz2.cpp: 関数 'State createInitState(const string&)' 内:
+..\src\pz2.cpp:130:27: 警告: 書式 '%s' は引数の型が 'char*' であると予期されますが、第 2 引数の型は 'int' です [-Wformat]
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+11:13:13 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+11:13:24 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+11:13:56 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+11:15:01 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+11:16:16 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+11:20:22 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+..\src\pz2.cpp: 関数 'State createInitState(const string&)' 内:
+..\src\pz2.cpp:140:35: エラー: expected ')' before ';' token
+11:20:33 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+11:29:34 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:65:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_function.h: In instantiation of 'bool std::less<_Tp>::operator()(const _Tp&, const _Tp&) const [with _Tp = State]':
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_map.h:457:2:   required from 'std::map<_Key, _Tp, _Compare, _Alloc>::mapped_type& std::map<_Key, _Tp, _Compare, _Alloc>::operator[](const key_type&) [with _Key = State; _Tp = costs; _Compare = std::less<State>; _Alloc = std::allocator<std::pair<const State, costs> >; std::map<_Key, _Tp, _Compare, _Alloc>::mapped_type = costs; std::map<_Key, _Tp, _Compare, _Alloc>::key_type = State]'
+..\src\pz2.cpp:150:21:   required from here
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_function.h:237:22: エラー: 'operator<' で '__x < __y' 内にあるものが適合しません
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_function.h:237:22: 備考: 候補:
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_algobase.h:65:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:63,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_pair.h:212:5: 備考: template<class _T1, class _T2> bool std::operator<(const std::pair<_T1, _T2>&, const std::pair<_T1, _T2>&)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_pair.h:212:5: 備考:   template argument deduction/substitution failed:
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:65:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_function.h:237:22: 備考:   'const State' is not derived from 'const std::pair<_T1, _T2>'
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_algobase.h:68:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:63,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_iterator.h:299:5: 備考: template<class _Iterator> bool std::operator<(const std::reverse_iterator<_Iterator>&, const std::reverse_iterator<_Iterator>&)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_iterator.h:299:5: 備考:   template argument deduction/substitution failed:
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:65:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_function.h:237:22: 備考:   'const State' is not derived from 'const std::reverse_iterator<_Iterator>'
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_algobase.h:68:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:63,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_iterator.h:349:5: 備考: template<class _IteratorL, class _IteratorR> bool std::operator<(const std::reverse_iterator<_IteratorL>&, const std::reverse_iterator<_IteratorR>&)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_iterator.h:349:5: 備考:   template argument deduction/substitution failed:
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:65:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_function.h:237:22: 備考:   'const State' is not derived from 'const std::reverse_iterator<_IteratorL>'
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60:0,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:873:5: 備考: template<class _Key, class _Val, class _KeyOfValue, class _Compare, class _Alloc> bool std::operator<(const std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>&, const std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>&)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:873:5: 備考:   template argument deduction/substitution failed:
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:65:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_function.h:237:22: 備考:   'const State' is not derived from 'const std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>'
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:61:0,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_set.h:721:5: 備考: template<class _Key, class _Compare, class _Alloc> bool std::operator<(const std::set<_Key, _Compare, _Alloc>&, const std::set<_Key, _Compare, _Alloc>&)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_set.h:721:5: 備考:   template argument deduction/substitution failed:
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:65:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_function.h:237:22: 備考:   'const State' is not derived from 'const std::set<_Key, _Compare, _Alloc>'
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:62:0,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_multiset.h:702:5: 備考: template<class _Key, class _Compare, class _Alloc> bool std::operator<(const std::multiset<_Key, _Compare, _Alloc>&, const std::multiset<_Key, _Compare, _Alloc>&)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_multiset.h:702:5: 備考:   template argument deduction/substitution failed:
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:65:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_function.h:237:22: 備考:   'const State' is not derived from 'const std::multiset<_Key, _Compare, _Alloc>'
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/map:61:0,
+                 from ..\src\pz2.cpp:9:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_map.h:906:5: 備考: template<class _Key, class _Tp, class _Compare, class _Alloc> bool std::operator<(const std::map<_Key, _Tp, _Compare, _Alloc>&, const std::map<_Key, _Tp, _Compare, _Alloc>&)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_map.h:906:5: 備考:   template argument deduction/substitution failed:
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:65:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_function.h:237:22: 備考:   'const State' is not derived from 'const std::map<_Key, _Tp, _Compare, _Alloc>'
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/map:62:0,
+                 from ..\src\pz2.cpp:9:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_multimap.h:822:5: 備考: template<class _Key, class _Tp, class _Compare, class _Alloc> bool std::operator<(const std::multimap<_Key, _Tp, _Compare, _Alloc>&, const std::multimap<_Key, _Tp, _Compare, _Alloc>&)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_multimap.h:822:5: 備考:   template argument deduction/substitution failed:
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:65:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_function.h:237:22: 備考:   'const State' is not derived from 'const std::multimap<_Key, _Tp, _Compare, _Alloc>'
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/string:54:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/locale_classes.h:42,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/ios_base.h:43,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/ios:43,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/ostream:40,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/iostream:40,
+                 from ..\src\pz2.cpp:13:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/basic_string.h:2566:5: 備考: template<class _CharT, class _Traits, class _Alloc> bool std::operator<(const std::basic_string<_CharT, _Traits, _Alloc>&, const std::basic_string<_CharT, _Traits, _Alloc>&)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/basic_string.h:2566:5: 備考:   template argument deduction/substitution failed:
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:65:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_function.h:237:22: 備考:   'const State' is not derived from 'const std::basic_string<_CharT, _Traits, _Alloc>'
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/string:54:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/locale_classes.h:42,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/ios_base.h:43,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/ios:43,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/ostream:40,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/iostream:40,
+                 from ..\src\pz2.cpp:13:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/basic_string.h:2578:5: 備考: template<class _CharT, class _Traits, class _Alloc> bool std::operator<(const std::basic_string<_CharT, _Traits, _Alloc>&, const _CharT*)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/basic_string.h:2578:5: 備考:   template argument deduction/substitution failed:
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:65:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_function.h:237:22: 備考:   'const State' is not derived from 'const std::basic_string<_CharT, _Traits, _Alloc>'
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/string:54:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/locale_classes.h:42,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/ios_base.h:43,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/ios:43,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/ostream:40,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/iostream:40,
+                 from ..\src\pz2.cpp:13:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/basic_string.h:2590:5: 備考: template<class _CharT, class _Traits, class _Alloc> bool std::operator<(const _CharT*, const std::basic_string<_CharT, _Traits, _Alloc>&)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/basic_string.h:2590:5: 備考:   template argument deduction/substitution failed:
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:65:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_function.h:237:22: 備考:   mismatched types 'const _CharT*' and 'State'
+11:30:13 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:65:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_function.h: In instantiation of 'bool std::less<_Tp>::operator()(const _Tp&, const _Tp&) const [with _Tp = State]':
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_map.h:457:2:   required from 'std::map<_Key, _Tp, _Compare, _Alloc>::mapped_type& std::map<_Key, _Tp, _Compare, _Alloc>::operator[](const key_type&) [with _Key = State; _Tp = costs; _Compare = std::less<State>; _Alloc = std::allocator<std::pair<const State, costs> >; std::map<_Key, _Tp, _Compare, _Alloc>::mapped_type = costs; std::map<_Key, _Tp, _Compare, _Alloc>::key_type = State]'
+..\src\pz2.cpp:150:9:   required from here
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_function.h:237:22: エラー: 'operator<' で '__x < __y' 内にあるものが適合しません
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_function.h:237:22: 備考: 候補:
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_algobase.h:65:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:63,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_pair.h:212:5: 備考: template<class _T1, class _T2> bool std::operator<(const std::pair<_T1, _T2>&, const std::pair<_T1, _T2>&)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_pair.h:212:5: 備考:   template argument deduction/substitution failed:
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:65:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_function.h:237:22: 備考:   'const State' is not derived from 'const std::pair<_T1, _T2>'
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_algobase.h:68:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:63,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_iterator.h:299:5: 備考: template<class _Iterator> bool std::operator<(const std::reverse_iterator<_Iterator>&, const std::reverse_iterator<_Iterator>&)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_iterator.h:299:5: 備考:   template argument deduction/substitution failed:
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:65:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_function.h:237:22: 備考:   'const State' is not derived from 'const std::reverse_iterator<_Iterator>'
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_algobase.h:68:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:63,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_iterator.h:349:5: 備考: template<class _IteratorL, class _IteratorR> bool std::operator<(const std::reverse_iterator<_IteratorL>&, const std::reverse_iterator<_IteratorR>&)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_iterator.h:349:5: 備考:   template argument deduction/substitution failed:
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:65:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_function.h:237:22: 備考:   'const State' is not derived from 'const std::reverse_iterator<_IteratorL>'
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60:0,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:873:5: 備考: template<class _Key, class _Val, class _KeyOfValue, class _Compare, class _Alloc> bool std::operator<(const std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>&, const std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>&)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:873:5: 備考:   template argument deduction/substitution failed:
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:65:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_function.h:237:22: 備考:   'const State' is not derived from 'const std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>'
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:61:0,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_set.h:721:5: 備考: template<class _Key, class _Compare, class _Alloc> bool std::operator<(const std::set<_Key, _Compare, _Alloc>&, const std::set<_Key, _Compare, _Alloc>&)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_set.h:721:5: 備考:   template argument deduction/substitution failed:
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:65:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_function.h:237:22: 備考:   'const State' is not derived from 'const std::set<_Key, _Compare, _Alloc>'
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:62:0,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_multiset.h:702:5: 備考: template<class _Key, class _Compare, class _Alloc> bool std::operator<(const std::multiset<_Key, _Compare, _Alloc>&, const std::multiset<_Key, _Compare, _Alloc>&)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_multiset.h:702:5: 備考:   template argument deduction/substitution failed:
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:65:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_function.h:237:22: 備考:   'const State' is not derived from 'const std::multiset<_Key, _Compare, _Alloc>'
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/map:61:0,
+                 from ..\src\pz2.cpp:9:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_map.h:906:5: 備考: template<class _Key, class _Tp, class _Compare, class _Alloc> bool std::operator<(const std::map<_Key, _Tp, _Compare, _Alloc>&, const std::map<_Key, _Tp, _Compare, _Alloc>&)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_map.h:906:5: 備考:   template argument deduction/substitution failed:
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:65:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_function.h:237:22: 備考:   'const State' is not derived from 'const std::map<_Key, _Tp, _Compare, _Alloc>'
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/map:62:0,
+                 from ..\src\pz2.cpp:9:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_multimap.h:822:5: 備考: template<class _Key, class _Tp, class _Compare, class _Alloc> bool std::operator<(const std::multimap<_Key, _Tp, _Compare, _Alloc>&, const std::multimap<_Key, _Tp, _Compare, _Alloc>&)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_multimap.h:822:5: 備考:   template argument deduction/substitution failed:
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:65:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_function.h:237:22: 備考:   'const State' is not derived from 'const std::multimap<_Key, _Tp, _Compare, _Alloc>'
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/string:54:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/locale_classes.h:42,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/ios_base.h:43,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/ios:43,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/ostream:40,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/iostream:40,
+                 from ..\src\pz2.cpp:13:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/basic_string.h:2566:5: 備考: template<class _CharT, class _Traits, class _Alloc> bool std::operator<(const std::basic_string<_CharT, _Traits, _Alloc>&, const std::basic_string<_CharT, _Traits, _Alloc>&)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/basic_string.h:2566:5: 備考:   template argument deduction/substitution failed:
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:65:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_function.h:237:22: 備考:   'const State' is not derived from 'const std::basic_string<_CharT, _Traits, _Alloc>'
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/string:54:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/locale_classes.h:42,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/ios_base.h:43,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/ios:43,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/ostream:40,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/iostream:40,
+                 from ..\src\pz2.cpp:13:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/basic_string.h:2578:5: 備考: template<class _CharT, class _Traits, class _Alloc> bool std::operator<(const std::basic_string<_CharT, _Traits, _Alloc>&, const _CharT*)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/basic_string.h:2578:5: 備考:   template argument deduction/substitution failed:
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:65:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_function.h:237:22: 備考:   'const State' is not derived from 'const std::basic_string<_CharT, _Traits, _Alloc>'
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/string:54:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/locale_classes.h:42,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/ios_base.h:43,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/ios:43,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/ostream:40,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/iostream:40,
+                 from ..\src\pz2.cpp:13:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/basic_string.h:2590:5: 備考: template<class _CharT, class _Traits, class _Alloc> bool std::operator<(const _CharT*, const std::basic_string<_CharT, _Traits, _Alloc>&)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/basic_string.h:2590:5: 備考:   template argument deduction/substitution failed:
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:65:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_function.h:237:22: 備考:   mismatched types 'const _CharT*' and 'State'
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+11:33:16 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+Info: Nothing to build for Open
+Info: Nothing to build for Omocha
+11:33:35 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:65:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_function.h: In instantiation of 'bool std::less<_Tp>::operator()(const _Tp&, const _Tp&) const [with _Tp = State]':
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_map.h:457:2:   required from 'std::map<_Key, _Tp, _Compare, _Alloc>::mapped_type& std::map<_Key, _Tp, _Compare, _Alloc>::operator[](const key_type&) [with _Key = State; _Tp = costs; _Compare = std::less<State>; _Alloc = std::allocator<std::pair<const State, costs> >; std::map<_Key, _Tp, _Compare, _Alloc>::mapped_type = costs; std::map<_Key, _Tp, _Compare, _Alloc>::key_type = State]'
+..\src\pz2.cpp:153:9:   required from here
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_function.h:237:22: エラー: 'operator<' で '__x < __y' 内にあるものが適合しません
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_function.h:237:22: 備考: 候補:
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_algobase.h:65:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:63,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_pair.h:212:5: 備考: template<class _T1, class _T2> bool std::operator<(const std::pair<_T1, _T2>&, const std::pair<_T1, _T2>&)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_pair.h:212:5: 備考:   template argument deduction/substitution failed:
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:65:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_function.h:237:22: 備考:   'const State' is not derived from 'const std::pair<_T1, _T2>'
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_algobase.h:68:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:63,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_iterator.h:299:5: 備考: template<class _Iterator> bool std::operator<(const std::reverse_iterator<_Iterator>&, const std::reverse_iterator<_Iterator>&)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_iterator.h:299:5: 備考:   template argument deduction/substitution failed:
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:65:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_function.h:237:22: 備考:   'const State' is not derived from 'const std::reverse_iterator<_Iterator>'
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_algobase.h:68:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:63,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_iterator.h:349:5: 備考: template<class _IteratorL, class _IteratorR> bool std::operator<(const std::reverse_iterator<_IteratorL>&, const std::reverse_iterator<_IteratorR>&)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_iterator.h:349:5: 備考:   template argument deduction/substitution failed:
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:65:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_function.h:237:22: 備考:   'const State' is not derived from 'const std::reverse_iterator<_IteratorL>'
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60:0,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:873:5: 備考: template<class _Key, class _Val, class _KeyOfValue, class _Compare, class _Alloc> bool std::operator<(const std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>&, const std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>&)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:873:5: 備考:   template argument deduction/substitution failed:
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:65:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_function.h:237:22: 備考:   'const State' is not derived from 'const std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>'
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:61:0,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_set.h:721:5: 備考: template<class _Key, class _Compare, class _Alloc> bool std::operator<(const std::set<_Key, _Compare, _Alloc>&, const std::set<_Key, _Compare, _Alloc>&)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_set.h:721:5: 備考:   template argument deduction/substitution failed:
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:65:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_function.h:237:22: 備考:   'const State' is not derived from 'const std::set<_Key, _Compare, _Alloc>'
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:62:0,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_multiset.h:702:5: 備考: template<class _Key, class _Compare, class _Alloc> bool std::operator<(const std::multiset<_Key, _Compare, _Alloc>&, const std::multiset<_Key, _Compare, _Alloc>&)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_multiset.h:702:5: 備考:   template argument deduction/substitution failed:
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:65:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_function.h:237:22: 備考:   'const State' is not derived from 'const std::multiset<_Key, _Compare, _Alloc>'
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/map:61:0,
+                 from ..\src\pz2.cpp:9:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_map.h:906:5: 備考: template<class _Key, class _Tp, class _Compare, class _Alloc> bool std::operator<(const std::map<_Key, _Tp, _Compare, _Alloc>&, const std::map<_Key, _Tp, _Compare, _Alloc>&)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_map.h:906:5: 備考:   template argument deduction/substitution failed:
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:65:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_function.h:237:22: 備考:   'const State' is not derived from 'const std::map<_Key, _Tp, _Compare, _Alloc>'
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/map:62:0,
+                 from ..\src\pz2.cpp:9:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_multimap.h:822:5: 備考: template<class _Key, class _Tp, class _Compare, class _Alloc> bool std::operator<(const std::multimap<_Key, _Tp, _Compare, _Alloc>&, const std::multimap<_Key, _Tp, _Compare, _Alloc>&)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_multimap.h:822:5: 備考:   template argument deduction/substitution failed:
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:65:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_function.h:237:22: 備考:   'const State' is not derived from 'const std::multimap<_Key, _Tp, _Compare, _Alloc>'
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/string:54:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/locale_classes.h:42,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/ios_base.h:43,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/ios:43,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/ostream:40,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/iostream:40,
+                 from ..\src\pz2.cpp:13:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/basic_string.h:2566:5: 備考: template<class _CharT, class _Traits, class _Alloc> bool std::operator<(const std::basic_string<_CharT, _Traits, _Alloc>&, const std::basic_string<_CharT, _Traits, _Alloc>&)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/basic_string.h:2566:5: 備考:   template argument deduction/substitution failed:
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:65:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_function.h:237:22: 備考:   'const State' is not derived from 'const std::basic_string<_CharT, _Traits, _Alloc>'
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/string:54:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/locale_classes.h:42,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/ios_base.h:43,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/ios:43,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/ostream:40,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/iostream:40,
+                 from ..\src\pz2.cpp:13:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/basic_string.h:2578:5: 備考: template<class _CharT, class _Traits, class _Alloc> bool std::operator<(const std::basic_string<_CharT, _Traits, _Alloc>&, const _CharT*)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/basic_string.h:2578:5: 備考:   template argument deduction/substitution failed:
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:65:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_function.h:237:22: 備考:   'const State' is not derived from 'const std::basic_string<_CharT, _Traits, _Alloc>'
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/string:54:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/locale_classes.h:42,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/ios_base.h:43,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/ios:43,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/ostream:40,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/iostream:40,
+                 from ..\src\pz2.cpp:13:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/basic_string.h:2590:5: 備考: template<class _CharT, class _Traits, class _Alloc> bool std::operator<(const _CharT*, const std::basic_string<_CharT, _Traits, _Alloc>&)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/basic_string.h:2590:5: 備考:   template argument deduction/substitution failed:
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:65:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_function.h:237:22: 備考:   mismatched types 'const _CharT*' and 'State'
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+11:34:37 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:65:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_function.h: In instantiation of 'bool std::less<_Tp>::operator()(const _Tp&, const _Tp&) const [with _Tp = State]':
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_map.h:457:2:   required from 'std::map<_Key, _Tp, _Compare, _Alloc>::mapped_type& std::map<_Key, _Tp, _Compare, _Alloc>::operator[](const key_type&) [with _Key = State; _Tp = costs; _Compare = std::less<State>; _Alloc = std::allocator<std::pair<const State, costs> >; std::map<_Key, _Tp, _Compare, _Alloc>::mapped_type = costs; std::map<_Key, _Tp, _Compare, _Alloc>::key_type = State]'
+..\src\pz2.cpp:159:9:   required from here
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_function.h:237:22: エラー: passing 'const State' as 'this' argument of 'bool State::operator<(const State&)' discards qualifiers [-fpermissive]
+Info: Nothing to build for Open
+11:34:43 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:65:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_function.h: In instantiation of 'bool std::less<_Tp>::operator()(const _Tp&, const _Tp&) const [with _Tp = State]':
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_map.h:457:2:   required from 'std::map<_Key, _Tp, _Compare, _Alloc>::mapped_type& std::map<_Key, _Tp, _Compare, _Alloc>::operator[](const key_type&) [with _Key = State; _Tp = costs; _Compare = std::less<State>; _Alloc = std::allocator<std::pair<const State, costs> >; std::map<_Key, _Tp, _Compare, _Alloc>::mapped_type = costs; std::map<_Key, _Tp, _Compare, _Alloc>::key_type = State]'
+..\src\pz2.cpp:159:9:   required from here
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_function.h:237:22: エラー: passing 'const State' as 'this' argument of 'bool State::operator<(const State&)' discards qualifiers [-fpermissive]
+11:35:52 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:65:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_function.h: In instantiation of 'bool std::less<_Tp>::operator()(const _Tp&, const _Tp&) const [with _Tp = State]':
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_map.h:457:2:   required from 'std::map<_Key, _Tp, _Compare, _Alloc>::mapped_type& std::map<_Key, _Tp, _Compare, _Alloc>::operator[](const key_type&) [with _Key = State; _Tp = costs; _Compare = std::less<State>; _Alloc = std::allocator<std::pair<const State, costs> >; std::map<_Key, _Tp, _Compare, _Alloc>::mapped_type = costs; std::map<_Key, _Tp, _Compare, _Alloc>::key_type = State]'
+..\src\pz2.cpp:159:9:   required from here
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_function.h:237:22: エラー: passing 'const State' as 'this' argument of 'bool State::operator<(State)' discards qualifiers [-fpermissive]
+11:36:12 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:65:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\pz2.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_function.h: In instantiation of 'bool std::less<_Tp>::operator()(const _Tp&, const _Tp&) const [with _Tp = State]':
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_map.h:457:2:   required from 'std::map<_Key, _Tp, _Compare, _Alloc>::mapped_type& std::map<_Key, _Tp, _Compare, _Alloc>::operator[](const key_type&) [with _Key = State; _Tp = costs; _Compare = std::less<State>; _Alloc = std::allocator<std::pair<const State, costs> >; std::map<_Key, _Tp, _Compare, _Alloc>::mapped_type = costs; std::map<_Key, _Tp, _Compare, _Alloc>::key_type = State]'
+..\src\pz2.cpp:159:9:   required from here
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_function.h:237:22: エラー: passing 'const State' as 'this' argument of 'bool State::operator<(State)' discards qualifiers [-fpermissive]
+11:37:04 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+11:37:24 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+11:45:48 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+..\src\pz2.cpp: 関数 'void swap2(State, int, int)' 内:
+..\src\pz2.cpp:89:6: 警告: 変数 'hd' が設定されましたが使用されていません [-Wunused-but-set-variable]
+..\src\pz2.cpp:89:9: 警告: 変数 'ld' が設定されましたが使用されていません [-Wunused-but-set-variable]
+..\src\pz2.cpp:89:12: 警告: 変数 'hn' が設定されましたが使用されていません [-Wunused-but-set-variable]
+..\src\pz2.cpp:89:15: 警告: 変数 'ln' が設定されましたが使用されていません [-Wunused-but-set-variable]
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+11:45:58 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+13:24:09 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+13:26:04 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+13:29:17 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+13:30:36 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+13:30:54 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+13:33:20 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+13:45:32 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+13:46:24 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+13:46:46 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+13:47:43 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" 
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+13:49:08 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\pz2.o" "..\\src\\pz2.cpp" 
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p3.o" "..\\src\\p3.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" "src\\p3.o" 
+Info: Nothing to build for Open
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+13:49:23 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p3.o" "..\\src\\p3.cpp" 
+..\src\p3.cpp: 関数 'int swap(int, int, int)' 内:
+..\src\p3.cpp:77:22: エラー: 'nonp' was not declared in this scope
+..\src\p3.cpp:85:22: エラー: 'p10' was not declared in this scope
+..\src\p3.cpp:86:1: 警告: 制御が非 void 関数の終りに到達しました [-Wreturn-type]
+Info: Nothing to build for Open
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+13:49:32 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p3.o" "..\\src\\p3.cpp" 
+..\src\p3.cpp: 関数 'void enumer(int, int, unsigned char)' 内:
+..\src\p3.cpp:128:33: エラー: 'swap(int&, int&, int&)' の呼び出しに適合する関数がありません
+..\src\p3.cpp:128:33: 備考: 候補:
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_pair.h:61:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_algobase.h:65,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:63,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\p3.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/move.h:167:5: 備考: template<class _Tp> void std::swap(_Tp&, _Tp&)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/move.h:167:5: 備考:   template argument deduction/substitution failed:
+..\src\p3.cpp:128:33: 備考:   候補では 2 個の引数が予期されますが、3 個の引数が与えられています
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_pair.h:61:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_algobase.h:65,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:63,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60,
+                 from ..\src\p3.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/move.h:186:5: 備考: template<class _Tp, unsigned int _Nm> void std::swap(_Tp (&)[_Nm], _Tp (&)[_Nm])
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/move.h:186:5: 備考:   template argument deduction/substitution failed:
+..\src\p3.cpp:128:33: 備考:   mismatched types '_Tp [_Nm]' and 'int'
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:60:0,
+                 from ..\src\p3.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:911:5: 備考: template<class _Key, class _Val, class _KeyOfValue, class _Compare, class _Alloc> void std::swap(std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>&, std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>&)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_tree.h:911:5: 備考:   template argument deduction/substitution failed:
+..\src\p3.cpp:128:33: 備考:   mismatched types 'std::_Rb_tree<_Key, _Val, _KeyOfValue, _Compare, _Alloc>' and 'int'
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:61:0,
+                 from ..\src\p3.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_set.h:756:5: 備考: template<class _Key, class _Compare, class _Alloc> void std::swap(std::set<_Key, _Compare, _Alloc>&, std::set<_Key, _Compare, _Alloc>&)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_set.h:756:5: 備考:   template argument deduction/substitution failed:
+..\src\p3.cpp:128:33: 備考:   mismatched types 'std::set<_Key, _Compare, _Alloc>' and 'int'
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/set:62:0,
+                 from ..\src\p3.cpp:8:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_multiset.h:737:5: 備考: template<class _Key, class _Compare, class _Alloc> void std::swap(std::multiset<_Key, _Compare, _Alloc>&, std::multiset<_Key, _Compare, _Alloc>&)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_multiset.h:737:5: 備考:   template argument deduction/substitution failed:
+..\src\p3.cpp:128:33: 備考:   mismatched types 'std::multiset<_Key, _Compare, _Alloc>' and 'int'
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/map:61:0,
+                 from ..\src\p3.cpp:9:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_map.h:941:5: 備考: template<class _Key, class _Tp, class _Compare, class _Alloc> void std::swap(std::map<_Key, _Tp, _Compare, _Alloc>&, std::map<_Key, _Tp, _Compare, _Alloc>&)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_map.h:941:5: 備考:   template argument deduction/substitution failed:
+..\src\p3.cpp:128:33: 備考:   mismatched types 'std::map<_Key, _Tp, _Compare, _Alloc>' and 'int'
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/map:62:0,
+                 from ..\src\p3.cpp:9:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_multimap.h:857:5: 備考: template<class _Key, class _Tp, class _Compare, class _Alloc> void std::swap(std::multimap<_Key, _Tp, _Compare, _Alloc>&, std::multimap<_Key, _Tp, _Compare, _Alloc>&)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/stl_multimap.h:857:5: 備考:   template argument deduction/substitution failed:
+..\src\p3.cpp:128:33: 備考:   mismatched types 'std::multimap<_Key, _Tp, _Compare, _Alloc>' and 'int'
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/string:54:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/locale_classes.h:42,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/ios_base.h:43,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/ios:43,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/ostream:40,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/iostream:40,
+                 from ..\src\p3.cpp:13:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/basic_string.h:2714:5: 備考: template<class _CharT, class _Traits, class _Alloc> void std::swap(std::basic_string<_CharT, _Traits, _Alloc>&, std::basic_string<_CharT, _Traits, _Alloc>&)
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/basic_string.h:2714:5: 備考:   template argument deduction/substitution failed:
+..\src\p3.cpp:128:33: 備考:   mismatched types 'std::basic_string<_CharT, _Traits, _Alloc>' and 'int'
+Info: Nothing to build for Open
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+13:54:17 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p3.o" "..\\src\\p3.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" "src\\p3.o" 
+Info: Nothing to build for Open
+Info: Nothing to build for Omocha
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+13:58:24 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p3.o" "..\\src\\p3.cpp" 
+..\src\p3.cpp: 関数 'std::string sCosts(costs)' 内:
+..\src\p3.cpp:143:23: エラー: ?: への被演算子が異なる型 'unsigned char' と 'const char*' を持っています
+..\src\p3.cpp: 関数 'void printm()' 内:
+..\src\p3.cpp:154:29: 警告: 書式 '%d' は引数の型が 'int' であると予期されますが、第 2 引数の型は 'const State' です [-Wformat]
+Info: Nothing to build for Open
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+14:01:05 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p3.o" "..\\src\\p3.cpp" 
+..\src\p3.cpp: 関数 'void printm()' 内:
+..\src\p3.cpp:155:29: 警告: 書式 '%d' は引数の型が 'int' であると予期されますが、第 2 引数の型は 'const State' です [-Wformat]
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" "src\\p3.o" 
+Info: Nothing to build for Open
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+14:03:09 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p3.o" "..\\src\\p3.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" "src\\p3.o" 
+Info: Nothing to build for Open
+Info: Nothing to build for Omocha
+14:33:08 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p3.o" "..\\src\\p3.cpp" 
+..\src\p3.cpp: 関数 'std::string sCosts(costs)' 内:
+..\src\p3.cpp:145:18: エラー: 'unsigned char' から 'const char*' への無効な変換です [-fpermissive]
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/string:55:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/locale_classes.h:42,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/ios_base.h:43,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/ios:43,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/ostream:40,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/iostream:40,
+                 from ..\src\p3.cpp:13:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/basic_string.tcc:214:5: エラー:   initializing argument 1 of 'std::basic_string<_CharT, _Traits, _Alloc>::basic_string(const _CharT*, const _Alloc&) [with _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>]' [-fpermissive]
+14:33:18 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p3.o" "..\\src\\p3.cpp" 
+..\src\p3.cpp: 関数 'std::string sCosts(costs)' 内:
+..\src\p3.cpp:145:19: エラー: 'unsigned char*' から 'const char*' への無効な変換です [-fpermissive]
+In file included from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/string:55:0,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/locale_classes.h:42,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/ios_base.h:43,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/ios:43,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/ostream:40,
+                 from c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/iostream:40,
+                 from ..\src\p3.cpp:13:
+c:\mingw\bin\../lib/gcc/mingw32/4.7.2/include/c++/bits/basic_string.tcc:214:5: エラー:   initializing argument 1 of 'std::basic_string<_CharT, _Traits, _Alloc>::basic_string(const _CharT*, const _Alloc&) [with _CharT = char; _Traits = std::char_traits<char>; _Alloc = std::allocator<char>]' [-fpermissive]
+Info: Nothing to build for Hello
+Info: Nothing to build for Leon
+Info: Nothing to build for Necowaka
+14:33:39 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p3.o" "..\\src\\p3.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" "src\\p3.o" 
+Info: Nothing to build for Open
+Info: Nothing to build for Omocha
+14:34:59 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p3.o" "..\\src\\p3.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" "src\\p3.o" 
+14:35:22 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p3.o" "..\\src\\p3.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" "src\\p3.o" 
+14:39:05 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p3.o" "..\\src\\p3.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" "src\\p3.o" 
+14:39:17 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p3.o" "..\\src\\p3.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" "src\\p3.o" 
+14:39:26 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p3.o" "..\\src\\p3.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" "src\\p3.o" 
+14:40:06 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p3.o" "..\\src\\p3.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" "src\\p3.o" 
+14:40:44 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p3.o" "..\\src\\p3.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" "src\\p3.o" 
+14:40:58 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p3.o" "..\\src\\p3.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" "src\\p3.o" 
+14:44:14 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p3.o" "..\\src\\p3.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" "src\\p3.o" 
+14:44:47 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p3.o" "..\\src\\p3.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" "src\\p3.o" 
+14:50:29 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p3.o" "..\\src\\p3.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" "src\\p3.o" 
+14:50:45 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p3.o" "..\\src\\p3.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" "src\\p3.o" 
+14:51:59 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p3.o" "..\\src\\p3.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" "src\\p3.o" 
+14:52:04 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p3.o" "..\\src\\p3.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" "src\\p3.o" 
+14:52:11 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p3.o" "..\\src\\p3.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" "src\\p3.o" 
+14:52:16 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p3.o" "..\\src\\p3.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" "src\\p3.o" 
+14:52:21 **** Incremental Build of configuration Debug for project Omocha ****
+Info: Internal Builder is used for build
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\p3.o" "..\\src\\p3.cpp" 
+g++ -o Omocha.exe "src\\pz2.o" "src\\pz.o" "src\\p3.o" 
